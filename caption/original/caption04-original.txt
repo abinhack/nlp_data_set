@@ -1,0 +1,151 @@
+1040, Multidão
+1052, Um lugar bem povoado
+1054, Distribuição
+1055, Pessoas tentando pegar algo.
+1058, Grupo de pessoas pedindo ajuda
+1059, fome e sede
+1143, Seca castiga regiões da África
+1144, Somália
+1165, Revolta de nativos
+144, pessoas esperando por algo
+19, indignação
+20, multidão
+2032, A espera
+2033, Multidão
+2035, Braços estendidos
+2037, Desabrigados
+2038, mutirão
+2039, Disputa dos negros.
+2043, Miséria
+21, Sofrimento
+22, Pessoas clamando
+2226, Multidão pedindo ajuda
+2327, Súplica dos negros no campo.
+2330, Multidão
+2331, Guerra por algum retorno.
+2332, dá minha ajuda aí.
+2335, Implorando por comida
+2338, A fome
+2340, Pessoas negras reivindicando
+2444, Clamor por uma vida melhor
+25, Todos em busca de algo
+2528, pessoas pedindo
+270, pessoas pedindo algo
+28, Precisamos de ajuda
+282, pessoas pedindo ajuda
+2838, Nos ajudem!
+2840, Pessoas tentando alcançar algo
+2841, Pessoas clamando por algo
+3022, pessoas negras pedindo
+3023, A injustiça coletiva
+31, Disputa
+32, Multidão
+3228, Tumulto de africanos por algo
+3232, pobreza e fome
+3233, Sofrimento da população.
+33, Pedindo
+3321, Pessoas em protesto
+356, Luta para conseguir suprimento
+36, Pessoas esperando por alguém
+379, Aglomeração de pessoas.
+398, Pessoas amontoadas
+4021, Pessoas de mãos estendidas
+4023, Pessoas com braços estendidos
+4024, Pessoas estendendo a mão.
+4025, Pessoas bravas
+4026, Pessoas aglomeradas.
+4027, pessoas em barreira
+4028, Petição
+4030, Grupo de pessoas negras.
+4032, Povo pedinte
+405, Revolta.
+430, Homens e mulheres reunidos
+495, Pessoas tentando pegar algo.
+5031, Um grupo de pessoas africanas
+5032, Pedido de ajuda
+5033, Refugiados recebendo alimentos
+5034, Africanos em tumulto
+5035, A luta
+5036, Multidão pedindo ajuda
+521, Pessoas em desespero
+58, Pessoas estendendo as mãos
+684, Pessoas pedem algo a câmera.
+687, Revolta
+76, Pobreza
+771, Negros esperando ajuda
+772, multidão reunida no campo
+781, Petição
+783, Pessoas pedindo algo
+788, Povo protestando
+790, Povo negro luta por direitos
+791, Necessidades básicas
+799, Mulher esticando as mãos
+811, Pessoas pedem auxílio.
+820, Comunidade recebe ajuda
+821, Necessitados Afrodescendentes!
+823, Pobreza
+826, A África
+827, Grupo de pessoas.
+828, Pessoas em busca de ajuda
+829, Pessoas pedindo ajuda
+83, Pessoas tentando pegar algo
+830, pedido de socorro
+834, povos
+835, A espera de um milagre
+836, Pessoas lutando contra algo
+837, pessoas querendo algo
+838, Grupo de negros pedindo algo.
+839, Miséria na África
+840, pessoas esperando alguma coisa
+842, Multidão revoltada.
+844, Afrodescendentes em disputa.
+850, Pessoas desesperadas!
+854, Uma sociedade nada fácil
+855, população busca sobrevivência
+856, Pessoas pobres pedindo algo
+858, pessoas sofridas
+859, desespero por ajuda
+861, contingente negro
+862, Pessoas pedindo ajuda.
+863, Pessoas lutando por algo.
+864, Pessoas pedindo ajuda.
+868, Acordem! Nós estamos aqui!!
+870, Desespero e tristeza.
+875, Negros na pobreza
+876, Multidão de pessoas
+878, Muitas pessoas querendo algo.
+879, A multidão indignada
+880, Negros pedindo algo.
+881, Pessoas pobres
+882, Pessoas negras recebendo algo
+883, Nãos.
+885, Multidão estendendo os braços
+886, comunidade carente
+888, População solicitando algo
+889, África
+890, Várias pessoas buscando algo
+891, pessoas estendem as mãos
+892, Uma multidão de pessoas negras
+893, Grupo de negros protestando
+903, Reivindicação
+904, Revolução
+907, ajuda
+908, ajuda
+909, Pessoas pedindo algo
+910, Confusão na distribuição
+911, Quando se quer algo, luta-se!
+914, Povo
+915, agente vai conseguir
+916, Africanos com fome
+917, humanidade para quem?
+918, População pede por ajuda.
+922, Sofrimento do povo nordestino
+934, Necessidade
+935, Homem recebendo algo.
+94, Multidão de pessoas negras
+945, Multidão suplicante
+946, Manifesto
+947, Multidão
+951, Pessoas de braços estendidos
+982, Campo de refugiados
+991, Protestos na África

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<TRIAL ID="44" SPEAKER="834" AGE="19" EXT="4.38" AGR="3.78" CON="3.56" NEU="3.00" OPE="4.00" ASSERTIVENESS="4.40" ACTIVITY="4.50" ALTRUISM="4.50" COMPLIANCE="2.67" ORDER="2.00" SELFDISCIPLINE="3.80" ANSIETY="3.00" DEPRESSION="3.00" AESTHETICS="3.33" IDEAS="4.20">
+
+  <CONTEXT ID="1">
+    <ATTRIBUTE-SET TARGET="a" STRING="olhar triste, olhos bem fechados, sobrancelhas grossas, nariz um pouco achatado, lábios carnudos, cabelos pretos e bem curto.">
+      <ATTRIBUTE NAME="hair.colour" VALUE="dark" />
+      <ATTRIBUTE NAME="hair.length" VALUE="short" />
+      <ATTRIBUTE NAME="emotion" VALUE="negative" />
+      <ATTRIBUTE NAME="eyebrows" VALUE="other" />
+      <ATTRIBUTE NAME="nose" VALUE="other" />
+      <ATTRIBUTE NAME="lips" VALUE="other" />
+      <ATTRIBUTE NAME="narrow.eyed" VALUE="yes" />
+    </ATTRIBUTE-SET>
+  </CONTEXT>
+
+  <CONTEXT ID="2">
+    <ATTRIBUTE-SET TARGET="d" STRING="olhar fixo, sobrancelhas bem definidas, nariz fino, lábios fino, face branca, rosto aparentemente liso sem marcas, duas franja sobre o rosto.">
+      <ATTRIBUTE NAME="eyebrows" VALUE="other" />
+      <ATTRIBUTE NAME="skin" VALUE="fair" />
+      <ATTRIBUTE NAME="nose" VALUE="other" />
+      <ATTRIBUTE NAME="face" VALUE="other" />
+      <ATTRIBUTE NAME="lips" VALUE="other" />
+      <ATTRIBUTE NAME="eyes" VALUE="other" />
+      <ATTRIBUTE NAME="fringe" VALUE="yes" />
+    </ATTRIBUTE-SET>
+  </CONTEXT>
+
+  <CONTEXT ID="3">
+    <ATTRIBUTE-SET TARGET="f" STRING="mulher com características únicas, e face bem sofrida, e semblante de não satisfeita.">
+      <ATTRIBUTE NAME="gender" VALUE="female" />
+      <ATTRIBUTE NAME="emotion" VALUE="negative" />
+    </ATTRIBUTE-SET>
+  </CONTEXT>
+
+  <CONTEXT ID="4">
+    <ATTRIBUTE-SET TARGET="c" STRING="olhar com maldade, nariz fino, cabelos arrepiados, pescoço longo.">
+      <ATTRIBUTE NAME="emotion" VALUE="negative" />
+      <ATTRIBUTE NAME="nose" VALUE="other" />
+      <ATTRIBUTE NAME="face" VALUE="other" />
+      <ATTRIBUTE NAME="unkempt" VALUE="yes" />
+    </ATTRIBUTE-SET>
+  </CONTEXT>
+
+  <CONTEXT ID="5">
+    <ATTRIBUTE-SET TARGET="b" STRING="rosto com várias manchas, olhos azuis, sorriso não completo, cabelos meio que loiros.">
+      <ATTRIBUTE NAME="smile" VALUE="yes" />
+      <ATTRIBUTE NAME="hair.colour" VALUE="blonde" />
+      <ATTRIBUTE NAME="eye.colour" VALUE="light" />
+      <ATTRIBUTE NAME="spots" VALUE="yes" />
+    </ATTRIBUTE-SET>
+  </CONTEXT>
+
+  <CONTEXT ID="6">
+    <ATTRIBUTE-SET TARGET="e" STRING="belo sorriso, olhos praticamente fechados, sobrancelhas não muito definidas, cabelo bem curto e preto.">
+      <ATTRIBUTE NAME="smile" VALUE="yes" />
+      <ATTRIBUTE NAME="hair.colour" VALUE="dark" />
+      <ATTRIBUTE NAME="hair.length" VALUE="short" />
+      <ATTRIBUTE NAME="eyebrows" VALUE="other" />
+      <ATTRIBUTE NAME="eyes" VALUE="other" />
+    </ATTRIBUTE-SET>
+  </CONTEXT>
+
+  <CONTEXT ID="7">
+    <ATTRIBUTE-SET TARGET="e" STRING="sorriso sereno, olhos achatados, manchinhas no rosto, sorriso bem branco, cabelos espetados, cor branca, olhos claros, sobrancelhas finas.">
+      <ATTRIBUTE NAME="race" VALUE="caucasian" />
+      <ATTRIBUTE NAME="smile" VALUE="yes" />
+      <ATTRIBUTE NAME="eye.colour" VALUE="light" />
+      <ATTRIBUTE NAME="eyebrows" VALUE="other" />
+      <ATTRIBUTE NAME="skin" VALUE="fair" />
+      <ATTRIBUTE NAME="face" VALUE="other" />
+      <ATTRIBUTE NAME="spots" VALUE="yes" />
+      <ATTRIBUTE NAME="eyes" VALUE="other" />
+      <ATTRIBUTE NAME="hair" VALUE="other" />
+    </ATTRIBUTE-SET>
+  </CONTEXT>
+
+  <CONTEXT ID="8">
+    <ATTRIBUTE-SET TARGET="b" STRING="sorriso leve, cor morena, cabelos pretos, olhos pretos, face redonda, sobrancelhas finas.">
+      <ATTRIBUTE NAME="smile" VALUE="yes" />
+      <ATTRIBUTE NAME="hair.colour" VALUE="dark" />
+      <ATTRIBUTE NAME="eye.colour" VALUE="dark" />
+      <ATTRIBUTE NAME="eyebrows" VALUE="other" />
+      <ATTRIBUTE NAME="skin" VALUE="dark" />
+      <ATTRIBUTE NAME="shape" VALUE="other" />
+    </ATTRIBUTE-SET>
+  </CONTEXT>
+
+  <CONTEXT ID="9">
+    <ATTRIBUTE-SET TARGET="c" STRING="olhos pretos, sobrancelhas finas, cor negra, lábios carnudos">
+      <ATTRIBUTE NAME="eye.colour" VALUE="dark" />
+      <ATTRIBUTE NAME="eyebrows" VALUE="other" />
+      <ATTRIBUTE NAME="skin" VALUE="dark" />
+      <ATTRIBUTE NAME="lips" VALUE="other" />
+    </ATTRIBUTE-SET>
+  </CONTEXT>
+
+  <CONTEXT ID="10">
+    <ATTRIBUTE-SET TARGET="f" STRING="olhos tristes, olhos azuis, cor branca, cabelos cacheados, marcas de acne na face, e barba na queixo.">
+      <ATTRIBUTE NAME="emotion" VALUE="neutral" />
+      <ATTRIBUTE NAME="eye.colour" VALUE="light" />
+      <ATTRIBUTE NAME="skin" VALUE="fair" />
+      <ATTRIBUTE NAME="hair.style" VALUE="curly" />
+      <ATTRIBUTE NAME="facial.hair" VALUE="yes" />
+      <ATTRIBUTE NAME="spots" VALUE="yes" />
+    </ATTRIBUTE-SET>
+  </CONTEXT>
+
+  <CONTEXT ID="11">
+    <ATTRIBUTE-SET TARGET="d" STRING="olhar fixo, olhos pretos, sobrancelhas grossas, cor negra, cabelos amarrados para trás, barba no queixo.">
+      <ATTRIBUTE NAME="race" VALUE="black" />
+      <ATTRIBUTE NAME="emotion" VALUE="neutral" />
+      <ATTRIBUTE NAME="eye.colour" VALUE="dark" />
+      <ATTRIBUTE NAME="ponytail" VALUE="yes" />
+      <ATTRIBUTE NAME="eyebrows" VALUE="other" />
+      <ATTRIBUTE NAME="facial.hair" VALUE="yes" />
+    </ATTRIBUTE-SET>
+  </CONTEXT>
+
+  <CONTEXT ID="12">
+    <ATTRIBUTE-SET TARGET="a" STRING="face serena, cor branca, lábios avermelhados, olhos verdes, sobrancelhas finas, cabelo loiro, e longos até o meio do pescoço, rosto redondo.">
+      <ATTRIBUTE NAME="race" VALUE="caucasian" />
+      <ATTRIBUTE NAME="hair.colour" VALUE="blonde" />
+      <ATTRIBUTE NAME="hair.length" VALUE="short" />
+      <ATTRIBUTE NAME="emotion" VALUE="neutral" />
+      <ATTRIBUTE NAME="eye.colour" VALUE="light" />
+      <ATTRIBUTE NAME="eyebrows" VALUE="other" />
+      <ATTRIBUTE NAME="face" VALUE="other" />
+      <ATTRIBUTE NAME="lips" VALUE="other" />
+      <ATTRIBUTE NAME="shape" VALUE="other" />
+    </ATTRIBUTE-SET>
+  </CONTEXT>
+
+</TRIAL>

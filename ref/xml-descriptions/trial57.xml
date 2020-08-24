@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<TRIAL ID="57" SPEAKER="858" AGE="26" EXT="3.75" AGR="3.44" CON="3.11" NEU="4.13" OPE="3.70" ASSERTIVENESS="3.20" ACTIVITY="4.50" ALTRUISM="4.00" COMPLIANCE="3.33" ORDER="2.50" SELFDISCIPLINE="2.80" ANSIETY="4.00" DEPRESSION="4.50" AESTHETICS="3.33" IDEAS="3.60">
+
+  <CONTEXT ID="1">
+    <ATTRIBUTE-SET TARGET="a" STRING="homem que tem cabelos curto, deve ser acostumado a rapar totalmente seu cabelo, não deve ligar muito para aparência, aparentemente demostra ser uma pessoa que não ligue muito para isso. parece japonês mas diria na minha opinião que é mestiço, tem a sobrancelha grande olhos profundos e pequeno como de japonês, nariz grande e sua boca tem lábios bem cheios.">
+      <ATTRIBUTE NAME="gender" VALUE="male" />
+      <ATTRIBUTE NAME="race" VALUE="asian" />
+      <ATTRIBUTE NAME="hair.length" VALUE="short" />
+      <ATTRIBUTE NAME="eyebrows" VALUE="other" />
+      <ATTRIBUTE NAME="skin" VALUE="dark" />
+      <ATTRIBUTE NAME="nose" VALUE="other" />
+      <ATTRIBUTE NAME="lips" VALUE="other" />
+      <ATTRIBUTE NAME="eyes" VALUE="other" />
+      <ATTRIBUTE NAME="narrow.eyed" VALUE="yes" />
+    </ATTRIBUTE-SET>
+  </CONTEXT>
+
+  <CONTEXT ID="2">
+    <ATTRIBUTE-SET TARGET="d" STRING="mulher que tem cabelos loiro escuro com duas pontas de franjas caídas no rosto, sobrancelhas desenhadas grossa no começo mas fina no final olhos escuros e nariz um pouquinho grande, boca pequena mas larga rosto magro, branca e aparentemente nova.">
+      <ATTRIBUTE NAME="gender" VALUE="female" />
+      <ATTRIBUTE NAME="race" VALUE="caucasian" />
+      <ATTRIBUTE NAME="isyoung" VALUE="yes" />
+      <ATTRIBUTE NAME="hair.colour" VALUE="blonde" />
+      <ATTRIBUTE NAME="eye.colour" VALUE="light" />
+      <ATTRIBUTE NAME="eyebrows" VALUE="other" />
+      <ATTRIBUTE NAME="nose" VALUE="other" />
+      <ATTRIBUTE NAME="face" VALUE="other" />
+      <ATTRIBUTE NAME="shape" VALUE="other" />
+      <ATTRIBUTE NAME="fringe" VALUE="yes" />
+    </ATTRIBUTE-SET>
+  </CONTEXT>
+
+  <CONTEXT ID="3">
+    <ATTRIBUTE-SET TARGET="f" STRING="mulher que parece que está desanimada como se estivesse emburrada com alguma coisa tem os cabelos lisos e testa pequena sobrancelhas grossa parece que não tem o hábito de fazer sobrancelhas ou já faz tempo que não faz tem olhos de japonês e o nariz e grande boca larga mas pequena pescoço largo e fino até parece uma índia.">
+      <ATTRIBUTE NAME="gender" VALUE="female" />
+      <ATTRIBUTE NAME="emotion" VALUE="negative" />
+      <ATTRIBUTE NAME="eyebrows" VALUE="other" />
+      <ATTRIBUTE NAME="hair.style" VALUE="straight" />
+      <ATTRIBUTE NAME="nose" VALUE="other" />
+      <ATTRIBUTE NAME="face" VALUE="other" />
+      <ATTRIBUTE NAME="narrow.eyed" VALUE="yes" />
+    </ATTRIBUTE-SET>
+  </CONTEXT>
+
+  <CONTEXT ID="4">
+    <ATTRIBUTE-SET TARGET="c" STRING="homem cabelo liso, cortado mas parece que picotaram o cabelo dele aparentemente ele penteou o cabelo mas pelo meu ponto de vista ele não tem costume de se preocupar com sua estética seus cabelo cobrem metade da testa e tem a sobrancelha fina apesar de ser homem nariz grande e boca pequena queixo também não é grande e o pescoço e grande e fino .">
+      <ATTRIBUTE NAME="gender" VALUE="male" />
+      <ATTRIBUTE NAME="eyebrows" VALUE="other" />
+      <ATTRIBUTE NAME="hair.style" VALUE="straight" />
+      <ATTRIBUTE NAME="nose" VALUE="other" />
+      <ATTRIBUTE NAME="face" VALUE="other" />
+      <ATTRIBUTE NAME="fringe" VALUE="yes" />
+      <ATTRIBUTE NAME="unkempt" VALUE="yes" />
+    </ATTRIBUTE-SET>
+  </CONTEXT>
+
+  <CONTEXT ID="5">
+    <ATTRIBUTE-SET TARGET="b" STRING="homem branco de cabelo bagunçado não penteou o cabelo e parece que não liga pra isso sobrancelha grande nariz e rosto com algumas espinhas mas aparentemente parece feliz pois seu sorriso demonstra sua felicidade.">
+      <ATTRIBUTE NAME="gender" VALUE="male" />
+      <ATTRIBUTE NAME="race" VALUE="caucasian" />
+      <ATTRIBUTE NAME="smile" VALUE="yes" />
+      <ATTRIBUTE NAME="emotion" VALUE="positive" />
+      <ATTRIBUTE NAME="eyebrows" VALUE="other" />
+      <ATTRIBUTE NAME="nose" VALUE="other" />
+      <ATTRIBUTE NAME="spots" VALUE="yes" />
+      <ATTRIBUTE NAME="unkempt" VALUE="yes" />
+    </ATTRIBUTE-SET>
+  </CONTEXT>
+
+  <CONTEXT ID="6">
+    <ATTRIBUTE-SET TARGET="e" STRING="homem que tem cabelo baixo aparentemente não se preocupa com isso tem sobrancelhas e olhos puxados nariz grande e boca larga, dentes brancos e rosto arredondado pescoço baixo e parece ser bem feliz.">
+      <ATTRIBUTE NAME="gender" VALUE="male" />
+      <ATTRIBUTE NAME="hair.length" VALUE="short" />
+      <ATTRIBUTE NAME="emotion" VALUE="positive" />
+      <ATTRIBUTE NAME="eyebrows" VALUE="other" />
+      <ATTRIBUTE NAME="nose" VALUE="other" />
+      <ATTRIBUTE NAME="face" VALUE="other" />
+      <ATTRIBUTE NAME="lips" VALUE="other" />
+      <ATTRIBUTE NAME="shape" VALUE="other" />
+      <ATTRIBUTE NAME="narrow.eyed" VALUE="yes" />
+    </ATTRIBUTE-SET>
+  </CONTEXT>
+
+  <CONTEXT ID="7">
+    <ATTRIBUTE-SET TARGET="e" STRING="mulher ruiva rosto largo boca pequena e nariz grande e longo cabelos maltratados orelhas pequenas e aparentemente não é uma pessoa que liga muito para a estética.">
+      <ATTRIBUTE NAME="gender" VALUE="female" />
+      <ATTRIBUTE NAME="hair.colour" VALUE="blonde" />
+      <ATTRIBUTE NAME="nose" VALUE="other" />
+      <ATTRIBUTE NAME="face" VALUE="other" />
+      <ATTRIBUTE NAME="lips" VALUE="other" />
+      <ATTRIBUTE NAME="hair" VALUE="other" />
+      <ATTRIBUTE NAME="ears" VALUE="other" />
+    </ATTRIBUTE-SET>
+  </CONTEXT>
+
+  <CONTEXT ID="8">
+    <ATTRIBUTE-SET TARGET="b" STRING="mulher com os cabelos lisos e pequenos não passa do pescoço, testa pequena e nariz grande boca pequena e dentes um pouco desorganizados, mostra um sorriso tímido pois pelo seu rosto deve ser tímida.">
+      <ATTRIBUTE NAME="gender" VALUE="female" />
+      <ATTRIBUTE NAME="smile" VALUE="yes" />
+      <ATTRIBUTE NAME="hair.length" VALUE="short" />
+      <ATTRIBUTE NAME="hair.style" VALUE="straight" />
+      <ATTRIBUTE NAME="nose" VALUE="other" />
+      <ATTRIBUTE NAME="face" VALUE="other" />
+    </ATTRIBUTE-SET>
+  </CONTEXT>
+
+  <CONTEXT ID="9">
+    <ATTRIBUTE-SET TARGET="c" STRING="cabelo curto e bem pequeno sobrancelhas finas nariz um pouquinho grande e boca com os lábios bem cheios rosto fino e orelhas pequenas.">
+      <ATTRIBUTE NAME="hair.length" VALUE="short" />
+      <ATTRIBUTE NAME="eyebrows" VALUE="other" />
+      <ATTRIBUTE NAME="nose" VALUE="other" />
+      <ATTRIBUTE NAME="face" VALUE="other" />
+      <ATTRIBUTE NAME="lips" VALUE="other" />
+      <ATTRIBUTE NAME="hair" VALUE="other" />
+      <ATTRIBUTE NAME="shape" VALUE="other" />
+      <ATTRIBUTE NAME="ears" VALUE="other" />
+    </ATTRIBUTE-SET>
+  </CONTEXT>
+
+  <CONTEXT ID="10">
+    <ATTRIBUTE-SET TARGET="f" STRING="cabelo bagunçado, sobrancelhas grandes e nariz gordinho boca pequena e no queixo tem um cavanhaque pescoço cheio e orelhas pequenas não liga muito para estética aparentemente.">
+      <ATTRIBUTE NAME="eyebrows" VALUE="other" />
+      <ATTRIBUTE NAME="nose" VALUE="other" />
+      <ATTRIBUTE NAME="facial.hair" VALUE="yes" />
+      <ATTRIBUTE NAME="face" VALUE="other" />
+      <ATTRIBUTE NAME="unkempt" VALUE="yes" />
+      <ATTRIBUTE NAME="ears" VALUE="other" />
+    </ATTRIBUTE-SET>
+  </CONTEXT>
+
+  <CONTEXT ID="11">
+    <ATTRIBUTE-SET TARGET="d" STRING="homem tem cabelo baixo mas longo não muito cheio de volume bem rasinho, sobrancelhas grossas e nariz grande e gordo em uma barbinha falhada e cavanhaque no queixo.">
+      <ATTRIBUTE NAME="gender" VALUE="male" />
+      <ATTRIBUTE NAME="hair.length" VALUE="long" />
+      <ATTRIBUTE NAME="eyebrows" VALUE="other" />
+      <ATTRIBUTE NAME="nose" VALUE="other" />
+      <ATTRIBUTE NAME="facial.hair" VALUE="yes" />
+      <ATTRIBUTE NAME="hair" VALUE="other" />
+    </ATTRIBUTE-SET>
+  </CONTEXT>
+
+  <CONTEXT ID="12">
+    <ATTRIBUTE-SET TARGET="a" STRING="mulher loira que parece que está usando peruca, sobrancelhas finas e nariz bem longo, boca pequena e um pouquinho cheia, rosto bem gordo e pescoço cheio.">
+      <ATTRIBUTE NAME="gender" VALUE="female" />
+      <ATTRIBUTE NAME="hair.colour" VALUE="blonde" />
+      <ATTRIBUTE NAME="eyebrows" VALUE="other" />
+      <ATTRIBUTE NAME="nose" VALUE="other" />
+      <ATTRIBUTE NAME="face" VALUE="other" />
+      <ATTRIBUTE NAME="hair" VALUE="other" />
+    </ATTRIBUTE-SET>
+  </CONTEXT>
+
+</TRIAL>

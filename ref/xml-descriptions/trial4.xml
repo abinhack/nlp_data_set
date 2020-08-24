@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<TRIAL ID="4" SPEAKER="22" AGE="31" EXT="4.13" AGR="4.11" CON="3.33" NEU="2.75" OPE="3.80" ASSERTIVENESS="4.20" ACTIVITY="3.50" ALTRUISM="4.75" COMPLIANCE="3.00" ORDER="3.50" SELFDISCIPLINE="3.20" ANSIETY="3.75" DEPRESSION="1.50" AESTHETICS="4.33" IDEAS="3.80">
+
+  <CONTEXT ID="1">
+    <ATTRIBUTE-SET TARGET="a" STRING="masculino, com cabelos curtos castanhos, lábios grossos cerrados, nariz largo e olhos puxados (traços orientais).">
+      <ATTRIBUTE NAME="gender" VALUE="male" />
+      <ATTRIBUTE NAME="race" VALUE="asian" />
+      <ATTRIBUTE NAME="hair.colour" VALUE="dark" />
+      <ATTRIBUTE NAME="hair.length" VALUE="short" />
+      <ATTRIBUTE NAME="nose" VALUE="other" />
+      <ATTRIBUTE NAME="lips" VALUE="other" />
+      <ATTRIBUTE NAME="mouth" VALUE="shut" />
+      <ATTRIBUTE NAME="narrow.eyed" VALUE="yes" />
+    </ATTRIBUTE-SET>
+  </CONTEXT>
+
+  <CONTEXT ID="2">
+    <ATTRIBUTE-SET TARGET="d" STRING="feminino, com cabelos presos e feição de seriedade.">
+      <ATTRIBUTE NAME="gender" VALUE="female" />
+      <ATTRIBUTE NAME="smile" VALUE="no" />
+      <ATTRIBUTE NAME="ponytail" VALUE="yes" />
+    </ATTRIBUTE-SET>
+  </CONTEXT>
+
+  <CONTEXT ID="3">
+    <ATTRIBUTE-SET TARGET="f" STRING="feminino. possui olhos puxados, cabelos e olhos castanhos e feição de aborrecimento.">
+      <ATTRIBUTE NAME="gender" VALUE="female" />
+      <ATTRIBUTE NAME="hair.colour" VALUE="dark" />
+      <ATTRIBUTE NAME="emotion" VALUE="negative" />
+      <ATTRIBUTE NAME="eye.colour" VALUE="dark" />
+      <ATTRIBUTE NAME="narrow.eyed" VALUE="yes" />
+    </ATTRIBUTE-SET>
+  </CONTEXT>
+
+  <CONTEXT ID="4">
+    <ATTRIBUTE-SET TARGET="c" STRING="masculino. cabelos e olhos claros, nariz fino e lábios cerrados, com expressão de seriedade.">
+      <ATTRIBUTE NAME="gender" VALUE="male" />
+      <ATTRIBUTE NAME="smile" VALUE="no" />
+      <ATTRIBUTE NAME="hair.colour" VALUE="blonde" />
+      <ATTRIBUTE NAME="eye.colour" VALUE="light" />
+      <ATTRIBUTE NAME="nose" VALUE="other" />
+      <ATTRIBUTE NAME="mouth" VALUE="shut" />
+    </ATTRIBUTE-SET>
+  </CONTEXT>
+
+  <CONTEXT ID="5">
+    <ATTRIBUTE-SET TARGET="b" STRING="masculino. sorridente. olhos e cabelos claros.">
+      <ATTRIBUTE NAME="gender" VALUE="male" />
+      <ATTRIBUTE NAME="smile" VALUE="yes" />
+      <ATTRIBUTE NAME="hair.colour" VALUE="blonde" />
+      <ATTRIBUTE NAME="eye.colour" VALUE="light" />
+    </ATTRIBUTE-SET>
+  </CONTEXT>
+
+  <CONTEXT ID="6">
+    <ATTRIBUTE-SET TARGET="e" STRING="masculino. sorridente.">
+      <ATTRIBUTE NAME="gender" VALUE="male" />
+      <ATTRIBUTE NAME="smile" VALUE="yes" />
+    </ATTRIBUTE-SET>
+  </CONTEXT>
+
+  <CONTEXT ID="7">
+    <ATTRIBUTE-SET TARGET="e" STRING="feminino. sorridente. olhos e cabelos claros.">
+      <ATTRIBUTE NAME="gender" VALUE="female" />
+      <ATTRIBUTE NAME="smile" VALUE="yes" />
+      <ATTRIBUTE NAME="hair.colour" VALUE="blonde" />
+      <ATTRIBUTE NAME="eye.colour" VALUE="light" />
+    </ATTRIBUTE-SET>
+  </CONTEXT>
+
+  <CONTEXT ID="8">
+    <ATTRIBUTE-SET TARGET="b" STRING="feminino. traços orientais. sorridente.">
+      <ATTRIBUTE NAME="gender" VALUE="female" />
+      <ATTRIBUTE NAME="race" VALUE="asian" />
+      <ATTRIBUTE NAME="smile" VALUE="yes" />
+    </ATTRIBUTE-SET>
+  </CONTEXT>
+
+  <CONTEXT ID="9">
+    <ATTRIBUTE-SET TARGET="c" STRING="feminino. negra. cabelos curtos e escuros. olhos escuros e expressão séria.">
+      <ATTRIBUTE NAME="gender" VALUE="female" />
+      <ATTRIBUTE NAME="race" VALUE="black" />
+      <ATTRIBUTE NAME="smile" VALUE="no" />
+      <ATTRIBUTE NAME="hair.colour" VALUE="dark" />
+      <ATTRIBUTE NAME="hair.length" VALUE="short" />
+      <ATTRIBUTE NAME="eye.colour" VALUE="dark" />
+    </ATTRIBUTE-SET>
+  </CONTEXT>
+
+  <CONTEXT ID="10">
+    <ATTRIBUTE-SET TARGET="f" STRING="masculino. olhos e cabelos claros. expressão séria.">
+      <ATTRIBUTE NAME="gender" VALUE="male" />
+      <ATTRIBUTE NAME="smile" VALUE="no" />
+      <ATTRIBUTE NAME="hair.colour" VALUE="blonde" />
+      <ATTRIBUTE NAME="eye.colour" VALUE="light" />
+    </ATTRIBUTE-SET>
+  </CONTEXT>
+
+  <CONTEXT ID="11">
+    <ATTRIBUTE-SET TARGET="d" STRING="masculino. negro. cabelo escuro na altura do queixo, preso. expressão séria.">
+      <ATTRIBUTE NAME="gender" VALUE="male" />
+      <ATTRIBUTE NAME="race" VALUE="black" />
+      <ATTRIBUTE NAME="smile" VALUE="no" />
+      <ATTRIBUTE NAME="hair.colour" VALUE="dark" />
+      <ATTRIBUTE NAME="hair.length" VALUE="long" />
+      <ATTRIBUTE NAME="ponytail" VALUE="yes" />
+    </ATTRIBUTE-SET>
+  </CONTEXT>
+
+  <CONTEXT ID="12">
+    <ATTRIBUTE-SET TARGET="a" STRING="feminino. cabelos claros com altura pouco abaixo do queixo com expressão séria, mas serena.">
+      <ATTRIBUTE NAME="gender" VALUE="female" />
+      <ATTRIBUTE NAME="smile" VALUE="no" />
+      <ATTRIBUTE NAME="hair.colour" VALUE="blonde" />
+      <ATTRIBUTE NAME="hair.length" VALUE="short" />
+      <ATTRIBUTE NAME="emotion" VALUE="neutral" />
+    </ATTRIBUTE-SET>
+  </CONTEXT>
+
+</TRIAL>

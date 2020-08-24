@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<TRIAL ID="15" SPEAKER="144" AGE="23" EXT="2.25" AGR="3.67" CON="2.22" NEU="3.13" OPE="3.20" ASSERTIVENESS="1.80" ACTIVITY="3.00" ALTRUISM="4.00" COMPLIANCE="3.67" ORDER="1.00" SELFDISCIPLINE="2.60" ANSIETY="3.25" DEPRESSION="3.00" AESTHETICS="3.67" IDEAS="2.80">
+
+  <CONTEXT ID="1">
+    <ATTRIBUTE-SET TARGET="a" STRING="o moço asiático, com cara séria, lábios carnudos, sobrancelhas grossas, pardo, cabelo raspado e preto.">
+      <ATTRIBUTE NAME="gender" VALUE="male" />
+      <ATTRIBUTE NAME="race" VALUE="asian" />
+      <ATTRIBUTE NAME="smile" VALUE="no" />
+      <ATTRIBUTE NAME="isyoung" VALUE="yes" />
+      <ATTRIBUTE NAME="hair.colour" VALUE="dark" />
+      <ATTRIBUTE NAME="hair.length" VALUE="short" />
+      <ATTRIBUTE NAME="eyebrows" VALUE="other" />
+      <ATTRIBUTE NAME="skin" VALUE="dark" />
+      <ATTRIBUTE NAME="lips" VALUE="other" />
+    </ATTRIBUTE-SET>
+  </CONTEXT>
+
+  <CONTEXT ID="2">
+    <ATTRIBUTE-SET TARGET="d" STRING="a moça loira, com o cabelo preso, coma franja solta e dividida em 2, com cara de entediada, olheiras, sobrancelhas finas.">
+      <ATTRIBUTE NAME="gender" VALUE="female" />
+      <ATTRIBUTE NAME="isyoung" VALUE="yes" />
+      <ATTRIBUTE NAME="hair.colour" VALUE="blonde" />
+      <ATTRIBUTE NAME="emotion" VALUE="negative" />
+      <ATTRIBUTE NAME="ponytail" VALUE="yes" />
+      <ATTRIBUTE NAME="eyebrows" VALUE="other" />
+      <ATTRIBUTE NAME="eyes" VALUE="other" />
+      <ATTRIBUTE NAME="fringe" VALUE="yes" />
+    </ATTRIBUTE-SET>
+  </CONTEXT>
+
+  <CONTEXT ID="3">
+    <ATTRIBUTE-SET TARGET="f" STRING="a pessoa asiática de cabelos lisos e pretos, com cara de desconfiado.">
+      <ATTRIBUTE NAME="race" VALUE="asian" />
+      <ATTRIBUTE NAME="hair.colour" VALUE="dark" />
+      <ATTRIBUTE NAME="emotion" VALUE="negative" />
+      <ATTRIBUTE NAME="hair.style" VALUE="straight" />
+    </ATTRIBUTE-SET>
+  </CONTEXT>
+
+  <CONTEXT ID="4">
+    <ATTRIBUTE-SET TARGET="c" STRING="o moço sério, de cabelo loiro, liso e relativamente comprido e pescoçudo.">
+      <ATTRIBUTE NAME="gender" VALUE="male" />
+      <ATTRIBUTE NAME="smile" VALUE="no" />
+      <ATTRIBUTE NAME="isyoung" VALUE="yes" />
+      <ATTRIBUTE NAME="hair.colour" VALUE="blonde" />
+      <ATTRIBUTE NAME="hair.length" VALUE="long" />
+      <ATTRIBUTE NAME="hair.style" VALUE="straight" />
+      <ATTRIBUTE NAME="face" VALUE="other" />
+    </ATTRIBUTE-SET>
+  </CONTEXT>
+
+  <CONTEXT ID="5">
+    <ATTRIBUTE-SET TARGET="b" STRING="o moço sorridente, loiro, cabelo ondulado, sobrancelhas grossas, parece estar sorrindo, os olhos são pequenos.">
+      <ATTRIBUTE NAME="gender" VALUE="male" />
+      <ATTRIBUTE NAME="smile" VALUE="yes" />
+      <ATTRIBUTE NAME="isyoung" VALUE="yes" />
+      <ATTRIBUTE NAME="hair.colour" VALUE="blonde" />
+      <ATTRIBUTE NAME="eyebrows" VALUE="other" />
+      <ATTRIBUTE NAME="hair.style" VALUE="curly" />
+      <ATTRIBUTE NAME="eyes" VALUE="other" />
+    </ATTRIBUTE-SET>
+  </CONTEXT>
+
+  <CONTEXT ID="6">
+    <ATTRIBUTE-SET TARGET="e" STRING="o moço asiático sorridente, de cabelo raspado e preto.">
+      <ATTRIBUTE NAME="gender" VALUE="male" />
+      <ATTRIBUTE NAME="race" VALUE="asian" />
+      <ATTRIBUTE NAME="smile" VALUE="yes" />
+      <ATTRIBUTE NAME="isyoung" VALUE="yes" />
+      <ATTRIBUTE NAME="hair.colour" VALUE="dark" />
+      <ATTRIBUTE NAME="hair.length" VALUE="short" />
+    </ATTRIBUTE-SET>
+  </CONTEXT>
+
+  <CONTEXT ID="7">
+    <ATTRIBUTE-SET TARGET="e" STRING="a moça sorridente, de cabelo preso, sobrancelhas finas, nariz fino e bochechuda.">
+      <ATTRIBUTE NAME="gender" VALUE="female" />
+      <ATTRIBUTE NAME="smile" VALUE="yes" />
+      <ATTRIBUTE NAME="isyoung" VALUE="yes" />
+      <ATTRIBUTE NAME="ponytail" VALUE="yes" />
+      <ATTRIBUTE NAME="eyebrows" VALUE="other" />
+      <ATTRIBUTE NAME="nose" VALUE="other" />
+      <ATTRIBUTE NAME="face" VALUE="other" />
+    </ATTRIBUTE-SET>
+  </CONTEXT>
+
+  <CONTEXT ID="8">
+    <ATTRIBUTE-SET TARGET="b" STRING="a moça asiática de cabelos curtos, lisos e pretos e  sorridente,">
+      <ATTRIBUTE NAME="gender" VALUE="female" />
+      <ATTRIBUTE NAME="race" VALUE="asian" />
+      <ATTRIBUTE NAME="smile" VALUE="yes" />
+      <ATTRIBUTE NAME="isyoung" VALUE="yes" />
+      <ATTRIBUTE NAME="hair.colour" VALUE="dark" />
+      <ATTRIBUTE NAME="hair.length" VALUE="short" />
+      <ATTRIBUTE NAME="hair.style" VALUE="straight" />
+    </ATTRIBUTE-SET>
+  </CONTEXT>
+
+  <CONTEXT ID="9">
+    <ATTRIBUTE-SET TARGET="c" STRING="a moça séria, de cabelos pretos e presos, sobrancelhas finas e lábios carnudos">
+      <ATTRIBUTE NAME="gender" VALUE="female" />
+      <ATTRIBUTE NAME="smile" VALUE="no" />
+      <ATTRIBUTE NAME="isyoung" VALUE="yes" />
+      <ATTRIBUTE NAME="hair.colour" VALUE="dark" />
+      <ATTRIBUTE NAME="ponytail" VALUE="yes" />
+      <ATTRIBUTE NAME="eyebrows" VALUE="other" />
+      <ATTRIBUTE NAME="lips" VALUE="other" />
+    </ATTRIBUTE-SET>
+  </CONTEXT>
+
+  <CONTEXT ID="10">
+    <ATTRIBUTE-SET TARGET="f" STRING="o moço de cabelo cacheado, loiro, com barbicha">
+      <ATTRIBUTE NAME="gender" VALUE="male" />
+      <ATTRIBUTE NAME="isyoung" VALUE="yes" />
+      <ATTRIBUTE NAME="hair.colour" VALUE="blonde" />
+      <ATTRIBUTE NAME="hair.style" VALUE="curly" />
+      <ATTRIBUTE NAME="facial.hair" VALUE="yes" />
+    </ATTRIBUTE-SET>
+  </CONTEXT>
+
+  <CONTEXT ID="11">
+    <ATTRIBUTE-SET TARGET="d" STRING="o moço sério, de cabelo comprido e preso. lábios carnudos, sobrancelhas grossas e barbicha">
+      <ATTRIBUTE NAME="gender" VALUE="male" />
+      <ATTRIBUTE NAME="smile" VALUE="no" />
+      <ATTRIBUTE NAME="isyoung" VALUE="yes" />
+      <ATTRIBUTE NAME="hair.length" VALUE="long" />
+      <ATTRIBUTE NAME="ponytail" VALUE="yes" />
+      <ATTRIBUTE NAME="eyebrows" VALUE="other" />
+      <ATTRIBUTE NAME="facial.hair" VALUE="yes" />
+      <ATTRIBUTE NAME="lips" VALUE="other" />
+    </ATTRIBUTE-SET>
+  </CONTEXT>
+
+  <CONTEXT ID="12">
+    <ATTRIBUTE-SET TARGET="a" STRING="a moça loira de cabelo curto e liso, com cara de tédio, olhos caídos, e nariz grande.">
+      <ATTRIBUTE NAME="gender" VALUE="female" />
+      <ATTRIBUTE NAME="isyoung" VALUE="yes" />
+      <ATTRIBUTE NAME="hair.colour" VALUE="blonde" />
+      <ATTRIBUTE NAME="hair.length" VALUE="short" />
+      <ATTRIBUTE NAME="emotion" VALUE="neutral" />
+      <ATTRIBUTE NAME="hair.style" VALUE="straight" />
+      <ATTRIBUTE NAME="nose" VALUE="other" />
+      <ATTRIBUTE NAME="eyes" VALUE="other" />
+    </ATTRIBUTE-SET>
+  </CONTEXT>
+
+</TRIAL>

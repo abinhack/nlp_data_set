@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<TRIAL ID="100" SPEAKER="982" AGE="48" EXT="1.88" AGR="4.56" CON="4.22" NEU="3.75" OPE="2.10" ASSERTIVENESS="1.20" ACTIVITY="4.00" ALTRUISM="5.00" COMPLIANCE="3.67" ORDER="5.00" SELFDISCIPLINE="4.40" ANSIETY="4.25" DEPRESSION="3.50" AESTHETICS="2.67" IDEAS="1.60">
+
+  <CONTEXT ID="1">
+    <ATTRIBUTE-SET TARGET="a" STRING="o rapaz parece ser descendente asiático.">
+      <ATTRIBUTE NAME="gender" VALUE="male" />
+      <ATTRIBUTE NAME="race" VALUE="asian" />
+      <ATTRIBUTE NAME="isyoung" VALUE="yes" />
+    </ATTRIBUTE-SET>
+  </CONTEXT>
+
+  <CONTEXT ID="2">
+    <ATTRIBUTE-SET TARGET="d" STRING="a mulher.">
+      <ATTRIBUTE NAME="gender" VALUE="female" />
+    </ATTRIBUTE-SET>
+  </CONTEXT>
+
+  <CONTEXT ID="3">
+    <ATTRIBUTE-SET TARGET="f" STRING="a mulher possui cabelos pretos.">
+      <ATTRIBUTE NAME="gender" VALUE="female" />
+      <ATTRIBUTE NAME="hair.colour" VALUE="dark" />
+    </ATTRIBUTE-SET>
+  </CONTEXT>
+
+  <CONTEXT ID="4">
+    <ATTRIBUTE-SET TARGET="c" STRING="o jovem tem cabelos castanhos expressão de descontentamento.">
+      <ATTRIBUTE NAME="gender" VALUE="male" />
+      <ATTRIBUTE NAME="isyoung" VALUE="yes" />
+      <ATTRIBUTE NAME="hair.colour" VALUE="blonde" />
+      <ATTRIBUTE NAME="emotion" VALUE="negative" />
+    </ATTRIBUTE-SET>
+  </CONTEXT>
+
+  <CONTEXT ID="5">
+    <ATTRIBUTE-SET TARGET="b" STRING="o rapaz sorridente.">
+      <ATTRIBUTE NAME="gender" VALUE="male" />
+      <ATTRIBUTE NAME="smile" VALUE="yes" />
+      <ATTRIBUTE NAME="isyoung" VALUE="yes" />
+    </ATTRIBUTE-SET>
+  </CONTEXT>
+
+  <CONTEXT ID="6">
+    <ATTRIBUTE-SET TARGET="e" STRING="o rapaz.">
+      <ATTRIBUTE NAME="gender" VALUE="male" />
+      <ATTRIBUTE NAME="isyoung" VALUE="yes" />
+    </ATTRIBUTE-SET>
+  </CONTEXT>
+
+  <CONTEXT ID="7">
+    <ATTRIBUTE-SET TARGET="e" STRING="a mulher de rosto arredondado e sorrindo.">
+      <ATTRIBUTE NAME="gender" VALUE="female" />
+      <ATTRIBUTE NAME="smile" VALUE="yes" />
+      <ATTRIBUTE NAME="shape" VALUE="other" />
+    </ATTRIBUTE-SET>
+  </CONTEXT>
+
+  <CONTEXT ID="8">
+    <ATTRIBUTE-SET TARGET="b" STRING="a mulher de descendência oriental sorridente">
+      <ATTRIBUTE NAME="gender" VALUE="female" />
+      <ATTRIBUTE NAME="race" VALUE="asian" />
+      <ATTRIBUTE NAME="smile" VALUE="yes" />
+    </ATTRIBUTE-SET>
+  </CONTEXT>
+
+  <CONTEXT ID="9">
+    <ATTRIBUTE-SET TARGET="c" STRING="a mulher negra.">
+      <ATTRIBUTE NAME="gender" VALUE="female" />
+      <ATTRIBUTE NAME="race" VALUE="black" />
+    </ATTRIBUTE-SET>
+  </CONTEXT>
+
+  <CONTEXT ID="10">
+    <ATTRIBUTE-SET TARGET="f" STRING="o homem.">
+      <ATTRIBUTE NAME="gender" VALUE="male" />
+    </ATTRIBUTE-SET>
+  </CONTEXT>
+
+  <CONTEXT ID="11">
+    <ATTRIBUTE-SET TARGET="d" STRING="o homem negro com cabelos presos.">
+      <ATTRIBUTE NAME="gender" VALUE="male" />
+      <ATTRIBUTE NAME="race" VALUE="black" />
+      <ATTRIBUTE NAME="ponytail" VALUE="yes" />
+    </ATTRIBUTE-SET>
+  </CONTEXT>
+
+  <CONTEXT ID="12">
+    <ATTRIBUTE-SET TARGET="a" STRING="a mulher loira de cabelos na altura dos ombros.">
+      <ATTRIBUTE NAME="gender" VALUE="female" />
+      <ATTRIBUTE NAME="hair.colour" VALUE="blonde" />
+      <ATTRIBUTE NAME="hair.length" VALUE="short" />
+    </ATTRIBUTE-SET>
+  </CONTEXT>
+
+</TRIAL>

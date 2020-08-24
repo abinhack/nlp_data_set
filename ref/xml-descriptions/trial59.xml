@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<TRIAL ID="59" SPEAKER="861" AGE="29" EXT="3.25" AGR="3.67" CON="2.89" NEU="2.50" OPE="3.40" ASSERTIVENESS="3.20" ACTIVITY="3.00" ALTRUISM="3.75" COMPLIANCE="3.67" ORDER="1.50" SELFDISCIPLINE="3.00" ANSIETY="2.75" DEPRESSION="2.50" AESTHETICS="3.00" IDEAS="4.20">
+
+  <CONTEXT ID="1">
+    <ATTRIBUTE-SET TARGET="a" STRING="o rapaz oriental com semblante sério">
+      <ATTRIBUTE NAME="gender" VALUE="male" />
+      <ATTRIBUTE NAME="race" VALUE="asian" />
+      <ATTRIBUTE NAME="smile" VALUE="no" />
+      <ATTRIBUTE NAME="isyoung" VALUE="yes" />
+    </ATTRIBUTE-SET>
+  </CONTEXT>
+
+  <CONTEXT ID="2">
+    <ATTRIBUTE-SET TARGET="d" STRING="a garota">
+      <ATTRIBUTE NAME="gender" VALUE="female" />
+      <ATTRIBUTE NAME="isyoung" VALUE="yes" />
+    </ATTRIBUTE-SET>
+  </CONTEXT>
+
+  <CONTEXT ID="3">
+    <ATTRIBUTE-SET TARGET="f" STRING="a moça oriental">
+      <ATTRIBUTE NAME="gender" VALUE="female" />
+      <ATTRIBUTE NAME="race" VALUE="asian" />
+      <ATTRIBUTE NAME="isyoung" VALUE="yes" />
+    </ATTRIBUTE-SET>
+  </CONTEXT>
+
+  <CONTEXT ID="4">
+    <ATTRIBUTE-SET TARGET="c" STRING="o garoto sério de cabelo claro">
+      <ATTRIBUTE NAME="gender" VALUE="male" />
+      <ATTRIBUTE NAME="smile" VALUE="no" />
+      <ATTRIBUTE NAME="isyoung" VALUE="yes" />
+      <ATTRIBUTE NAME="hair.colour" VALUE="blonde" />
+    </ATTRIBUTE-SET>
+  </CONTEXT>
+
+  <CONTEXT ID="5">
+    <ATTRIBUTE-SET TARGET="b" STRING="o garoto com sorriso">
+      <ATTRIBUTE NAME="gender" VALUE="male" />
+      <ATTRIBUTE NAME="smile" VALUE="yes" />
+      <ATTRIBUTE NAME="isyoung" VALUE="yes" />
+    </ATTRIBUTE-SET>
+  </CONTEXT>
+
+  <CONTEXT ID="6">
+    <ATTRIBUTE-SET TARGET="e" STRING="o rapaz">
+      <ATTRIBUTE NAME="gender" VALUE="male" />
+      <ATTRIBUTE NAME="isyoung" VALUE="yes" />
+    </ATTRIBUTE-SET>
+  </CONTEXT>
+
+  <CONTEXT ID="7">
+    <ATTRIBUTE-SET TARGET="e" STRING="a moça com sorriso">
+      <ATTRIBUTE NAME="gender" VALUE="female" />
+      <ATTRIBUTE NAME="smile" VALUE="yes" />
+      <ATTRIBUTE NAME="isyoung" VALUE="yes" />
+    </ATTRIBUTE-SET>
+  </CONTEXT>
+
+  <CONTEXT ID="8">
+    <ATTRIBUTE-SET TARGET="b" STRING="a moça oriental com sorriso">
+      <ATTRIBUTE NAME="gender" VALUE="female" />
+      <ATTRIBUTE NAME="race" VALUE="asian" />
+      <ATTRIBUTE NAME="smile" VALUE="yes" />
+      <ATTRIBUTE NAME="isyoung" VALUE="yes" />
+    </ATTRIBUTE-SET>
+  </CONTEXT>
+
+  <CONTEXT ID="9">
+    <ATTRIBUTE-SET TARGET="c" STRING="a moça negra">
+      <ATTRIBUTE NAME="gender" VALUE="female" />
+      <ATTRIBUTE NAME="race" VALUE="black" />
+      <ATTRIBUTE NAME="isyoung" VALUE="yes" />
+    </ATTRIBUTE-SET>
+  </CONTEXT>
+
+  <CONTEXT ID="10">
+    <ATTRIBUTE-SET TARGET="f" STRING="o moço">
+      <ATTRIBUTE NAME="gender" VALUE="male" />
+      <ATTRIBUTE NAME="isyoung" VALUE="yes" />
+    </ATTRIBUTE-SET>
+  </CONTEXT>
+
+  <CONTEXT ID="11">
+    <ATTRIBUTE-SET TARGET="d" STRING="o moço negro">
+      <ATTRIBUTE NAME="gender" VALUE="male" />
+      <ATTRIBUTE NAME="race" VALUE="black" />
+      <ATTRIBUTE NAME="isyoung" VALUE="yes" />
+    </ATTRIBUTE-SET>
+  </CONTEXT>
+
+  <CONTEXT ID="12">
+    <ATTRIBUTE-SET TARGET="a" STRING="a moça loira com semblante calmo">
+      <ATTRIBUTE NAME="gender" VALUE="female" />
+      <ATTRIBUTE NAME="isyoung" VALUE="yes" />
+      <ATTRIBUTE NAME="hair.colour" VALUE="blonde" />
+      <ATTRIBUTE NAME="emotion" VALUE="neutral" />
+    </ATTRIBUTE-SET>
+  </CONTEXT>
+
+</TRIAL>

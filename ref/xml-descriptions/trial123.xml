@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<TRIAL ID="123" SPEAKER="2335" AGE="25" EXT="4.00" AGR="4.44" CON="3.44" NEU="1.50" OPE="4.00" ASSERTIVENESS="3.80" ACTIVITY="4.50" ALTRUISM="5.00" COMPLIANCE="3.67" ORDER="1.50" SELFDISCIPLINE="3.80" ANSIETY="1.50" DEPRESSION="1.00" AESTHETICS="2.33" IDEAS="4.80">
+
+  <CONTEXT ID="1">
+    <ATTRIBUTE-SET TARGET="a" STRING="é o rapaz oriental, com o cabelo cortado na máquina 2, sobrancelhas grossas e com expressão séria.">
+      <ATTRIBUTE NAME="gender" VALUE="male" />
+      <ATTRIBUTE NAME="race" VALUE="asian" />
+      <ATTRIBUTE NAME="smile" VALUE="no" />
+      <ATTRIBUTE NAME="isyoung" VALUE="yes" />
+      <ATTRIBUTE NAME="hair.length" VALUE="short" />
+      <ATTRIBUTE NAME="eyebrows" VALUE="other" />
+    </ATTRIBUTE-SET>
+  </CONTEXT>
+
+  <CONTEXT ID="2">
+    <ATTRIBUTE-SET TARGET="d" STRING="é a mulher com duas franjinhas caindo sobre o rosto">
+      <ATTRIBUTE NAME="gender" VALUE="female" />
+      <ATTRIBUTE NAME="fringe" VALUE="yes" />
+    </ATTRIBUTE-SET>
+  </CONTEXT>
+
+  <CONTEXT ID="3">
+    <ATTRIBUTE-SET TARGET="f" STRING="é a mulher mestiça, com cabelos negros bem curtos e uma expressão magoada.">
+      <ATTRIBUTE NAME="gender" VALUE="female" />
+      <ATTRIBUTE NAME="race" VALUE="asian" />
+      <ATTRIBUTE NAME="hair.colour" VALUE="dark" />
+      <ATTRIBUTE NAME="hair.length" VALUE="short" />
+      <ATTRIBUTE NAME="emotion" VALUE="negative" />
+      <ATTRIBUTE NAME="skin" VALUE="dark" />
+    </ATTRIBUTE-SET>
+  </CONTEXT>
+
+  <CONTEXT ID="4">
+    <ATTRIBUTE-SET TARGET="c" STRING="é o rapaz com a expressão séria, sobrancelhas franzidas, cabelo louro meio despenteado e com o que parece um brinco em sua orelha esquerda">
+      <ATTRIBUTE NAME="gender" VALUE="male" />
+      <ATTRIBUTE NAME="smile" VALUE="no" />
+      <ATTRIBUTE NAME="isyoung" VALUE="yes" />
+      <ATTRIBUTE NAME="hair.colour" VALUE="blonde" />
+      <ATTRIBUTE NAME="eyebrows" VALUE="other" />
+      <ATTRIBUTE NAME="earring" VALUE="yes" />
+      <ATTRIBUTE NAME="unkempt" VALUE="yes" />
+    </ATTRIBUTE-SET>
+  </CONTEXT>
+
+  <CONTEXT ID="5">
+    <ATTRIBUTE-SET TARGET="b" STRING="é o rapaz louro com bastante pintas na parte esquerda de seu rosto, e na tentativa do que creio eu, um sorriso.">
+      <ATTRIBUTE NAME="gender" VALUE="male" />
+      <ATTRIBUTE NAME="smile" VALUE="yes" />
+      <ATTRIBUTE NAME="isyoung" VALUE="yes" />
+      <ATTRIBUTE NAME="hair.colour" VALUE="blonde" />
+      <ATTRIBUTE NAME="spots" VALUE="yes" />
+    </ATTRIBUTE-SET>
+  </CONTEXT>
+
+  <CONTEXT ID="6">
+    <ATTRIBUTE-SET TARGET="e" STRING="é o homem oriental com a felicidade estampada em seu rosto">
+      <ATTRIBUTE NAME="gender" VALUE="male" />
+      <ATTRIBUTE NAME="race" VALUE="asian" />
+      <ATTRIBUTE NAME="emotion" VALUE="positive" />
+    </ATTRIBUTE-SET>
+  </CONTEXT>
+
+  <CONTEXT ID="7">
+    <ATTRIBUTE-SET TARGET="e" STRING="é a moça com o cabelo preso, rosto redondo e com um risco em sua sobrancelha direita">
+      <ATTRIBUTE NAME="gender" VALUE="female" />
+      <ATTRIBUTE NAME="isyoung" VALUE="yes" />
+      <ATTRIBUTE NAME="ponytail" VALUE="yes" />
+      <ATTRIBUTE NAME="eyebrows" VALUE="other" />
+      <ATTRIBUTE NAME="shape" VALUE="other" />
+    </ATTRIBUTE-SET>
+  </CONTEXT>
+
+  <CONTEXT ID="8">
+    <ATTRIBUTE-SET TARGET="b" STRING="é a mulher oriental, com cabelos na altura do queixo, sobrancelhas separadas e dando um sorriso sem graça.">
+      <ATTRIBUTE NAME="gender" VALUE="female" />
+      <ATTRIBUTE NAME="race" VALUE="asian" />
+      <ATTRIBUTE NAME="smile" VALUE="yes" />
+      <ATTRIBUTE NAME="hair.length" VALUE="short" />
+      <ATTRIBUTE NAME="eyebrows" VALUE="other" />
+    </ATTRIBUTE-SET>
+  </CONTEXT>
+
+  <CONTEXT ID="9">
+    <ATTRIBUTE-SET TARGET="c" STRING="é a moça negra com o cabelo amarrado e orelhas pequenas">
+      <ATTRIBUTE NAME="gender" VALUE="female" />
+      <ATTRIBUTE NAME="race" VALUE="black" />
+      <ATTRIBUTE NAME="isyoung" VALUE="yes" />
+      <ATTRIBUTE NAME="ponytail" VALUE="yes" />
+      <ATTRIBUTE NAME="ears" VALUE="other" />
+    </ATTRIBUTE-SET>
+  </CONTEXT>
+
+  <CONTEXT ID="10">
+    <ATTRIBUTE-SET TARGET="f" STRING="é o homem de cabelo cacheado, com cavanhaque e marcas de espinhas pelo rosto">
+      <ATTRIBUTE NAME="gender" VALUE="male" />
+      <ATTRIBUTE NAME="hair.style" VALUE="curly" />
+      <ATTRIBUTE NAME="facial.hair" VALUE="yes" />
+      <ATTRIBUTE NAME="spots" VALUE="yes" />
+    </ATTRIBUTE-SET>
+  </CONTEXT>
+
+  <CONTEXT ID="11">
+    <ATTRIBUTE-SET TARGET="d" STRING="é o rapaz negro, com cavanhaque e bigode, sobrancelhas largas e com o cabelo preso atrás.">
+      <ATTRIBUTE NAME="gender" VALUE="male" />
+      <ATTRIBUTE NAME="race" VALUE="black" />
+      <ATTRIBUTE NAME="isyoung" VALUE="yes" />
+      <ATTRIBUTE NAME="ponytail" VALUE="yes" />
+      <ATTRIBUTE NAME="eyebrows" VALUE="other" />
+      <ATTRIBUTE NAME="facial.hair" VALUE="yes" />
+    </ATTRIBUTE-SET>
+  </CONTEXT>
+
+  <CONTEXT ID="12">
+    <ATTRIBUTE-SET TARGET="a" STRING="é a mulher de cabelos curtos e louros, com o olho direito menor que o esquerdo, boca e nariz pequenos.">
+      <ATTRIBUTE NAME="gender" VALUE="female" />
+      <ATTRIBUTE NAME="hair.colour" VALUE="blonde" />
+      <ATTRIBUTE NAME="hair.length" VALUE="short" />
+      <ATTRIBUTE NAME="nose" VALUE="other" />
+      <ATTRIBUTE NAME="face" VALUE="other" />
+      <ATTRIBUTE NAME="eyes" VALUE="other" />
+    </ATTRIBUTE-SET>
+  </CONTEXT>
+
+</TRIAL>

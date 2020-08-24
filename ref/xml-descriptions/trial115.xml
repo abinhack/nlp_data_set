@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<TRIAL ID="115" SPEAKER="2039" AGE="23" EXT="3.50" AGR="3.78" CON="2.67" NEU="3.63" OPE="4.30" ASSERTIVENESS="3.20" ACTIVITY="4.00" ALTRUISM="4.00" COMPLIANCE="3.67" ORDER="1.50" SELFDISCIPLINE="2.60" ANSIETY="3.00" DEPRESSION="4.50" AESTHETICS="3.33" IDEAS="4.60">
+
+  <CONTEXT ID="1">
+    <ATTRIBUTE-SET TARGET="a" STRING="asiático. sobrancelhas grossas. lábios grandes. cabelo raspado.">
+      <ATTRIBUTE NAME="gender" VALUE="male" />
+      <ATTRIBUTE NAME="race" VALUE="asian" />
+      <ATTRIBUTE NAME="hair.length" VALUE="short" />
+      <ATTRIBUTE NAME="eyebrows" VALUE="other" />
+      <ATTRIBUTE NAME="lips" VALUE="other" />
+    </ATTRIBUTE-SET>
+  </CONTEXT>
+
+  <CONTEXT ID="2">
+    <ATTRIBUTE-SET TARGET="d" STRING="pele branca. cabelo liso, longo. duas mechas sobre a parte frontal da face.">
+      <ATTRIBUTE NAME="hair.length" VALUE="long" />
+      <ATTRIBUTE NAME="skin" VALUE="fair" />
+      <ATTRIBUTE NAME="hair.style" VALUE="straight" />
+      <ATTRIBUTE NAME="fringe" VALUE="yes" />
+    </ATTRIBUTE-SET>
+  </CONTEXT>
+
+  <CONTEXT ID="3">
+    <ATTRIBUTE-SET TARGET="f" STRING="asiática. cabelo preto, liso, curto.">
+      <ATTRIBUTE NAME="gender" VALUE="female" />
+      <ATTRIBUTE NAME="race" VALUE="asian" />
+      <ATTRIBUTE NAME="hair.colour" VALUE="dark" />
+      <ATTRIBUTE NAME="hair.length" VALUE="short" />
+      <ATTRIBUTE NAME="hair.style" VALUE="straight" />
+    </ATTRIBUTE-SET>
+  </CONTEXT>
+
+  <CONTEXT ID="4">
+    <ATTRIBUTE-SET TARGET="c" STRING="cabelo liso, louro, seco, curto. expressão séria.">
+      <ATTRIBUTE NAME="smile" VALUE="no" />
+      <ATTRIBUTE NAME="hair.colour" VALUE="blonde" />
+      <ATTRIBUTE NAME="hair.length" VALUE="long" />
+      <ATTRIBUTE NAME="hair.style" VALUE="straight" />
+      <ATTRIBUTE NAME="hair" VALUE="other" />
+    </ATTRIBUTE-SET>
+  </CONTEXT>
+
+  <CONTEXT ID="5">
+    <ATTRIBUTE-SET TARGET="b" STRING="cabelo liso, louro, seco. sorridente.">
+      <ATTRIBUTE NAME="smile" VALUE="yes" />
+      <ATTRIBUTE NAME="hair.colour" VALUE="blonde" />
+      <ATTRIBUTE NAME="hair.style" VALUE="curly" />
+      <ATTRIBUTE NAME="hair" VALUE="other" />
+    </ATTRIBUTE-SET>
+  </CONTEXT>
+
+  <CONTEXT ID="6">
+    <ATTRIBUTE-SET TARGET="e" STRING="asiático. sorridente. sobrancelhas grossas.">
+      <ATTRIBUTE NAME="gender" VALUE="male" />
+      <ATTRIBUTE NAME="race" VALUE="asian" />
+      <ATTRIBUTE NAME="smile" VALUE="yes" />
+      <ATTRIBUTE NAME="eyebrows" VALUE="other" />
+    </ATTRIBUTE-SET>
+  </CONTEXT>
+
+  <CONTEXT ID="7">
+    <ATTRIBUTE-SET TARGET="e" STRING="cabelo liso, castanho, preso. sorridente. olhos claros. sardas.">
+      <ATTRIBUTE NAME="smile" VALUE="yes" />
+      <ATTRIBUTE NAME="hair.colour" VALUE="blonde" />
+      <ATTRIBUTE NAME="eye.colour" VALUE="light" />
+      <ATTRIBUTE NAME="ponytail" VALUE="yes" />
+      <ATTRIBUTE NAME="hair.style" VALUE="straight" />
+      <ATTRIBUTE NAME="spots" VALUE="yes" />
+    </ATTRIBUTE-SET>
+  </CONTEXT>
+
+  <CONTEXT ID="8">
+    <ATTRIBUTE-SET TARGET="b" STRING="asiática. sorridente.">
+      <ATTRIBUTE NAME="gender" VALUE="female" />
+      <ATTRIBUTE NAME="race" VALUE="asian" />
+      <ATTRIBUTE NAME="smile" VALUE="yes" />
+    </ATTRIBUTE-SET>
+  </CONTEXT>
+
+  <CONTEXT ID="9">
+    <ATTRIBUTE-SET TARGET="c" STRING="negra. cabelo crespo, curto, preso.">
+      <ATTRIBUTE NAME="gender" VALUE="female" />
+      <ATTRIBUTE NAME="race" VALUE="black" />
+      <ATTRIBUTE NAME="hair.length" VALUE="short" />
+      <ATTRIBUTE NAME="ponytail" VALUE="yes" />
+      <ATTRIBUTE NAME="hair.style" VALUE="curly" />
+    </ATTRIBUTE-SET>
+  </CONTEXT>
+
+  <CONTEXT ID="10">
+    <ATTRIBUTE-SET TARGET="f" STRING="cabelo liso, seco, encaracolado, barbicha.">
+      <ATTRIBUTE NAME="hair.style" VALUE="curly" />
+      <ATTRIBUTE NAME="facial.hair" VALUE="yes" />
+      <ATTRIBUTE NAME="hair" VALUE="other" />
+    </ATTRIBUTE-SET>
+  </CONTEXT>
+
+  <CONTEXT ID="11">
+    <ATTRIBUTE-SET TARGET="d" STRING="negro. cabelo crespo, longo, barbicha. expressão séria.">
+      <ATTRIBUTE NAME="gender" VALUE="male" />
+      <ATTRIBUTE NAME="race" VALUE="black" />
+      <ATTRIBUTE NAME="smile" VALUE="no" />
+      <ATTRIBUTE NAME="hair.length" VALUE="long" />
+      <ATTRIBUTE NAME="hair.style" VALUE="curly" />
+      <ATTRIBUTE NAME="facial.hair" VALUE="yes" />
+    </ATTRIBUTE-SET>
+  </CONTEXT>
+
+  <CONTEXT ID="12">
+    <ATTRIBUTE-SET TARGET="a" STRING="cabelo liso, louro. expressão neutra.">
+      <ATTRIBUTE NAME="hair.colour" VALUE="blonde" />
+      <ATTRIBUTE NAME="emotion" VALUE="neutral" />
+      <ATTRIBUTE NAME="hair.style" VALUE="straight" />
+    </ATTRIBUTE-SET>
+  </CONTEXT>
+
+</TRIAL>

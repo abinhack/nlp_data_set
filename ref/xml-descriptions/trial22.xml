@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<TRIAL ID="22" SPEAKER="430" AGE="21" EXT="4.63" AGR="4.33" CON="4.00" NEU="1.75" OPE="4.10" ASSERTIVENESS="5.00" ACTIVITY="4.00" ALTRUISM="5.00" COMPLIANCE="3.00" ORDER="4.00" SELFDISCIPLINE="4.20" ANSIETY="2.25" DEPRESSION="1.00" AESTHETICS="4.00" IDEAS="4.20">
+
+  <CONTEXT ID="1">
+    <ATTRIBUTE-SET TARGET="a" STRING="a entidade apresenta traços orientais, sobrancelhas grossas, lábios carnudos. aparência séria, cabelos curtos e escuros, e de gênero masculino">
+      <ATTRIBUTE NAME="gender" VALUE="male" />
+      <ATTRIBUTE NAME="race" VALUE="asian" />
+      <ATTRIBUTE NAME="smile" VALUE="no" />
+      <ATTRIBUTE NAME="hair.colour" VALUE="dark" />
+      <ATTRIBUTE NAME="hair.length" VALUE="short" />
+      <ATTRIBUTE NAME="eyebrows" VALUE="other" />
+      <ATTRIBUTE NAME="lips" VALUE="other" />
+    </ATTRIBUTE-SET>
+  </CONTEXT>
+
+  <CONTEXT ID="2">
+    <ATTRIBUTE-SET TARGET="d" STRING="a entidade apresentada, possui cabelos presos, com duas mechas soltas no rosto, cabelo claro, gênero feminino, olhos fundos e pele clara">
+      <ATTRIBUTE NAME="gender" VALUE="female" />
+      <ATTRIBUTE NAME="hair.colour" VALUE="blonde" />
+      <ATTRIBUTE NAME="ponytail" VALUE="yes" />
+      <ATTRIBUTE NAME="skin" VALUE="fair" />
+      <ATTRIBUTE NAME="eyes" VALUE="other" />
+      <ATTRIBUTE NAME="fringe" VALUE="yes" />
+    </ATTRIBUTE-SET>
+  </CONTEXT>
+
+  <CONTEXT ID="3">
+    <ATTRIBUTE-SET TARGET="f" STRING="a entidade apresentada lábios forçados para baixo, traços orientais, nariz arredondado, uma pinta na orelha esquerda, cabelos de tamanho médios e lisos.">
+      <ATTRIBUTE NAME="race" VALUE="asian" />
+      <ATTRIBUTE NAME="hair.length" VALUE="short" />
+      <ATTRIBUTE NAME="hair.style" VALUE="straight" />
+      <ATTRIBUTE NAME="nose" VALUE="other" />
+      <ATTRIBUTE NAME="lips" VALUE="other" />
+      <ATTRIBUTE NAME="ears" VALUE="other" />
+    </ATTRIBUTE-SET>
+  </CONTEXT>
+
+  <CONTEXT ID="4">
+    <ATTRIBUTE-SET TARGET="c" STRING="esta entidade apresenta cabelos claros, lisos, caindo na testa. olhar sério, pele clara, nariz fino e gênero masculino">
+      <ATTRIBUTE NAME="gender" VALUE="male" />
+      <ATTRIBUTE NAME="smile" VALUE="no" />
+      <ATTRIBUTE NAME="hair.colour" VALUE="blonde" />
+      <ATTRIBUTE NAME="skin" VALUE="fair" />
+      <ATTRIBUTE NAME="hair.style" VALUE="straight" />
+      <ATTRIBUTE NAME="nose" VALUE="other" />
+      <ATTRIBUTE NAME="fringe" VALUE="yes" />
+    </ATTRIBUTE-SET>
+  </CONTEXT>
+
+  <CONTEXT ID="5">
+    <ATTRIBUTE-SET TARGET="b" STRING="a entidade é de gênero masculino, pele clara e aparência sorridente. rosto com pintas do lado esquerdo e em parte da testa.">
+      <ATTRIBUTE NAME="gender" VALUE="male" />
+      <ATTRIBUTE NAME="smile" VALUE="yes" />
+      <ATTRIBUTE NAME="skin" VALUE="fair" />
+      <ATTRIBUTE NAME="spots" VALUE="yes" />
+    </ATTRIBUTE-SET>
+  </CONTEXT>
+
+  <CONTEXT ID="6">
+    <ATTRIBUTE-SET TARGET="e" STRING="a entidade apresentada contém traços orientais, de gênero masculino, aparência sorridente, olhos levemente apertados, nariz arredondado, cabelos curtos e escuros.">
+      <ATTRIBUTE NAME="gender" VALUE="male" />
+      <ATTRIBUTE NAME="race" VALUE="asian" />
+      <ATTRIBUTE NAME="smile" VALUE="yes" />
+      <ATTRIBUTE NAME="hair.colour" VALUE="dark" />
+      <ATTRIBUTE NAME="hair.length" VALUE="short" />
+      <ATTRIBUTE NAME="nose" VALUE="other" />
+      <ATTRIBUTE NAME="eyes" VALUE="other" />
+      <ATTRIBUTE NAME="narrow.eyed" VALUE="yes" />
+    </ATTRIBUTE-SET>
+  </CONTEXT>
+
+  <CONTEXT ID="7">
+    <ATTRIBUTE-SET TARGET="e" STRING="a entidade destacada, apresenta cabelos presos e lisos, gênero feminino, pele clara e aparência sorridente">
+      <ATTRIBUTE NAME="gender" VALUE="female" />
+      <ATTRIBUTE NAME="smile" VALUE="yes" />
+      <ATTRIBUTE NAME="ponytail" VALUE="yes" />
+      <ATTRIBUTE NAME="skin" VALUE="fair" />
+      <ATTRIBUTE NAME="hair.style" VALUE="straight" />
+    </ATTRIBUTE-SET>
+  </CONTEXT>
+
+  <CONTEXT ID="8">
+    <ATTRIBUTE-SET TARGET="b" STRING="esta entidade apresenta traços orientais, gênero feminino, aparência sorridente, cabelos escuros e lisos.">
+      <ATTRIBUTE NAME="gender" VALUE="female" />
+      <ATTRIBUTE NAME="race" VALUE="asian" />
+      <ATTRIBUTE NAME="smile" VALUE="yes" />
+      <ATTRIBUTE NAME="hair.colour" VALUE="dark" />
+      <ATTRIBUTE NAME="hair.style" VALUE="straight" />
+    </ATTRIBUTE-SET>
+  </CONTEXT>
+
+  <CONTEXT ID="9">
+    <ATTRIBUTE-SET TARGET="c" STRING="a entidade destacada apresentada pele escura, cabelos curtos, nariz de ponta arredondada e achatada, lábios carnudos, e de gênero feminino.">
+      <ATTRIBUTE NAME="gender" VALUE="female" />
+      <ATTRIBUTE NAME="hair.length" VALUE="short" />
+      <ATTRIBUTE NAME="skin" VALUE="dark" />
+      <ATTRIBUTE NAME="nose" VALUE="other" />
+      <ATTRIBUTE NAME="lips" VALUE="other" />
+    </ATTRIBUTE-SET>
+  </CONTEXT>
+
+  <CONTEXT ID="10">
+    <ATTRIBUTE-SET TARGET="f" STRING="a entidade apresenta cabelos encaracolados, de gênero masculino, pele clara, olhos claros. pequenas manchas e pintas no rosto, com cavanhaque ralo e expressão séria.">
+      <ATTRIBUTE NAME="gender" VALUE="male" />
+      <ATTRIBUTE NAME="smile" VALUE="no" />
+      <ATTRIBUTE NAME="eye.colour" VALUE="light" />
+      <ATTRIBUTE NAME="skin" VALUE="fair" />
+      <ATTRIBUTE NAME="hair.style" VALUE="curly" />
+      <ATTRIBUTE NAME="facial.hair" VALUE="yes" />
+      <ATTRIBUTE NAME="spots" VALUE="yes" />
+    </ATTRIBUTE-SET>
+  </CONTEXT>
+
+  <CONTEXT ID="11">
+    <ATTRIBUTE-SET TARGET="d" STRING="a entidade selecionada apresenta pele escura, de gênero masculino. olhos concentrados e sobrancelhas grossas">
+      <ATTRIBUTE NAME="gender" VALUE="male" />
+      <ATTRIBUTE NAME="emotion" VALUE="neutral" />
+      <ATTRIBUTE NAME="eyebrows" VALUE="other" />
+      <ATTRIBUTE NAME="skin" VALUE="dark" />
+    </ATTRIBUTE-SET>
+  </CONTEXT>
+
+  <CONTEXT ID="12">
+    <ATTRIBUTE-SET TARGET="a" STRING="a entidade selecionada tem cabelos curtos e claros, olhar fixo, de gênero feminino, sobrancelhas finas e curvas.">
+      <ATTRIBUTE NAME="gender" VALUE="female" />
+      <ATTRIBUTE NAME="hair.colour" VALUE="blonde" />
+      <ATTRIBUTE NAME="hair.length" VALUE="short" />
+      <ATTRIBUTE NAME="emotion" VALUE="neutral" />
+      <ATTRIBUTE NAME="eyebrows" VALUE="other" />
+    </ATTRIBUTE-SET>
+  </CONTEXT>
+
+</TRIAL>

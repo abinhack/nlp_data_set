@@ -1,0 +1,952 @@
+<CAPTION ID=1040>
+o [o] <artd> DET M S @>N
+bebê [bebê] <Hbio> N M S @NPHR
+
+</CAPTION>
+<CAPTION ID=1052>
+recém [recém] ADV @ADVL
+nascido [nascer] V PCP M S @NPHR
+
+</CAPTION>
+<CAPTION ID=1054>
+bebê [bebê] <Hbio> N M S @SUBJ>
+dormindo [dormir] <vi> V GER @IMV
+.
+
+</CAPTION>
+<CAPTION ID=1055>
+bebê [bebê] <Hbio> N M S @NPHR
+envolto [envolver] <vt> V PCP M S @IMV @#ICL-N<
+em [em] PRP @<ADVL
+tecido [tecido] <mat-cloth> <an> <cc-rag> N M S @P<
+.
+
+</CAPTION>
+<CAPTION ID=1058>
+bebê [bebê] <Hbio> N M S @NPHR
+com [com] PRP @N<
+cobertor [cobertor] <Lcover> N M S @P<
+
+</CAPTION>
+<CAPTION ID=1059>
+recém [recém] ADV @ADVL
+nascido [nascer] V PCP M S @NPHR
+
+</CAPTION>
+<CAPTION ID=1143>
+surto [surto] <process> <event> N M S @NPHR
+de novo [de=novo] <atemp> ADV @ADVL
+vírus [vírus] <Acell> N M S/P @NPHR
+em [em] <sam-> PRP @N<
+a [o] <-sam> <artd> DET F S @>N
+índia [Índia] <civ> PROP F S @P<
+
+</CAPTION>
+<CAPTION ID=1144>
+sono [sono] <state-h> <per> N M S @NPHR
+profundo [profundo] ADJ M S @N<
+
+</CAPTION>
+<CAPTION ID=1165>
+bebê [bebê] <Hbio> N M S @NPHR
+doente [doente] ADJ M S @N<
+
+</CAPTION>
+<CAPTION ID=144>
+bebê [bebê] <Hbio> N M S @NPHR
+com [com] PRP @N<
+lábios [lábio] N M P @P<
+grandes [grande] ADJ M P @N<
+
+</CAPTION>
+<CAPTION ID=19>
+sono [sono] <state-h> <per> N M S @NPHR
+tranquilo ALT tranqüilo [tranqüilo] ADJ M S @N<
+
+</CAPTION>
+<CAPTION ID=20>
+o [o] <artd> DET M S @>N
+bebê [bebê] <Hbio> N M S @NPHR
+
+</CAPTION>
+<CAPTION ID=2032>
+uma [um] <arti> DET F S @>N
+menina [menina] <Hbio> N F S @NPHR
+
+</CAPTION>
+<CAPTION ID=2033>
+recém-nascido [recém-nascer] V PCP M S @NPHR
+
+</CAPTION>
+<CAPTION ID=2035>
+bebê [bebê] <Hbio> N M S @NPHR
+de [de] PRP @N<
+lábios [lábio] N M P @P<
+vermelhos [vermelho] ADJ M P @N<
+
+</CAPTION>
+<CAPTION ID=2037>
+bebê [bebê] <Hbio> N M S @NPHR
+recém [recém] ADV @ADVL>
+nascido [nascer] V PCP M S @IMV @#ICL-N<
+
+</CAPTION>
+<CAPTION ID=2038>
+recém-nascido [nascer] V PCP M S @NPHR
+
+</CAPTION>
+<CAPTION ID=2039>
+bebê [bebê] <Hbio> N M S @NPHR
+envolto [envolver] V PCP M S @IMV @#ICL-N<
+em [em] <sam-> PRP @<PIV
+o [o] <-sam> <artd> DET M S @>N
+cobertor [cobertor] <Lcover> N M S @P<
+.
+
+</CAPTION>
+<CAPTION ID=2043>
+epidemia [epidemia] <sick> N F S @NPHR
+
+</CAPTION>
+<CAPTION ID=21>
+lábios [lábio] N M P @NPHR
+grandes [grande] ADJ M P @N<
+
+</CAPTION>
+<CAPTION ID=22>
+recém [recém] ADV @ADVL>
+nascido [nascer] <ve> V PCP M S @SUBJ>
+dormindo [dormir] <vi> V GER @IMV @#ICL-ADVL
+
+</CAPTION>
+<CAPTION ID=2226>
+bebê [bebê] <Hbio> N M S @SUBJ>
+dormindo [dormir] <vi> V GER @IMV
+
+</CAPTION>
+<CAPTION ID=2327>
+bebê [bebê] <Hbio> N M S @NPHR
+no colo [no=colo] <aloc> ADV @ADVL
+.
+
+</CAPTION>
+<CAPTION ID=2330>
+uma [um] <arti> DET F S @>N
+criança [criança] <prop> <H> N F S @NPHR
+
+</CAPTION>
+<CAPTION ID=2331>
+o [o] <artd> DET M S @>N
+grande [grande] ADJ M S @>N
+beiço [beiço] <an> <Labs> N M S @NPHR
+de [de] <sam-> PRP @N<
+o [o] <-sam> <artd> DET M S @>N
+bebê [bebê] <Hbio> N M S @P<
+
+</CAPTION>
+<CAPTION ID=2332>
+em [em] <sam-> PRP @ADVL
+a [o] <-sam> <artd> DET F S @>N
+hora [hora] <dur> <temp> <unit> N F S @P<
+de [de] <sam-> PRP @N<
+o [o] <-sam> <artd> DET M S @>N
+nascimento [nascimento] <event> N M S @P<
+
+</CAPTION>
+<CAPTION ID=2335>
+criança [criança] <H> N F S @NPHR
+doente [doente] <prop> ADJ F S @N<
+.
+
+</CAPTION>
+<CAPTION ID=2338>
+bebê [bebê] <Hbio> N M S @NPHR
+
+</CAPTION>
+<CAPTION ID=2340>
+bebê [bebê] <Hbio> N M S @NPHR
+e [e] KC @CO
+os [o] <artd> DET M P @>N
+maus [mau] ADJ M P @>N
+tratos [trato] <f-psych> <Labs> <per> <sem-c> N M P @NPHR
+
+</CAPTION>
+<CAPTION ID=2444>
+bebê [bebê] <Hbio> N M S @SUBJ>
+dormindo [dormir] <vi> V GER @IMV
+calmamente [calmo] ADV @<ADVL
+
+</CAPTION>
+<CAPTION ID=25>
+recém [recém] ADV @ADVL
+nascido [nascer] V PCP M S @NPHR
+doente [doente] ADJ M/F S @<SC
+
+</CAPTION>
+<CAPTION ID=2528>
+criança [criança] <H> N F S @NPHR
+coberta [cobrir] <vt> V PCP F S @N<
+
+</CAPTION>
+<CAPTION ID=270>
+o [o] <artd> DET M S @>N
+recém [recém] ADV @>A
+nascido [nascer] <n> V PCP M S @NPHR
+
+</CAPTION>
+<CAPTION ID=28>
+recém-nascida [nascer] V PCP F S @NPHR
+
+</CAPTION>
+<CAPTION ID=282>
+bebê [bebê] <Hbio> N M S @SUBJ>
+dormindo [dormir] <vi> V GER @IMV
+
+</CAPTION>
+<CAPTION ID=2838>
+deficiência [deficiência] <am> N F S @NPHR
+
+</CAPTION>
+<CAPTION ID=2840>
+bebê [bebê] <Hbio> N M S @NPHR
+deitado [deitado] ADJ M S @N<
+de olhos fechados [de=olhos=fechados] ADJ @N<
+
+</CAPTION>
+<CAPTION ID=2841>
+bebê [bebê] <Hbio> N M S @NPHR
+enrolado [enrolar] <vt> V PCP M S @IMV @#ICL-N<
+em [em] PRP @<ADVL
+manta [manta] <Lcover> <Lopening> <cm> <Aich> N F S @P<
+
+</CAPTION>
+<CAPTION ID=3022>
+bebê [bebê] <Hbio> N M S @SUBJ>
+dormindo [dormir] <vi> V GER @IMV
+sob [sob] PRP @<ADVL
+cobertores [cobertor] <Lcover> N M P @P<
+
+</CAPTION>
+<CAPTION ID=3023>
+retrato [retrato] <pict> N M S @NPHR
+cruel [cruel] ADJ M S @N<
+
+</CAPTION>
+<CAPTION ID=31>
+recém [recém] ADV @ADVL
+--
+nascido [nascer] V PCP M S @NPHR
+
+</CAPTION>
+<CAPTION ID=32>
+o [o] <artd> DET M S @>N
+bebê [bebê] <Hbio> N M S @NPHR
+
+</CAPTION>
+<CAPTION ID=3228>
+recém-nascido [recém-nascer] <ve> V PCP M S @ACC>
+e [e] KC @CO
+estampas [estampar] <fmc> <vt> V PR 2S IND VFIN @FMV
+
+</CAPTION>
+<CAPTION ID=3232>
+recém [recém] ADV @ADVL
+nascida [nascer] V PCP F S @NPHR
+
+</CAPTION>
+<CAPTION ID=3233>
+doença [doença] <disease> <sick> N F S @NPHR
+em [em] PRP @N<
+bebê [bebê] <Hbio> N M S @P<
+.
+
+</CAPTION>
+<CAPTION ID=33>
+criança [criança] <H> N F S @NPHR
+em [em] <sam-> PRP @N<
+o [o] <-sam> <artd> DET M S @>N
+manto [manto] N M S @P<
+
+</CAPTION>
+<CAPTION ID=3321>
+criança [criança] <H> N F S @SC>
+recém-nascida [nascer] V PCP F S @N<
+
+</CAPTION>
+<CAPTION ID=356>
+recém-nascido [recém-nascer] <n> <ve> V PCP M S @NPHR
+em [em] PRP @N<
+seu [seu] <poss 3S> DET M S @>N
+cobertor [cobertor] <Lcover> N M S @P<
+
+</CAPTION>
+<CAPTION ID=36>
+bebê [bebê] <Hbio> N M S @NPHR
+com [com] PRP @N<
+doença [doença] <sick> N F S @P<
+rara [raro] ADJ F S @N<
+
+</CAPTION>
+<CAPTION ID=379>
+neném [neném] <H> N M S @SUBJ>
+descansando [descansar] <vi> V GER @IMV
+.
+
+</CAPTION>
+<CAPTION ID=398>
+bebê [bebê] <Hbio> N M S @NPHR
+de [de] PRP @N<
+boca [boca] <Lopening> N F S @P<
+grande [grande] ADJ F S @N<
+
+</CAPTION>
+<CAPTION ID=4021>
+bebê [bebê] <Hbio> N M S @SUBJ>
+dormindo [dormir] <vi> V GER @IMV
+em [em] PRP @<ADVL
+cobertor [cobertor] <Lcover> N M S @P<
+
+</CAPTION>
+<CAPTION ID=4023>
+bebê [bebê] <Hbio> N M S @NPHR
+de olhos fechados [de=olhos=fechados] ADJ @N<
+
+</CAPTION>
+<CAPTION ID=4024>
+bebê [bebê] <Hbio> N M S @NPHR
+enrolado [enrolar] <vt> V PCP M S @IMV @#ICL-N<
+em [em] <sam-> PRP @<ADVL
+o [o] <-sam> <artd> DET M S @>N
+edredom [edredom] <Lcover> N M S @P<
+.
+
+</CAPTION>
+<CAPTION ID=4025>
+bebê [bebê] <Hbio> N M S @NPHR
+com [com] PRP @N<
+a [o] <artd> DET F S @>N
+boca [boca] <Lopening> N F S @P<
+vermelha [vermelho] ADJ F S @N<
+
+</CAPTION>
+<CAPTION ID=4026>
+bebê [bebê] <Hbio> N M S @NPHR
+com [com] PRP @N<
+lábios [lábio] N M P @P<
+grandes [grande] ADJ M P @N<
+.
+
+</CAPTION>
+<CAPTION ID=4027>
+bebê [bebê] <Hbio> N M S @NPHR
+enrolado [enrolar] <vt> V PCP M S @N<
+em [em] <sam-> PRP @<ADVL
+a [o] <-sam> <artd> DET F S @>N
+coberta [cobrir] <n> V PCP F S @P<
+
+</CAPTION>
+<CAPTION ID=4028>
+bebê [bebê] <Hbio> N M S @NPHR
+envolto [envolver] <vt> V PCP M S @IMV @#ICL-N<
+em [em] PRP @<ADVL
+manta [manta] <Lcover> <Lopening> <cm> <Aich> N F S @P<
+
+</CAPTION>
+<CAPTION ID=4030>
+um [um] <arti> DET M S @>N
+bebê [bebê] <Hbio> N M S @NPHR
+enrolado [enrolar] <vt> V PCP M S @N<
+em [em] PRP @<ADVL
+cobertas [cobrir] V PCP F P @P<
+.
+
+</CAPTION>
+<CAPTION ID=4032>
+bebê [bebê] <Hbio> N M S @NPHR
+enrolado [enrolar] <vt> V PCP M S @IMV @#ICL-N<
+em [em] PRP @<ADVL
+cobertor [cobertor] <Lcover> N M S @P<
+
+</CAPTION>
+<CAPTION ID=405>
+bebê [bebê] <Hbio> N M S @SUBJ>
+dormindo [dormir] <vi> V GER @IMV
+.
+
+</CAPTION>
+<CAPTION ID=430>
+criança [criança] <H> N F S @NPHR
+enrolada [enrolar] <vt> V PCP F S @IMV @#ICL-N<
+em [em] <sam-> PRP @<ADVL
+o [o] <-sam> <artd> DET M S @>N
+cobertor [cobertor] <Lcover> N M S @P<
+
+</CAPTION>
+<CAPTION ID=495>
+bebê [bebê] <Hbio> N M S @NPHR
+enrolado [enrolar] <vt> V PCP M S @IMV @#ICL-N<
+em [em] PRP @<ADVL
+uma [um] <arti> DET F S @>N
+manta [manta] <Lcover> <Lopening> <cm> <Aich> N F S @P<
+.
+
+</CAPTION>
+<CAPTION ID=5031>
+um [um] <card> NUM M S @>N
+criança [criança] <H> N F S @NPHR
+recém-nascida [nascer] V PCP F S @N<
+
+</CAPTION>
+<CAPTION ID=5032>
+recém [recém] ADV @ADVL
+nascido [nascer] V PCP M S @NPHR
+
+</CAPTION>
+<CAPTION ID=5033>
+criança [criança] <H> N F S @SUBJ>
+dormindo [dormir] <vi> V GER @IMV
+após [após] PRP @<ADVL
+nascer [nascer] <vK> V INF @IMV @#ICL-P<
+
+</CAPTION>
+<CAPTION ID=5034>
+bebê [bebê] <Hbio> N M S @NPHR
+recém [recém] ADV @ADVL>
+nascido [nascer] V PCP M S @IMV @#ICL-N<
+
+</CAPTION>
+<CAPTION ID=5035>
+recém [recém] ADV @ADVL
+nascido [nascer] V PCP M S @NPHR
+
+</CAPTION>
+<CAPTION ID=5036>
+bebê [bebê] <Hbio> N M S @NPHR
+menino [menino] <Hbio> N M S @N<
+negro [negro] ADJ M S @N<
+coberto [cobrir] <vt> V PCP M S @N<
+
+</CAPTION>
+<CAPTION ID=521>
+criança [criança] <H> N F S @NPHR
+recém [recém] ADV @ADVL>
+nascida [nascer] V PCP F S @IMV @#ICL-N<
+
+</CAPTION>
+<CAPTION ID=58>
+um [um] <arti> DET M S @>N
+bebê [bebê] <Hbio> N M S @NPHR
+em [em] <sam-> PRP @N<
+uma [um] <-sam> <arti> DET F S @>N
+manta [manta] <Lcover> <Lopening> <cm> <Aich> N F S @P<
+
+</CAPTION>
+<CAPTION ID=684>
+criança [criança] <H> N F S @SUBJ>
+se [se] <refl> PERS M/F 3S ACC @ACC>
+encontra [encontrar] <fmc> V PR 3S IND VFIN @FMV
+imóvel [imóvel] ADJ M/F S @<OC
+
+</CAPTION>
+<CAPTION ID=687>
+bebê [bebê] <Hbio> N M S @NPHR
+de [de] <sam-> PRP @N<
+o [o] <-sam> <artd> DET M S @>N
+xale [xale] N M S @P<
+vermelho [vermelho] ADJ M S @N<
+
+</CAPTION>
+<CAPTION ID=76>
+bebê [bebê] <Hbio> N M S @NPHR
+doente [doente] ADJ M S @N<
+
+</CAPTION>
+<CAPTION ID=771>
+recém-nascido [recém-nascer] <ve> V PCP M S @>N
+negro [negro] <Htit> <Hbio> <Hattr> N M S @NPHR
+em [em] <sam-> PRP @N<
+a [o] <-sam> <artd> DET F S @>N
+manta [manta] <Lcover> <Lopening> <cm> <Aich> N F S @P<
+
+</CAPTION>
+<CAPTION ID=772>
+criança [criança] <H> N F S @SUBJ>
+recém-nascida [nascer] <ve> V PCP F S @N<
+dormindo [dormir] <vi> V GER @IMV
+
+</CAPTION>
+<CAPTION ID=781>
+um [um] <arti> DET M S @>N
+recém-nascido [nascer] <ve> <n> V PCP M S @NPHR
+.
+
+</CAPTION>
+<CAPTION ID=783>
+recém-nascido [recém-nascer] V PCP M S @NPHR
+
+</CAPTION>
+<CAPTION ID=788>
+bebê [bebê] <Hbio> N M S @NPHR
+doente [doente] ADJ M S @N<
+enrolada [enrolar] <vt> V PCP F S @IMV @#ICL-N<
+em [em] <sam-> PRP @<ADVL
+o [o] <-sam> <artd> DET M S @>N
+pano [pano] <Lcover> <mat-cloth> <cc-rag> <sick-c> <tool-sail> N M S @P<
+
+</CAPTION>
+<CAPTION ID=790>
+bebe [beber] <fmc> <vt> V PR 3S IND VFIN @FMV
+negro [negro] ADJ M S @<PRED
+com [com] PRP @<ADVL
+batom [batom] <tool> N M S @P<
+
+</CAPTION>
+<CAPTION ID=791>
+recém [recém] ADV @ADVL
+nascido [nascer] <ve> V PCP M S @NPHR
+
+</CAPTION>
+<CAPTION ID=799>
+bebê [bebê] <Hbio> N M S @NPHR
+enrolado [enrolar] <vt> V PCP M S @IMV @#ICL-N<
+em [em] <sam-> PRP @<ADVL
+o [o] <-sam> <artd> DET M S @>N
+lençol [lençol] <cc-rag> <Lwater> N M S @P<
+
+</CAPTION>
+<CAPTION ID=811>
+bebê [bebê] <Hbio> N M S @NPHR
+com [com] PRP @N<
+lábios [lábio] N M P @P<
+grandes [grande] ADJ M P @N<
+.
+
+</CAPTION>
+<CAPTION ID=820>
+recém [recém] ADV @ADVL
+nascido [nascer] <n> <ve> V PCP M S @NPHR
+em [em] <sam-> PRP @N<
+as [o] <-sam> <artd> DET F P @>N
+ruas [rua] N F P @P<
+
+</CAPTION>
+<CAPTION ID=821>
+criança [criança] <H> N F S @NPHR
+negra [negro] ADJ F S @N<
+recém [recém] ADV @ADVL>
+nascida [nascer] <ve> V PCP F S @IMV @#ICL-N<
+!
+¶
+
+</CAPTION>
+<CAPTION ID=823>
+bebê [bebê] <Hbio> N M S @NPHR
+doente [doente] ADJ M S @N<
+
+</CAPTION>
+<CAPTION ID=826>
+o [o] <artd> DET M S @>N
+bebê [bebê] <Hbio> N M S @NPHR
+
+</CAPTION>
+<CAPTION ID=827>
+criança [criança] <H> N F S @NPHR
+recém [recém] ADV @ADVL>
+nascida [nascer] <ve> V PCP F S @IMV @#ICL-N<
+.
+
+</CAPTION>
+<CAPTION ID=828>
+bebê [bebê] <Hbio> N M S @NPHR
+envolto [envolver] V PCP M S @IMV @#ICL-N<
+em [em] PRP @<PIV
+cobertor [cobertor] <Lcover> N M S @P<
+
+</CAPTION>
+<CAPTION ID=829>
+recém [recém] ADV @ADVL
+nascido [nascer] <prop> V PCP M S @NPHR
+
+</CAPTION>
+<CAPTION ID=83>
+criança [criança] <H> N F S @NPHR
+enrolada [enrolar] <vt> V PCP F S @IMV @#ICL-N<
+em [em] PRP @<ADVL
+cobertor [cobertor] <Lcover> N M S @P<
+
+</CAPTION>
+<CAPTION ID=830>
+bebê [bebê] <Hbio> N M S @NPHR
+com [com] PRP @N<
+boca [boca] <Lopening> N F S @P<
+ferida [ferido] ADJ F S @N<
+
+</CAPTION>
+<CAPTION ID=834>
+criança [criança] <H> N F S @NPHR
+
+</CAPTION>
+<CAPTION ID=835>
+a [o] <artd> DET F S @>N
+primeira [primeiro] <NUM-ord> ADJ F S @>N
+foto [foto] <pict> N F S @NPHR
+
+</CAPTION>
+<CAPTION ID=836>
+bebê [bebê] <Hbio> N M S @NPHR
+recém-nascido [nascer] V PCP M S @N<
+
+</CAPTION>
+<CAPTION ID=837>
+bebê [bebê] <Hbio> N M S @NPHR
+recém [recém] ADV @ADVL>
+nascido [nascer] V PCP M S @IMV @#ICL-N<
+
+</CAPTION>
+<CAPTION ID=838>
+criança [criança] <H> N F S @NPHR
+com [com] PRP @N<
+lábios [lábio] N M P @P<
+carnudos [carnudo] ADJ M P @N<
+.
+
+</CAPTION>
+<CAPTION ID=839>
+bebê [bebê] <Hbio> N M S @NPHR
+recém-nascido [nascer] V PCP M S @N<
+
+</CAPTION>
+<CAPTION ID=840>
+bebê [bebê] <Hbio> N M S @NPHR
+em [em] <sam-> PRP @N<
+um [um] <-sam> <arti> DET M S @>N
+pano [pano] <Lcover> <mat-cloth> <cc-rag> <sick-c> <tool-sail> N M S @P<
+estampado [estampado] ADJ M S @N<
+.
+
+</CAPTION>
+<CAPTION ID=842>
+o [o] <artd> DET M S @>N
+bebê [bebê] <Hbio> N M S @NPHR
+adormecido [adormecido] ADJ M S @N<
+.
+
+</CAPTION>
+<CAPTION ID=844>
+anomalia [anomalia] <ac> N F S @NPHR
+em [em] PRP @N<
+bebê [bebê] <Hbio> N M S @P<
+recém [recém] ADV @ADVL>
+nascido [nascer] V PCP M S @IMV @#ICL-N<
+
+</CAPTION>
+<CAPTION ID=850>
+uma [um] <arti> DET F S @>N
+criança [criança] <H> N F S @NPHR
+recém-nascida [recém-nascer] <prop> <ve> V PCP F S @N<
+.
+
+</CAPTION>
+<CAPTION ID=854>
+criança [criança] <H> N F S @SUBJ>
+dormindo [dormir] <vi> V GER @IMV
+
+</CAPTION>
+<CAPTION ID=855>
+recém [recém] ADV @ADVL
+nascido [nascer] V PCP M S @NPHR
+
+</CAPTION>
+<CAPTION ID=856>
+um [um] <arti> DET M S @>N
+bebê [bebê] <Hbio> N M S @NPHR
+de [de] PRP @N<
+lábios [lábio] N M P @P<
+grossos [grosso] ADJ M P @N<
+
+</CAPTION>
+<CAPTION ID=858>
+um [um] <arti> DET M S @>N
+bebê [bebê] <Hbio> N M S @NPHR
+pequeno [pequeno] ADJ M S @N<
+
+</CAPTION>
+<CAPTION ID=859>
+tranquilidade [tranquilidade] <sit> <percep-f> N F S @NPHR
+ou [ou] KC @CO
+não [não] ADV @>N
+
+</CAPTION>
+<CAPTION ID=861>
+bebê [bebê] <Hbio> N M S @NPHR
+com [com] PRP @N<
+lábios [lábio] N M P @P<
+grossos [grosso] ADJ M P @N<
+
+</CAPTION>
+<CAPTION ID=862>
+bebê [bebê] <Hbio> N M S @NPHR
+recém [recém] ADV @ADVL>
+nascido [nascer] <ve> V PCP M S @IMV @#ICL-N<
+.
+
+</CAPTION>
+<CAPTION ID=863>
+bebê [bebê] <Hbio> N M S @NPHR
+adoecido [adoecer] V PCP M S @N<
+.
+
+</CAPTION>
+<CAPTION ID=864>
+criança [criança] <H> N F S @NPHR
+recém [recém] ADV @ADVL>
+nascida [nascer] <ve> V PCP F S @IMV @#ICL-N<
+.
+
+</CAPTION>
+<CAPTION ID=868>
+crianças [criança] <H> N F P @SUBJ>
+pedem [pedir] <fmc> <vt> V PR 3P IND VFIN @FMV
+socorro [socorro] <act-d> <mon> N M S @<ACC
+
+</CAPTION>
+<CAPTION ID=870>
+novo [novo] <n> ADJ M S @NPHR
+integrante [integrante] ADJ M/F S @N<
+de [de] <sam-> PRP @N<
+a [o] <-sam> <artd> DET F S @>N
+família [família] <HH> N F S @P<
+.
+
+</CAPTION>
+<CAPTION ID=875>
+bebê [bebê] <Hbio> N M S @NPHR
+recém [recém] ADV @ADVL>
+nascido [nascer] V PCP M S @IMV @#ICL-N<
+
+</CAPTION>
+<CAPTION ID=876>
+um [um] <arti> DET M S @>N
+bebê [bebê] <Hbio> N M S @NPHR
+
+</CAPTION>
+<CAPTION ID=878>
+bebê [bebê] <Hbio> N M S @SUBJ>
+dormindo [dormir] <vi> V GER @IMV
+envolto [envolver] V PCP M S @IMV @#ICL-<PRED
+em [em] PRP @<PIV
+pano [pano] <Lcover> <mat-cloth> <cc-rag> <sick-c> <tool-sail> N M S @P<
+.
+
+</CAPTION>
+<CAPTION ID=879>
+bebê [bebê] <Hbio> N M S @NPHR
+de [de] PRP @N<
+batom [batom] <tool> N M S @P<
+
+</CAPTION>
+<CAPTION ID=880>
+um [um] <arti> DET M S @>N
+bebê [bebê] <Hbio> N M S @NPHR
+de [de] PRP @N<
+lábios [lábio] N M P @P<
+grandes [grande] ADJ M P @N<
+.
+
+</CAPTION>
+<CAPTION ID=881>
+doença [doença] <disease> <sick> N F S @NPHR
+
+</CAPTION>
+<CAPTION ID=882>
+bebê [bebê] <Hbio> N M S @SUBJ>
+negro [negro] ADJ M S @N<
+dormindo [dormir] <vi> V GER @IMV
+em [em] PRP @<ADVL
+pano [pano] <Lcover> <mat-cloth> <cc-rag> <sick-c> <tool-sail> N M S @P<
+
+</CAPTION>
+<CAPTION ID=883>
+o [o] <artd> DET M S @>N
+bebê [bebê] <Hbio> N M S @NPHR
+.
+
+</CAPTION>
+<CAPTION ID=885>
+lábio [lábio] N M S @NPHR
+inchado [inchar] <vt> V PCP M S @N<
+de [de] PRP @N<
+recém [recém] ADV @ADVL
+nascido [nascer] V PCP M S @P<
+
+</CAPTION>
+<CAPTION ID=886>
+criança [criança] <H> N F S @NPHR
+recém [recém] ADV @ADVL>
+nascida [nascer] V PCP F S @IMV @#ICL-N<
+
+</CAPTION>
+<CAPTION ID=888>
+criança [criança] <H> N F S @SC>
+recém-nascida [nascer] V PCP F S @N<
+
+</CAPTION>
+<CAPTION ID=889>
+recém [recém] ADV @ADVL
+nascido [nascer] V PCP M S @NPHR
+
+</CAPTION>
+<CAPTION ID=890>
+bebê [bebê] <Hbio> N M S @NPHR
+recém-nascido [nascer] V PCP M S @N<
+
+</CAPTION>
+<CAPTION ID=891>
+recém-nascido [nascer] <ve> V PCP M S @SUBJ>
+dormindo [dormir] <vi> V GER @IMV @#ICL-ADVL
+
+</CAPTION>
+<CAPTION ID=892>
+um [um] <arti> DET M S @>N
+bebê [bebê] <Hbio> N M S @NPHR
+bocudo [boca] <DERS> ADJ M S @N<
+
+</CAPTION>
+<CAPTION ID=893>
+bebê [bebê] <Hbio> N M S @NPHR
+morena [moreno] ADJ F S @N<
+enrolada [enrolar] <vt> V PCP F S @IMV @#ICL-N<
+em [em] <sam-> PRP @<ADVL
+a [o] <-sam> <artd> DET F S @>N
+fronha [fronha] <Lcover> N F S @P<
+
+</CAPTION>
+<CAPTION ID=903>
+alergia [alergia] <disease> <sick> N F S @NPHR
+de [de] <sam-> PRP @N<
+o [o] <-sam> <artd> DET M S @>N
+bebê [bebê] <Hbio> N M S @P<
+
+</CAPTION>
+<CAPTION ID=904>
+recém [recém] ADV @ADVL
+nascido [nascer] V PCP M S @NPHR
+
+</CAPTION>
+<CAPTION ID=907>
+vida [vida] <per> N F S @NPHR
+e [e] KC @CO
+morte [morte] <event> N F S @NPHR
+
+</CAPTION>
+<CAPTION ID=908>
+parto [partir] <fmc> <vt> V PR 1S IND VFIN @FMV
+raro [raro] ADJ M S @<PRED
+
+</CAPTION>
+<CAPTION ID=909>
+criança [criança] <H> N F S @NPHR
+doente [doente] ADJ F S @N<
+
+</CAPTION>
+<CAPTION ID=910>
+maquiando [maquiar] <vt> V GER @IMV @#ICL-ADVL
+um [um] <arti> DET M S @>N
+bebê [bebê] <Hbio> N M S @<ACC
+
+</CAPTION>
+<CAPTION ID=911>
+aquecido [aquecer] <vt> V PCP M S @NPHR
+por [por] PRP @<PASS
+um [um] <arti> DET M S @>N
+manto [manto] N M S @P<
+
+</CAPTION>
+<CAPTION ID=914>
+bebê [bebê] <Hbio> N M S @SUBJ>
+dormindo [dormir] <vi> V GER @IMV
+
+</CAPTION>
+<CAPTION ID=915>
+chorar [chorar] <vi> V INF @IMV
+pra [para] PRP @<ADVL
+que [que] KS @SUB @#FS-P<
+
+</CAPTION>
+<CAPTION ID=916>
+criança [criança] <H> N F S @NPHR
+morta [morto] ADJ F S @N<
+
+</CAPTION>
+<CAPTION ID=917>
+Self Dark Children [Self=Dark=Children] <hum> PROP M/F S @NPHR
+
+</CAPTION>
+<CAPTION ID=918>
+recém [recém] ADV @ADVL
+nascido [nascer] <n> <ve> V PCP M S @NPHR
+de [de] PRP @N<
+lábio [lábio] N M S @P<
+grande [grande] ADJ M S @N<
+.
+
+</CAPTION>
+<CAPTION ID=922>
+diferença [diferença] <ac> N F S @NPHR
+social [social] ADJ F S @N<
+
+</CAPTION>
+<CAPTION ID=934>
+criança [criança] <H> N F S @NPHR
+negra [negro] ADJ F S @N<
+
+</CAPTION>
+<CAPTION ID=935>
+recém-nascido [recém-nascer] <n> <ve> V PCP M S @NPHR
+de [de] PRP @N<
+lábios [lábio] N M P @P<
+grossos [grosso] ADJ M P @N<
+
+</CAPTION>
+<CAPTION ID=94>
+bebê [bebê] <Hbio> N M S @NPHR
+enrolado [enrolar] <vt> V PCP M S @IMV @#ICL-N<
+em [em] PRP @<ADVL
+pano [pano] <Lcover> <mat-cloth> <cc-rag> <sick-c> <tool-sail> N M S @P<
+
+</CAPTION>
+<CAPTION ID=945>
+criança [criança] <H> N F S @NPHR
+adormecida [adormecido] ADJ F S @N<
+
+</CAPTION>
+<CAPTION ID=946>
+bebê [bebê] <Hbio> N M S @NPHR
+enrolado [enrolar] <vt> V PCP M S @IMV @#ICL-N<
+em [em] <sam-> PRP @<ADVL
+o [o] <-sam> <artd> DET M S @>N
+cobertor [cobertor] <Lcover> N M S @P<
+
+</CAPTION>
+<CAPTION ID=947>
+bebê [bebê] <Hbio> N M S @NPHR
+
+</CAPTION>
+<CAPTION ID=951>
+o [o] <artd> DET M S @>N
+bebê [bebê] <Hbio> N M S @NPHR
+e [e] KC @CO
+a [o] <artd> DET F S @>N
+manta [manta] <Lcover> <Lopening> <cm> <Aich> N F S @NPHR
+
+</CAPTION>
+<CAPTION ID=982>
+o [o] <artd> DET M S @>N
+bebê [bebê] <Hbio> N M S @NPHR
+
+</CAPTION>
+<CAPTION ID=991>
+bebê [bebê] <Hbio> N M S @NPHR
+pálido [pálido] ADJ M S @N<
+
+</CAPTION>

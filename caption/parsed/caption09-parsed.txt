@@ -1,0 +1,981 @@
+<CAPTION ID=1040>
+a [o] <artd> DET F S @>N
+idade [idade] <f-q> <per> N F S @NPHR
+.
+
+</CAPTION>
+<CAPTION ID=1052>
+um [um] <arti> DET M S @>N
+idoso [idoso] <n> ADJ M S @NPHR
+
+</CAPTION>
+<CAPTION ID=1054>
+em [em] <sam-> PRP @ADVL
+o [o] <-sam> <artd> DET M S @>N
+chão [chão] <Ltop> <part-build> <build> N M S @P<
+
+</CAPTION>
+<CAPTION ID=1055>
+homem [homem] <Hbio> N M S @NPHR
+sentado [sentado] ADJ M S @N<
+.
+
+</CAPTION>
+<CAPTION ID=1058>
+senhor [senhor] <Htit> N M S @NPHR
+debilitado [debilitar] <vt> V PCP M S @N<
+
+</CAPTION>
+<CAPTION ID=1059>
+corcunda [corcunda] <sick-c> N F S @NPHR
+
+</CAPTION>
+<CAPTION ID=1143>
+greve de fome [greve=de=fome] <occ> N F S @NPHR
+
+</CAPTION>
+<CAPTION ID=1144>
+pedinte [pedinte] <H> N M/F S @NPHR
+
+</CAPTION>
+<CAPTION ID=1165>
+idoso [idoso] ADJ M S @NPHR
+
+</CAPTION>
+<CAPTION ID=144>
+idoso [idoso] <n> ADJ M S @NPHR
+sentado [sentar] V PCP M S @IMV @#ICL-N<
+em [em] <sam-> PRP @<ADVL
+o [o] <-sam> <artd> DET M S @>N
+chão [chão] <Ltop> <part-build> <build> N M S @P<
+
+</CAPTION>
+<CAPTION ID=19>
+crenças [crença] <am> N F P @NPHR
+
+</CAPTION>
+<CAPTION ID=20>
+abrigo [abrigo] <Lh> N M S @NPHR
+
+</CAPTION>
+<CAPTION ID=2032>
+homem [homem] <Hbio> N M S @NPHR
+de [de] PRP @N<
+idade [idade] <f-q> <per> N F S @P<
+
+</CAPTION>
+<CAPTION ID=2033>
+homem [homem] <Hbio> N M S @NPHR
+sentado [sentado] <prop> ADJ M S @N<
+
+</CAPTION>
+<CAPTION ID=2035>
+invisível [invisível] ADJ M/F S @NPHR
+
+</CAPTION>
+<CAPTION ID=2037>
+homem [homem] <Hbio> N M S @NPHR
+muito [muito] <quant> ADV @>A
+pobre [pobre] ADJ M/F S @N<
+
+</CAPTION>
+<CAPTION ID=2038>
+velhinho [velhinho] <H> N M S @NPHR
+triste [triste] ADJ M S @N<
+
+</CAPTION>
+<CAPTION ID=2039>
+sentado [sentar] <n> V PCP M S @NPHR
+a [a] <sam-> PRP @N<
+o [o] <-sam> <artd> DET M S @>N
+chão [chão] <Ltop> <part-build> <build> N M S @P<
+.
+
+</CAPTION>
+<CAPTION ID=2043>
+indiano [indiano] <Hnat> N M S @SUBJ>
+espera [esperar] <fmc> V PR 3S IND VFIN @FMV
+em [em] <sam-> PRP @<PIV
+o [o] <-sam> <artd> DET M S @>N
+hospital [hospital] <inst> N M S @P<
+
+</CAPTION>
+<CAPTION ID=21>
+homem [homem] <Hbio> N M S @NPHR
+corcunda [corcunda] <sick-c> N F S @NPHR
+
+</CAPTION>
+<CAPTION ID=22>
+homem [homem] <Hbio> N M S @SUBJ>
+sentando [sentar] <vi> V GER @IMV
+em [em] <sam-> PRP @<ADVL
+o [o] <-sam> <artd> DET M S @>N
+chão [chão] <Ltop> <part-build> <build> N M S @P<
+
+</CAPTION>
+<CAPTION ID=2226>
+idoso [idoso] <n> ADJ M S @NPHR
+sentado [sentar] V PCP M S @IMV @#ICL-N<
+em [em] <sam-> PRP @<ADVL
+o [o] <-sam> <artd> DET M S @>N
+chão [chão] <Ltop> <part-build> <build> N M S @P<
+.
+
+</CAPTION>
+<CAPTION ID=2327>
+senhor [senhor] <Htit> N M S @NPHR
+em [em] PRP @N<
+posição [posição] <act> <pos-an> N F S @P<
+de [de] PRP @N<
+lótus [lótus] <Bflo> N M S @P<
+.
+
+</CAPTION>
+<CAPTION ID=2330>
+homem [homem] <Hbio> N M S @NPHR
+sentado [sentado] ADJ M S @N<
+
+</CAPTION>
+<CAPTION ID=2331>
+o [o] <artd> DET M S @>N
+mendigo [mendigo] <Hprof> N M S @NPHR
+sentado [sentar] V PCP M S @IMV @#ICL-N<
+em [em] <sam-> PRP @<ADVL
+o [o] <-sam> <artd> DET M S @>N
+chão [chão] <Ltop> <part-build> <build> N M S @P<
+
+</CAPTION>
+<CAPTION ID=2332>
+invisível [invisível] ADJ M/F S @NPHR
+
+</CAPTION>
+<CAPTION ID=2335>
+senhor [senhor] <Htit> N M S @NPHR
+idoso [idoso] <prop> ADJ M S @N<
+
+</CAPTION>
+<CAPTION ID=2338>
+senhor [senhor] <Htit> N M S @NPHR
+humilde [humilde] ADJ M S @N<
+.
+
+</CAPTION>
+<CAPTION ID=2340>
+homem [homem] <Hbio> N M S @NPHR
+oriental [oriental] ADJ M S @N<
+pobre [pobre] ADJ M S @N<
+
+</CAPTION>
+<CAPTION ID=2444>
+o [o] <artd> DET M S @>N
+descanso [descanso] <sit> <per> <furn> N M S @NPHR
+de [de] <sam-> PRP @N<
+o [o] <-sam> <artd> DET M S @>N
+guerreiro [guerreiro] <Hprof> N M S @P<
+
+</CAPTION>
+<CAPTION ID=25>
+senhor [senhor] <Htit> N M S @NPHR
+em [em] <sam-> PRP @N<
+o [o] <-sam> <artd> DET M S @>N
+chão [chão] <Ltop> <part-build> <build> N M S @P<
+
+</CAPTION>
+<CAPTION ID=2528>
+velho [velho] ADJ M S @>N
+sentado [sentado] <n> ADJ M S @NPHR
+
+</CAPTION>
+<CAPTION ID=270>
+asiático [asiático] <Hnat> N M S @NPHR
+idoso [idoso] ADJ M S @N<
+
+</CAPTION>
+<CAPTION ID=28>
+senhor [senhor] <Htit> N M S @NPHR
+sentado [sentar] V PCP M S @IMV @#ICL-N<
+em [em] <sam-> PRP @<ADVL
+o [o] <-sam> <artd> DET M S @>N
+chão [chão] <Ltop> <part-build> <build> N M S @P<
+
+</CAPTION>
+<CAPTION ID=282>
+homem [homem] <Hbio> N M S @NPHR
+sentado [sentado] ADJ M S @N<
+
+</CAPTION>
+<CAPTION ID=2838>
+idoso [idoso] ADJ M S @NPHR
+
+</CAPTION>
+<CAPTION ID=2840>
+idoso [idoso] ADJ M S @>N
+asiático [asiático] <Hnat> N M S @NPHR
+sentado [sentar] V PCP M S @IMV @#ICL-N<
+em [em] <sam-> PRP @<ADVL
+o [o] <-sam> <artd> DET M S @>N
+chão [chão] <Ltop> <part-build> <build> N M S @P<
+
+</CAPTION>
+<CAPTION ID=2841>
+senhor [senhor] <Htit> N M S @NPHR
+sentado [sentar] V PCP M S @IMV @#ICL-N<
+em [em] <sam-> PRP @<ADVL
+o [o] <-sam> <artd> DET M S @>N
+chão [chão] <Ltop> <part-build> <build> N M S @P<
+
+</CAPTION>
+<CAPTION ID=3022>
+velho [velho] ADJ M S @>N
+sentado [sentado] <n> ADJ M S @NPHR
+
+</CAPTION>
+<CAPTION ID=3023>
+cuide [cuidar] <fmc> V PR 1/3S SUBJ VFIN @FMV
+e [e] <co-vfin> KC @CO
+ame [amar] <fmc> <vt> V PR 1/3S SUBJ VFIN @FMV
+
+</CAPTION>
+<CAPTION ID=31>
+homem [homem] <Hbio> N M S @NPHR
+idoso [idoso] ADJ M S @N<
+
+</CAPTION>
+<CAPTION ID=32>
+o [o] <artd> DET M S @>N
+senhor [senhor] <Htit> N M S @NPHR
+
+</CAPTION>
+<CAPTION ID=3228>
+senhor [senhor] <Htit> N M S @NPHR
+simples [simples] ADJ M S @N<
+sentado [sentar] V PCP M S @IMV @#ICL-N<
+em [em] <sam-> PRP @<ADVL
+o [o] <-sam> <artd> DET M S @>N
+chão [chão] <Ltop> <part-build> <build> N M S @P<
+
+</CAPTION>
+<CAPTION ID=3232>
+melhor [bom] <KOMP> <SUP> ADJ F S @>N
+idade [idade] <f-q> <per> N F S @NPHR
+
+</CAPTION>
+<CAPTION ID=3233>
+homem [homem] <Hbio> N M S @NPHR
+no meio de [no=meio=de] <sam-> PRP @N<
+a [o] <artd> <-sam> DET F S @>N
+multidão [multidão] <HH> N F S @P<
+.
+
+</CAPTION>
+<CAPTION ID=33>
+envergado [envergar] <vt> V PCP M S @NPHR
+
+</CAPTION>
+<CAPTION ID=3321>
+homem [homem] <Hbio> N M S @NPHR
+idoso [idoso] ADJ M S @N<
+
+</CAPTION>
+<CAPTION ID=356>
+morador [morador] <Hattr> N M S @SUBJ>
+de [de] PRP @N<
+rua [rua] <Lpath> N F S @P<
+pede [pedir] <fmc> <vt> V PR 3S IND VFIN @FMV
+esmola [esmola] <mon> N F S @<ACC
+
+</CAPTION>
+<CAPTION ID=36>
+homem [homem] <Hbio> N M S @NPHR
+idoso [idoso] ADJ M S @N<
+sentado [sentado] ADJ M S @N<
+
+</CAPTION>
+<CAPTION ID=379>
+senhor [senhor] <Htit> N M S @NPHR
+oriental [oriental] ADJ M S @N<
+sentado [sentado] ADJ M S @N<
+.
+
+</CAPTION>
+<CAPTION ID=398>
+senhor [senhor] <Htit> N M S @NPHR
+sentado [sentado] ADJ M S @N<
+
+</CAPTION>
+<CAPTION ID=4021>
+homem [homem] <Hbio> N M S @NPHR
+corcunda [corcunda] <sick-c> N F S @NPHR
+sentado [sentado] ADJ M S @<PRED
+
+</CAPTION>
+<CAPTION ID=4023>
+senhor [senhor] <Htit> N M S @NPHR
+sentado [sentado] ADJ M S @N<
+
+</CAPTION>
+<CAPTION ID=4024>
+um [um] <arti> DET M S @>N
+homem [homem] <Hbio> N M S @NPHR
+idoso [idoso] ADJ M S @N<
+sentado [sentado] ADJ M S @N<
+.
+
+</CAPTION>
+<CAPTION ID=4025>
+senhor [senhor] <Htit> N M S @NPHR
+sentado [sentado] ADJ M S @N<
+
+</CAPTION>
+<CAPTION ID=4026>
+idoso [idoso] ADJ M S @>N
+sentado [sentado] <n> ADJ M S @NPHR
+.
+
+</CAPTION>
+<CAPTION ID=4027>
+asiático [asiático] <Hnat> N M S @NPHR
+idoso [idoso] ADJ M S @N<
+
+</CAPTION>
+<CAPTION ID=4028>
+idoso [idoso] <n> ADJ M S @NPHR
+sentado [sentar] V PCP M S @N<
+a [a] <sam-> PRP @ADVL
+o [o] <-sam> <artd> DET M S @>N
+chão [chão] <Ltop> <part-build> <build> N M S @P<
+
+</CAPTION>
+<CAPTION ID=4030>
+velho [velho] ADJ M S @>N
+asiático [asiático] <Hnat> N M S @NPHR
+sentado [sentar] V PCP M S @IMV @#ICL-N<
+em [em] <sam-> PRP @<ADVL
+o [o] <-sam> <artd> DET M S @>N
+chão [chão] <Ltop> <part-build> <build> N M S @P<
+
+</CAPTION>
+<CAPTION ID=4032>
+senhor [senhor] <Htit> N M S @NPHR
+sentado [sentar] V PCP M S @IMV @#ICL-N<
+em [em] <sam-> PRP @<ADVL
+o [o] <-sam> <artd> DET M S @>N
+chão [chão] <Ltop> <part-build> <build> N M S @P<
+
+</CAPTION>
+<CAPTION ID=405>
+senhor [senhor] <Htit> N M S @NPHR
+de [de] PRP @N<
+idade [idade] <f-q> <per> N F S @P<
+sentado [sentado] ADJ M S @N<
+.
+
+</CAPTION>
+<CAPTION ID=430>
+senhor [senhor] <Htit> N M S @NPHR
+sentado [sentado] ADJ M S @N<
+
+</CAPTION>
+<CAPTION ID=495>
+idoso [idoso] ADJ M S @>N
+sentado [sentado] <n> ADJ M S @NPHR
+.
+
+</CAPTION>
+<CAPTION ID=5031>
+um [um] <arti> DET M S @>N
+idoso [idoso] ADJ M S @>N
+japonês [japonês] <Hnat> <ling> N M S @NPHR
+
+</CAPTION>
+<CAPTION ID=5032>
+senhor [senhor] <Htit> N M S @NPHR
+sentado [sentar] V PCP M S @IMV @#ICL-N<
+em [em] <sam-> PRP @<ADVL
+o [o] <-sam> <artd> DET M S @>N
+chão [chão] <Ltop> <part-build> <build> N M S @P<
+
+</CAPTION>
+<CAPTION ID=5033>
+homem [homem] <Hbio> N M S @NPHR
+velho [velho] ADJ M S @N<
+sentado [sentado] ADJ M S @N<
+.
+
+</CAPTION>
+<CAPTION ID=5034>
+senhor [senhor] <Htit> N M S @NPHR
+idoso [idoso] ADJ M S @N<
+sentado [sentar] V PCP M S @IMV @#ICL-N<
+em [em] <sam-> PRP @<ADVL
+o [o] <-sam> <artd> DET M S @>N
+chão [chão] <Ltop> <part-build> <build> N M S @P<
+
+</CAPTION>
+<CAPTION ID=5035>
+o [o] <artd> DET M S @>N
+senhorzinho [senhorzinho] N M S @NPHR
+
+</CAPTION>
+<CAPTION ID=5036>
+homem [homem] <Hbio> N M S @NPHR
+idoso [idoso] ADJ M S @N<
+sentado [sentar] V PCP M S @IMV @#ICL-N<
+em [em] <sam-> PRP @<ADVL
+o [o] <-sam> <artd> DET M S @>N
+chão [chão] <Ltop> <part-build> <build> N M S @P<
+
+</CAPTION>
+<CAPTION ID=521>
+homem [homem] <Hbio> N M S @NPHR
+oriental [oriental] ADJ M S @N<
+sentado [sentado] ADJ M S @N<
+
+</CAPTION>
+<CAPTION ID=58>
+senhor [senhor] <Htit> N M S @NPHR
+sentado [sentar] V PCP M S @IMV @#ICL-N<
+em [em] <sam-> PRP @<ADVL
+o [o] <-sam> <artd> DET M S @>N
+chão [chão] <Ltop> <part-build> <build> N M S @P<
+
+</CAPTION>
+<CAPTION ID=684>
+homem [homem] <Hbio> N M S @NPHR
+sentado [sentar] V PCP M S @IMV @#ICL-N<
+em [em] <sam-> PRP @<ADVL
+o [o] <-sam> <artd> DET M S @>N
+chão [chão] <Ltop> <part-build> <build> N M S @P<
+
+</CAPTION>
+<CAPTION ID=687>
+senhor [senhor] <Htit> N M S @NPHR
+sentado [sentado] ADJ M S @N<
+
+</CAPTION>
+<CAPTION ID=76>
+senescência [senescência] <am> N F S @NPHR
+
+</CAPTION>
+<CAPTION ID=771>
+velho [velho] <n> ADJ M S @NPHR
+sentado [sentar] V PCP M S @IMV @#ICL-N<
+em [em] <sam-> PRP @<ADVL
+o [o] <-sam> <artd> DET M S @>N
+chão [chão] <Ltop> <part-build> <build> N M S @P<
+
+</CAPTION>
+<CAPTION ID=772>
+velho [velho] <n> ADJ M S @NPHR
+sentado [sentar] V PCP M S @IMV @#ICL-N<
+em [em] <sam-> PRP @<ADVL
+o [o] <-sam> <artd> DET M S @>N
+chão [chão] <Ltop> <part-build> <build> N M S @P<
+
+</CAPTION>
+<CAPTION ID=781>
+velhice [velhice] <f-h> N F S @NPHR
+corcunda [corcunda] <sick-c> N F S @NPHR
+
+</CAPTION>
+<CAPTION ID=783>
+homem [homem] <Hbio> N M S @NPHR
+solitário [solitário] ADJ M S @N<
+em [em] <sam-> PRP @N<
+o [o] <-sam> <artd> DET M S @>N
+chão [chão] <Ltop> <part-build> <build> N M S @P<
+
+</CAPTION>
+<CAPTION ID=788>
+senhor [senhor] <Htit> N M S @NPHR
+encurvado [encurvar] <vt> V PCP M S @N<
+
+</CAPTION>
+<CAPTION ID=790>
+idoso [idoso] ADJ M S @>N
+morador [morador] <Hattr> N M S @NPHR
+de [de] PRP @N<
+rua [rua] N F S @P<
+
+</CAPTION>
+<CAPTION ID=791>
+senhor [senhor] <Htit> N M S @NPHR
+sentado [sentado] ADJ M S @N<
+
+</CAPTION>
+<CAPTION ID=799>
+homem [homem] <Hbio> N M S @NPHR
+idoso [idoso] ADJ M S @N<
+sentado [sentado] ADJ M S @N<
+
+</CAPTION>
+<CAPTION ID=811>
+senhor [senhor] <Htit> N M S @NPHR
+pobre [pobre] ADJ M S @N<
+sentado [sentar] V PCP M S @IMV @#ICL-N<
+em [em] <sam-> PRP @<ADVL
+o [o] <-sam> <artd> DET M S @>N
+chão [chão] <Ltop> <part-build> <build> N M S @P<
+
+</CAPTION>
+<CAPTION ID=820>
+pessoa [pessoa] <H> N F S @NPHR
+idosa [idoso] ADJ F S @N<
+com [com] PRP @N<
+necessidade [necessidade] <am> <sit> N F S @P<
+
+</CAPTION>
+<CAPTION ID=821>
+homem [homem] <Hbio> N M S @NPHR
+idoso [idoso] ADJ M S @N<
+asiático [asiático] ADJ M S @N<
+!
+¶
+
+</CAPTION>
+<CAPTION ID=823>
+idoso [idoso] ADJ M S @>N
+humilde [humilde] <n> ADJ M S @NPHR
+
+</CAPTION>
+<CAPTION ID=826>
+o [o] <artd> DET M S @>N
+senhor [senhor] <Htit> N M S @NPHR
+
+</CAPTION>
+<CAPTION ID=827>
+senhor [senhor] <Htit> N M S @NPHR
+necessitado [necessitado] ADJ M S @N<
+.
+
+</CAPTION>
+<CAPTION ID=828>
+velho [velho] ADJ M S @>N
+oriental [oriental] <n> <n> ADJ M S @NPHR
+humilde [humilde] ADJ M S @N<
+sentado [sentado] ADJ M S @N<
+
+</CAPTION>
+<CAPTION ID=829>
+homem [homem] <Hbio> N M S @NPHR
+chinês [chinês] <prop> ADJ M S @N<
+
+</CAPTION>
+<CAPTION ID=83>
+homem [homem] <Hbio> N M S @NPHR
+idoso [idoso] ADJ M S @N<
+sentado [sentado] ADJ M S @N<
+.
+
+</CAPTION>
+<CAPTION ID=830>
+senhor [senhor] <Htit> N M S @NPHR
+abandonado [abandonado] ADJ M S @N<
+
+</CAPTION>
+<CAPTION ID=834>
+idoso [idoso] ADJ M S @NPHR
+.
+
+</CAPTION>
+<CAPTION ID=835>
+o [o] <artd> DET M S @>N
+valor [valor] <am> <ac> <unit> N M S @NPHR
+de [de] PRP @N<
+uma [um] <arti> DET F S @>N
+pessoa [pessoa] <H> N F S @P<
+
+</CAPTION>
+<CAPTION ID=836>
+o [o] <artd> DET M S @>N
+senhor [senhor] <Htit> N M S @NPHR
+sentado [sentar] V PCP M S @IMV @#ICL-N<
+em [em] <sam-> PRP @<ADVL
+o [o] <-sam> <artd> DET M S @>N
+chão [chão] <Ltop> <part-build> <build> N M S @P<
+
+</CAPTION>
+<CAPTION ID=837>
+homem [homem] <Hbio> N M S @NPHR
+com [com] PRP @N<
+aparência [aparência] N F S @P<
+triste [triste] ADJ F S @N<
+
+</CAPTION>
+<CAPTION ID=838>
+senhor [senhor] <Htit> N M S @NPHR
+corcunda [corcunda] <sick-c> N F S @NPHR
+em [em] <sam-> PRP @N<
+o [o] <-sam> <artd> DET M S @>N
+chão [chão] <Ltop> <part-build> <build> N M S @P<
+.
+
+</CAPTION>
+<CAPTION ID=839>
+idoso [idoso] ADJ M S @>N
+indiano [indiano] <Hnat> N M S @NPHR
+ou [ou] KC @CO
+asiático [asiático] <Hnat> N M S @NPHR
+
+</CAPTION>
+<CAPTION ID=840>
+homem [homem] <Hbio> N M S @NPHR
+sentado [sentar] V PCP M S @IMV @#ICL-N<
+em [em] <sam-> PRP @<ADVL
+o [o] <-sam> <artd> DET M S @>N
+chão [chão] <Ltop> <part-build> <build> N M S @P<
+
+</CAPTION>
+<CAPTION ID=842>
+o [o] <artd> DET M S @>N
+idoso [idoso] ADJ M S @>N
+corcunda [corcunda] <sick-c> N F S @NPHR
+.
+
+</CAPTION>
+<CAPTION ID=844>
+idoso [idoso] <n> ADJ M S @NPHR
+com [com] PRP @N<
+problema [problema] <ac> N M S @P<
+em [em] <sam-> PRP @N<PRED
+a [o] <-sam> <artd> DET F S @>N
+coluna [coluna] <part-build> <cc-r> <HH> N F S @P<
+.
+
+</CAPTION>
+<CAPTION ID=850>
+homem [homem] <Hbio> N M S @NPHR
+asiático [asiático] ADJ M S @N<
+sentado [sentar] V PCP M S @IMV @#ICL-N<
+em [em] <sam-> PRP @<ADVL
+o [o] <-sam> <artd> DET M S @>N
+chão [chão] <Ltop> <part-build> <build> N M S @P<
+
+</CAPTION>
+<CAPTION ID=854>
+senhor [senhor] <Htit> N M S @NPHR
+desnutrido [desnutrido] ADJ M S @N<
+
+</CAPTION>
+<CAPTION ID=855>
+senhor [senhor] <Htit> N M S @NPHR
+sentado [sentar] V PCP M S @IMV @#ICL-N<
+em [em] <sam-> PRP @<ADVL
+o [o] <-sam> <artd> DET M S @>N
+chão [chão] <Ltop> <part-build> <build> N M S @P<
+
+</CAPTION>
+<CAPTION ID=856>
+um [um] <arti> DET M S @>N
+velho [velho] ADJ M S @>N
+oriental [oriental] <n> <n> ADJ M S @NPHR
+sentado [sentado] ADJ M S @N<
+
+</CAPTION>
+<CAPTION ID=858>
+homem [homem] <Hbio> N M S @NPHR
+que [que] <rel> SPEC M S @SUBJ> @#FS-N<
+sofre [sofrer] <vt> V PR 3S IND VFIN @FMV
+
+</CAPTION>
+<CAPTION ID=859>
+senhor [senhor] <Htit> N M S @NPHR
+sentado [sentar] V PCP M S @IMV @#ICL-N<
+em [em] <sam-> PRP @<ADVL
+o [o] <-sam> <artd> DET M S @>N
+chão [chão] <Ltop> <part-build> <build> N M S @P<
+
+</CAPTION>
+<CAPTION ID=861>
+idoso [idoso] ADJ M S @NPHR
+
+</CAPTION>
+<CAPTION ID=862>
+senhor [senhor] <Htit> N M S @NPHR
+de [de] PRP @N<
+idade [idade] <f-q> <per> N F S @P<
+abaixado [abaixar] <vt> V PCP M S @N<
+.
+
+</CAPTION>
+<CAPTION ID=863>
+idoso [idoso] <n> ADJ M S @NPHR
+sentado [sentar] V PCP M S @N<
+a [a] <sam-> PRP @ADVL
+o [o] <-sam> <artd> DET M S @>N
+chão [chão] <Ltop> <part-build> <build> N M S @P<
+.
+
+</CAPTION>
+<CAPTION ID=864>
+senhor [senhor] <Htit> N M S @NPHR
+,
+oriental [oriental] ADJ M/F S @N<PRED
+,
+sentado [sentado] ADJ M S @N<PRED
+.
+
+</CAPTION>
+<CAPTION ID=868>
+a [o] <artd> DET F S @>N
+espera [espera] <activity> <per> N F S @SUBJ>
+nunca [nunca] <atemp> ADV @ADVL>
+acaba [acabar] <fmc> <vK> V PR 3S IND VFIN @FMV
+
+</CAPTION>
+<CAPTION ID=870>
+onde [onde] <interr> <aloc> ADV @ADVS>
+está [estar] <fmc> <vK> V PR 3S IND VFIN @FMV
+a [o] <artd> DET F S @>N
+família [família] <HH> N F S @<SUBJ
+de [de] <sam-> PRP @N<
+ele [ele] <-sam> PERS M 3S NOM/PIV @P<
+
+</CAPTION>
+<CAPTION ID=875>
+homem [homem] <Hbio> N M S @NPHR
+encurvado [encurvar] <vt> V PCP M S @N<
+
+</CAPTION>
+<CAPTION ID=876>
+um [um] <arti> DET M S @>N
+senhor [senhor] <Htit> N M S @NPHR
+sentado [sentado] ADJ M S @N<
+
+</CAPTION>
+<CAPTION ID=878>
+senhor [senhor] <Htit> N M S @NPHR
+encurvado [encurvar] <vt> V PCP M S @IMV @#ICL-N<
+em [em] <sam-> PRP @<ADVL
+o [o] <-sam> <artd> DET M S @>N
+chão [chão] <Ltop> <part-build> <build> N M S @P<
+
+</CAPTION>
+<CAPTION ID=879>
+velhinho [velhinho] <H> N M S @NPHR
+humilde [humilde] ADJ M S @N<
+
+</CAPTION>
+<CAPTION ID=880>
+um [um] <arti> DET M S @>N
+senhor [senhor] <Htit> N M S @NPHR
+oriental [oriental] ADJ M S @N<
+em [em] <sam-> PRP @N<
+o [o] <-sam> <artd> DET M S @>N
+chão [chão] <Ltop> <part-build> <build> N M S @P<
+.
+
+</CAPTION>
+<CAPTION ID=881>
+senhor [senhor] <Htit> N M S @NPHR
+de [de] PRP @N<
+idade [idade] <f-q> <per> N F S @P<
+
+</CAPTION>
+<CAPTION ID=882>
+idoso [idoso] ADJ M S @>N
+asiático [asiático] <Hnat> N M S @NPHR
+sentado [sentar] V PCP M S @IMV @#ICL-N<
+em [em] <sam-> PRP @<ADVL
+o [o] <-sam> <artd> DET M S @>N
+chão [chão] <Ltop> <part-build> <build> N M S @P<
+
+</CAPTION>
+<CAPTION ID=883>
+o [o] <artd> DET M S @>N
+homem [homem] <Hbio> N M S @NPHR
+sentado [sentado] ADJ M S @N<
+.
+
+</CAPTION>
+<CAPTION ID=885>
+senhor [senhor] <Htit> N M S @NPHR
+asiático [asiático] ADJ M S @N<
+sentado [sentado] ADJ M S @N<
+
+</CAPTION>
+<CAPTION ID=886>
+homem [homem] <Hbio> N M S @NPHR
+idoso [idoso] ADJ M S @N<
+sentado [sentar] V PCP M S @IMV @#ICL-N<
+em [em] <sam-> PRP @<ADVL
+o [o] <-sam> <artd> DET M S @>N
+chão [chão] <Ltop> <part-build> <build> N M S @P<
+
+</CAPTION>
+<CAPTION ID=888>
+senhor [senhor] <Htit> N M S @NPHR
+sentado [sentado] ADJ M S @N<
+
+</CAPTION>
+<CAPTION ID=889>
+senhor [senhor] <Htit> N M S @NPHR
+mendigo [mendigo] <Hprof> N M S @N<
+.
+
+</CAPTION>
+<CAPTION ID=890>
+idoso [idoso] <n> ADJ M S @NPHR
+com [com] PRP @N<
+vida [vida] <per> N F S @P<
+precária [precário] ADJ F S @N<
+
+</CAPTION>
+<CAPTION ID=891>
+velho [velho] <n> ADJ M S @NPHR
+sentado [sentar] V PCP M S @IMV @#ICL-N<
+em [em] <sam-> PRP @<ADVL
+o [o] <-sam> <artd> DET M S @>N
+chão [chão] <Ltop> <part-build> <build> N M S @P<
+
+</CAPTION>
+<CAPTION ID=892>
+um [um] <arti> DET M S @>N
+velho [velho] ADJ M S @>N
+oriental [oriental] <n> ADJ M S @NPHR
+
+</CAPTION>
+<CAPTION ID=893>
+velho [velho] <n> ADJ M S @NPHR
+sentado [sentar] V PCP M S @IMV @#ICL-N<
+em [em] <sam-> PRP @<ADVL
+o [o] <-sam> <artd> DET M S @>N
+chão [chão] <Ltop> <part-build> <build> N M S @P<
+
+</CAPTION>
+<CAPTION ID=903>
+homem [homem] <Hbio> N M S @NPHR
+curvado [curvado] ADJ M S @N<
+
+</CAPTION>
+<CAPTION ID=904>
+um [um] <arti> DET M S @>N
+idoso [idoso] <prop> <n> ADJ M S @NPHR
+
+</CAPTION>
+<CAPTION ID=907>
+senhor [senhor] <Htit> N M S @NPHR
+humilde [humilde] ADJ M S @N<
+
+</CAPTION>
+<CAPTION ID=908>
+ancião [ancião] <Hbio> N M S @NPHR
+
+</CAPTION>
+<CAPTION ID=909>
+homem [homem] <Hbio> N M S @SUBJ>
+mendigo [mendigar] <fmc> <vt> V PR 1S IND VFIN @FMV
+
+</CAPTION>
+<CAPTION ID=910>
+mendigo [mendigar] <fmc> <vt> V PR 1S IND VFIN @FMV
+
+</CAPTION>
+<CAPTION ID=911>
+encurvado [encurvar] <n> <vt> V PCP M S @NPHR
+a [a] <sam-> PRP @N<
+o [o] <-sam> <artd> DET M S @>N
+tempo [tempo] <am> <temp> <per> <ac-cat> <wea> N M S @P<
+
+</CAPTION>
+<CAPTION ID=914>
+homem [homem] <Hbio> N M S @SUBJ>
+sentando [sentar] <vi> V GER @IMV
+
+</CAPTION>
+<CAPTION ID=915>
+alguém [alguém] SPEC M S @SUBJ>
+pode [poder] <fmc> V PR 3S IND VFIN @FAUX
+ajudar [ajudar] <vt> V INF @IMV @#ICL-AUX<
+
+</CAPTION>
+<CAPTION ID=916>
+senhor [senhor] <Htit> N M S @NPHR
+corcunda [corcunda] <sick-c> N F S @NPHR
+
+</CAPTION>
+<CAPTION ID=917>
+o [o] <dem> DET M S @NPHR
+que [que] <rel> SPEC M S @ACC> @#FS-N<
+não [não] ADV @ADVL>
+se [se] PERS M/F 3S/P ACC @SUBJ>
+compra [comprar] <vt> V PR 3S IND VFIN @FMV
+.
+
+</CAPTION>
+<CAPTION ID=918>
+velho [velho] ADJ M S @>N
+chinês [chinês] <Hnat> <ling> N M S @SUBJ>
+mendigo [mendigar] <fmc> <vt> V PR 1S IND VFIN @FMV
+
+</CAPTION>
+<CAPTION ID=922>
+vida [vida] <per> N F S @NPHR
+depois [depois] <atemp> ADV @ADVL
+de [de] <sam-> PRP @A<
+os [o] <-sam> <artd> DET M P @>N
+100 [100] <card> NUM M P @>N
+anos [ano] <dur> <temp> <per> <unit> N M P @P<
+
+</CAPTION>
+<CAPTION ID=934>
+senhor [senhor] <Htit> N M S @NPHR
+humilde [humilde] ADJ M S @N<
+
+</CAPTION>
+<CAPTION ID=935>
+senhor [senhor] <Htit> N M S @NPHR
+sentado [sentar] V PCP M S @IMV @#ICL-N<
+em [em] <sam-> PRP @<ADVL
+o [o] <-sam> <artd> DET M S @>N
+chão [chão] <Ltop> <part-build> <build> N M S @P<
+
+</CAPTION>
+<CAPTION ID=94>
+idosos [idoso] ADJ M P @NPHR
+sentado [sentar] V PCP M S @NPHR
+em [em] <sam-> PRP @<ADVL
+o [o] <-sam> <artd> DET M S @>N
+chão [chão] <Ltop> <part-build> <build> N M S @P<
+
+</CAPTION>
+<CAPTION ID=945>
+senhor [senhor] <Htit> N M S @NPHR
+com [com] PRP @N<
+problemas [problema] <ac> N M P @P<
+de [de] PRP @N<
+coluna [coluna] <part-build> <cc-r> <HH> N F S @P<
+
+</CAPTION>
+<CAPTION ID=946>
+homem [homem] <Hbio> N M S @NPHR
+sentado [sentar] V PCP M S @IMV @#ICL-N<
+em [em] <sam-> PRP @<ADVL
+o [o] <-sam> <artd> DET M S @>N
+chão [chão] <Ltop> <part-build> <build> N M S @P<
+
+</CAPTION>
+<CAPTION ID=947>
+mendigo [mendigo] <Hprof> N M S @NPHR
+oriental [oriental] <prop> ADJ M S @N<
+
+</CAPTION>
+<CAPTION ID=951>
+o [o] <artd> DET M S @>N
+homem [homem] <Hbio> N M S @NPHR
+sentado [sentar] V PCP M S @IMV @#ICL-N<
+em [em] <sam-> PRP @<ADVL
+o [o] <-sam> <artd> DET M S @>N
+chão [chão] <Ltop> <part-build> <build> N M S @P<
+
+</CAPTION>
+<CAPTION ID=982>
+o [o] <artd> DET M S @>N
+idoso [idoso] <n> ADJ M S @NPHR
+
+</CAPTION>
+<CAPTION ID=991>
+idoso [idoso] ADJ M S @>N
+pobre [pobre] <n> ADJ M S @NPHR
+
+</CAPTION>

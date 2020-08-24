@@ -1,0 +1,151 @@
+1040, Crianças no ferro velho.
+1052, Menina e menino na estrada
+1054, Crianças na beira da estrada
+1055, Crianças na beira da rua.
+1058, Simplicidade em meio a entulho
+1059, crianças em área de risco
+1143, Duas crianças pobres
+1144, Filhos da guerra
+1165, Duas crianças no campo e uma e
+144, Duas crianças em uma estrada
+19, guerra
+20, Crianças no depósito
+2032, Crianças caminhando
+2033, Desigualdade
+2035, Crianças na estrada
+2037, Estrada com entulhos
+2038, Terreno abandonado
+2039, Crianças na estrada.
+2043, Em meio à guerra
+21, Crianças Tristes
+22, Crianças na beira da estrada
+2226, Crianças na estrada.
+2327, Crianças no campo e escombros.
+2330, Moradores de Rua
+2331, Casal de filhos no lixão
+2332, Irmãos abandonados
+2335, Dois irmãos na roça
+2338, Pobreza
+2340, Crianças próximas aos arames
+2444, Crianças à beira da estrada
+25, crianças nos escombros
+2528, guerra
+270, crianças no entulho
+28, campo de guerra
+282, crianças numa estrada de terra
+2838, Cenário humilde
+2840, Crianças em um local desolado
+2841, Crianças perto de entulho
+3022, Duas crianças na estrada
+3023, Infância precária
+31, Crianças na guerra
+32, Duas crianças
+3228, Crianças e uma cerca destruída
+3232, crianças no meio da guerra
+3233, Crianças no local de entulhos.
+33, Crianças do interior.
+3321, Menina e menino
+356, Crianças num depósito de lixo
+36, Um menino e menina na estrada
+379, Crianças em local insalubre.
+398, Duas pessoas num lugar sujo
+4021, Crianças e arame farpado
+4023, Crianças em estrada de terra
+4024, Crianças no entulho.
+4025, Irmãos ao lado de uma cerca
+4026, Foto de irmã e irmão no sítio.
+4027, pessoas na beira da estrada
+4028, Entulhos à beira da estrada
+4030, Duas crianças em uma estrada.
+4032, Crianças na estrada de terra
+405, Duas crianças na estrada.
+430, Mulher e menino na estrada
+495, Duas crianças.
+5031, Duas crianças em uma estrada
+5032, Crianças ao lado da cerca
+5033, casal de irmãos em uma estrada
+5034, duas crianças em uma estrada
+5035, Uma vida difícil
+5036, Crianças na estrada de barro
+521, Um casal de irmãos
+58, Crianças num lugar pobre
+684, Pessoas olhando para a câmera
+687, Duas crianças na zona rural
+76, Crianças na rua
+771, Crianças na estrada de terra
+772, crianças em meio ao lixo
+781, Crianças na estrada de terra
+783, Crianças ao lado de entulho
+788, Irmãos e materiais metálicos
+790, Irmãos na miséria plena
+791, crianças na estrada
+799, Crianças e cerca destruída
+811, 2 crianças do lado de sucata
+820, Crianças em situação de risco
+821, Crianças em cenário pós guerra
+823, Crianças no lugar errado
+826, Duas crianças nos entulhos.
+827, Menina e menino juntos.
+828, 2 crianças em estrada de terra
+829, Crianças ao lado da guerra
+83, Duas crianças em uma estrada.
+830, crianças em local abandonado
+834, tristeza.
+835, A miséria
+836, crianças a beira da estrada
+837, Duas crianças em uma estrada
+838, Crianças na estrada de terra.
+839, Crianças e a guerra na Síria
+840, crianças numa estrada de terra
+842, Crianças perto de lixo.
+844, Pobreza em zonas rurais.
+850, Ambiente pouco poluído
+854, Irmãos unidos na tristeza
+855, 2 crianças no lixão
+856, jovens numa estrada com lixo
+858, a família  desconfiada
+859, duas crianças na rua de terra
+861, crianças e escombros
+862, Duas crianças carentes.
+863, Crianças em uma estradinha.
+864, Crianças do interior.
+868, Crianças
+870, Crianças e a sujeira.
+875, crianças pobres na estrada
+876, Duas crianças
+878, Crianças ao lado do entulho.
+879, Duas crianças tristes
+880, Duas crianças e a pobreza.
+881, Crianças infelizes
+882, Duas crianças perto de entulho
+883, Duas crianças.
+885, Crianças na beira da estrada
+886, Depósito irregular de entulhos
+888, Duas crianças em uma estrada
+889, Duas crianças tristes
+890, Duas crianças em um lugar sujo
+891, casal de jovens em um lixão
+892, Crianças tristes
+893, Menina e garoto com ferragens
+903, O passeio dos irmãos
+904, Sertão...
+907, tristeza
+908, refugiados
+909, Crianças em um terreno
+910, Crianças no interior.
+911, Crianças à beira da estrada
+914, crianças no terreno abandonado
+915, Lembranças
+916, Irmãos no lixão
+917, a falta torrencial.
+918, 2 crianças na cerca destruída.
+922, Poluição ambiente rural
+934, Crianças de rua
+935, duas crianças e destroços.
+94, Menina e menino parados
+945, duas crianças em uma estrada
+946, Duas crianças numa rua
+947, Crianças à beira da estrada.
+951, A menina e o menino na estrada
+982, A família
+991, Os irmãos pobres

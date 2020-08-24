@@ -1,0 +1,985 @@
+<CAPTION ID=1040>
+a [o] <artd> DET F S @>N
+panela [panela] <con> N F S @NPHR
+.
+
+</CAPTION>
+<CAPTION ID=1052>
+4 [4] <card> NUM F P @>N
+pessoas [pessoa] <H> N F P @SUBJ>
+cozinhando [cozinhar] <vt> V GER @IMV @#ICL-ADVL
+
+</CAPTION>
+<CAPTION ID=1054>
+em frente [em=frente] <aloc> ADV @ADVL
+a [a] <sam-> PRP @A<
+o [o] <-sam> <artd> DET M S @>N
+fogão [fogão] <con> <Lopening> N M S @P<
+
+</CAPTION>
+<CAPTION ID=1055>
+sentados [sentar] V PCP M P @NPHR
+em [em] PRP @ADVL>
+volta [volta] <act-d> <unit> N F S @P<
+de [de] <sam-> PRP @N<
+o [o] <-sam> <artd> DET M S @>N
+fogão [fogão] <con> <Lopening> N M S @P<
+.
+
+</CAPTION>
+<CAPTION ID=1058>
+acampamento [acampamento] <Lh> N M S @NPHR
+
+</CAPTION>
+<CAPTION ID=1059>
+família [família] <HH> N F S @NPHR
+
+</CAPTION>
+<CAPTION ID=1143>
+vovó [vovó] <Hfam> N F S @NPHR
+de [de] <sam-> PRP @N<
+a [o] <-sam> <artd> DET F S @>N
+estrada [estrada] N F S @P<
+
+</CAPTION>
+<CAPTION ID=1144>
+viajantes [viajante] <H> N M/F P @NPHR
+ciganos [cigano] ADJ M P @N<
+
+</CAPTION>
+<CAPTION ID=1165>
+alimentação [alimentação] <act> N F S @NPHR
+ao ar livre [ao=ar=livre] <aloc> ADJ @N<
+
+</CAPTION>
+<CAPTION ID=144>
+família [família] <HH> N F S @SUBJ>
+cozinhando [cozinhar] <vt> V GER @IMV
+
+</CAPTION>
+<CAPTION ID=19>
+família [família] <HH> N F S @NPHR
+
+</CAPTION>
+<CAPTION ID=20>
+acampamento [acampamento] <Lh> N M S @NPHR
+
+</CAPTION>
+<CAPTION ID=2032>
+comida [comida] <food-h> <occ> N F S @NPHR
+
+</CAPTION>
+<CAPTION ID=2033>
+família [família] <HH> N F S @NPHR
+
+</CAPTION>
+<CAPTION ID=2035>
+sorriso [sorriso] <act-d> N M S @NPHR
+em [em] <sam-> PRP @N<
+a [o] <-sam> <artd> DET F S @>N
+simplicidade [simplicidade] <am> N F S @P<
+.
+
+</CAPTION>
+<CAPTION ID=2037>
+família [família] <HH> N F S @NPHR
+humilde [humilde] ADJ F S @N<
+
+</CAPTION>
+<CAPTION ID=2038>
+família [família] <HH> N F S @NPHR
+sem [sem] PRP @N<
+casa [casa] <build> N F S @P<
+
+</CAPTION>
+<CAPTION ID=2039>
+piquenique [piquenique] <occ> N M S @NPHR
+.
+
+</CAPTION>
+<CAPTION ID=2043>
+família [família] <HH> N F S @NPHR
+refugiada [refugiado] ADJ F S @N<
+
+</CAPTION>
+<CAPTION ID=21>
+preparando [preparar] <vt> V GER @IMV @#ICL-ADVL
+a [o] <artd> DET F S @>N
+comida [comida] <food-h> <occ> N F S @<ACC
+
+</CAPTION>
+<CAPTION ID=22>
+aguardando [aguardar] <vt> V GER @IMV @#ICL-ADVL
+a [o] <artd> DET F S @>N
+refeição [refeição] <occ> N F S @<ACC
+.
+
+</CAPTION>
+<CAPTION ID=2226>
+cozinhando [cozinhar] <vt> V GER @IMV @#ICL-ADVL
+ao ar livre [ao=ar=livre] <aloc> ADV @<ADVL
+
+</CAPTION>
+<CAPTION ID=2327>
+mulheres [mulher] <Hbio> <Hfam> <Hattr> N F P @SUBJ>
+cozinhando [cozinhar] <vi> V GER @IMV
+em [em] <sam-> PRP @<ADVL
+o [o] <-sam> <artd> DET M S @>N
+campo [campo] <BB> <Ltop> <Labs> <Lh> <L> <Lciv> N M S @P<
+.
+
+</CAPTION>
+<CAPTION ID=2330>
+pessoas [pessoa] <H> N F P @NPHR
+com [com] PRP @N<
+frio [frio] <am> N M S @P<
+
+</CAPTION>
+<CAPTION ID=2331>
+senhora [senhora] <Htit> N F S @NPHR
+com [com] PRP @N<
+2 [2] <card> NUM F P @>N
+crianças [criança] <H> N F P @P<
+
+</CAPTION>
+<CAPTION ID=2332>
+conversas [conversa] N F P @NPHR
+ao pé de [ao=pé=de] <sam-> PRP @N<
+o [o] <artd> <-sam> DET M S @>N
+fogão [fogão] <con> <Lopening> N M S @P<
+
+</CAPTION>
+<CAPTION ID=2335>
+família [família] <HH> N F S @NPHR
+viajante [viajante] <prop> <H> N M/F S @N<
+
+</CAPTION>
+<CAPTION ID=2338>
+hora [hora] <dur> <temp> <unit> N F S @NPHR
+de [de] <sam-> PRP @N<
+o [o] <-sam> <artd> DET M S @>N
+almoço [almoço] <occ> N M S @P<
+
+</CAPTION>
+<CAPTION ID=2340>
+pessoas [pessoa] <H> N F P @NPHR
+a [a] <sam-> PRP @N<
+o [o] <-sam> <artd> DET M S @>N
+fogão [fogão] <con> <Lopening> N M S @P<
+de [de] PRP @N<
+lenha [lenha] <cm> N F S @P<
+
+</CAPTION>
+<CAPTION ID=2444>
+simplicidade [simplicidade] <am> N F S @NPHR
+e [e] KC @CO
+cumplicidade [cumplicidade] <f-psych> <state-h> N F S @NPHR
+
+</CAPTION>
+<CAPTION ID=25>
+sentadas [sentar] <n> V PCP F P @NPHR
+em [em] <sam-> PRP @N<
+o [o] <-sam> <artd> DET M S @>N
+acampamento [acampamento] <Lh> N M S @P<
+
+</CAPTION>
+<CAPTION ID=2528>
+três [três] <card> NUM F P @>N
+pessoas [pessoa] <H> N F P @NPHR
+
+</CAPTION>
+<CAPTION ID=270>
+família [família] <HH> N F S @NPHR
+pronta [pronto] ADJ F S @N<
+para [para] <sam-> PRP @ADVL>
+o [o] <-sam> <artd> DET M S @>N
+almoço [almoço] <occ> N M S @P<
+
+</CAPTION>
+<CAPTION ID=28>
+hora [hora] <dur> <temp> <unit> N F S @NPHR
+de [de] <sam-> PRP @N<
+o [o] <-sam> <artd> DET M S @>N
+almoço [almoço] <occ> N M S @P<
+
+</CAPTION>
+<CAPTION ID=282>
+pessoas [pessoa] <H> N F P @SUBJ>
+preparando [preparar] <vt> V GER @IMV
+a [o] <artd> DET F S @>N
+refeição [refeição] <occ> N F S @<ACC
+
+</CAPTION>
+<CAPTION ID=2838>
+merenda [merendar] <fmc> <vt> V PR 3S IND VFIN @FMV
+
+</CAPTION>
+<CAPTION ID=2840>
+idosa [idoso] ADJ F S @SUBJ>
+e [e] <co-subj> KC @CO
+crianças [criança] <H> N F P @SUBJ>
+cozinhando [cozinhar] <vt> V GER @IMV @#ICL-ADVL
+
+</CAPTION>
+<CAPTION ID=2841>
+pessoas [pessoa] <H> N F P @NPHR
+sentadas [sentar] V PCP F P @N<
+sobre [sobre] PRP @ADVL
+capim [capim] <cm> N F S @P<
+
+</CAPTION>
+<CAPTION ID=3022>
+4 [4] <card> NUM F P @>N
+pessoas [pessoa] <H> N F P @SUBJ>
+cozinham [cozinhar] <fmc> <vt> V PR 3P IND VFIN @FMV
+
+</CAPTION>
+<CAPTION ID=3023>
+quem [quem] <interr> SPEC M/F S/P @SC>
+conhece [conhecer] <fmc> V PR 3S IND VFIN @FMV
+?
+
+</CAPTION>
+<CAPTION ID=31>
+família [família] <HH> N F S @SUBJ>
+cozinhando [cozinhar] <vt> V GER @IMV
+
+</CAPTION>
+<CAPTION ID=32>
+acampamento [acampamento] <Lh> N M S @NPHR
+
+</CAPTION>
+<CAPTION ID=3228>
+idosa [idoso] ADJ F S @SUBJ>
+e [e] <co-subj> KC @CO
+seus [seu] <poss 3S> DET M P @>N
+netos [neto] <Hfam> N M P @SUBJ>
+cozinhando [cozinhar] <vt> V GER @IMV @#ICL-ADVL
+
+</CAPTION>
+<CAPTION ID=3232>
+degeneração [degeneração] <process> N F S @NPHR
+de [de] PRP @N<
+gerações [geração] <HH> <act> N F P @P<
+
+</CAPTION>
+<CAPTION ID=3233>
+senhora [senhora] <Htit> N F S @SUBJ>
+e [e] <co-subj> KC @CO
+crianças [criança] <H> N F P @SUBJ>
+cozinhando [cozinhar] <vi> V GER @IMV @#ICL-ADVL
+.
+
+</CAPTION>
+<CAPTION ID=33>
+senhora [senhora] <Htit> N F S @NPHR
+(
+quase [quase] <quant> ADV @>A
+)
+radical [radical] ADJ M/F S @N<PRED
+
+</CAPTION>
+<CAPTION ID=3321>
+senhora [senhora] <Htit> N F S @NPHR
+com [com] PRP @N<
+crianças [criança] <H> N F P @P<
+
+</CAPTION>
+<CAPTION ID=356>
+família [família] <HH> N F S @NPHR
+de [de] PRP @N<
+andarilhos [andarilho] <Hattr> N M P @P<
+
+</CAPTION>
+<CAPTION ID=36>
+idosa [idoso] <n> ADJ F S @NPHR
+de [de] PRP @N<
+três [três] <card> NUM F P @>N
+crianças [criança] <H> N F P @P<
+
+</CAPTION>
+<CAPTION ID=379>
+senhora [senhora] <Htit> N F S @NPHR
+com [com] PRP @N<
+crianças [criança] <H> N F P @P<
+.
+
+</CAPTION>
+<CAPTION ID=398>
+a [o] <artd> DET F S @>N
+senhora [senhora] <Htit> N F S @NPHR
+e [e] KC @CO
+as [o] <artd> DET F P @>N
+crianças [criança] <H> N F P @NPHR
+
+</CAPTION>
+<CAPTION ID=4021>
+pessoas [pessoa] <H> N F P @NPHR
+e [e] KC @CO
+fogão [fogão] <con> <Lopening> N M S @NPHR
+a [a] <sam-> PRP @ADVL>
+a [o] <-sam> <artd> DET F S @>N
+lenha [lenha] <cm> N F S @P<
+
+</CAPTION>
+<CAPTION ID=4023>
+pessoas [pessoa] <H> N F P @SUBJ>
+acampando [acampar] <vi> V GER @IMV
+
+</CAPTION>
+<CAPTION ID=4024>
+quatro [quatro] <card> NUM F P @>N
+pessoas [pessoa] <H> N F P @NPHR
+e [e] KC @CO
+uma [um] <arti> DET F S @>N
+panela [panela] <con> N F S @NPHR
+.
+
+</CAPTION>
+<CAPTION ID=4025>
+senhora [senhora] <Htit> N F S @SUBJ>
+e [e] <co-subj> KC @CO
+crianças [criança] <H> N F P @SUBJ>
+cozinhando [cozinhar] <vt> V GER @IMV @#ICL-ADVL
+
+</CAPTION>
+<CAPTION ID=4026>
+idosa [idoso] ADJ F S @NPHR
+e [e] KC @CO
+suas [seu] <poss 3S> DET F P @>N
+netas [neta] <Hfam> N F P @NPHR
+
+</CAPTION>
+<CAPTION ID=4027>
+avó [avó] <Hfam> N F S @NPHR
+com [com] PRP @N<
+duas [dois] <card> NUM F P @>N
+netas [neta] <Hfam> N F P @P<
+
+</CAPTION>
+<CAPTION ID=4028>
+sentadas [sentar] <n> V PCP F P @NPHR
+ao lado de [ao=lado=de] <sam-> PRP @N<
+a [o] <artd> <-sam> DET F S @>N
+tenda [tenda] <build> N F S @P<
+
+</CAPTION>
+<CAPTION ID=4030>
+idosa [idoso] ADJ F S @SUBJ>
+e [e] <co-subj> KC @CO
+crianças [criança] <H> N F P @SUBJ>
+cozinhando [cozinhar] <vt> V GER @IMV @#ICL-ADVL
+
+</CAPTION>
+<CAPTION ID=4032>
+senhora [senhora] <Htit> N F S @NPHR
+e [e] KC @CO
+crianças [criança] <H> N F P @NPHR
+a [a] <sam-> PRP @ADVL>
+o [o] <-sam> <artd> DET M S @>N
+fogão [fogão] <con> <Lopening> N M S @P<
+
+</CAPTION>
+<CAPTION ID=405>
+almoço [almoço] <occ> N M S @NPHR
+em [em] PRP @N<
+família [família] <HH> N F S @P<
+.
+
+</CAPTION>
+<CAPTION ID=430>
+senhora [senhora] <Htit> N F S @NPHR
+e [e] KC @CO
+crianças [criança] <H> N F P @NPHR
+sentados [sentado] ADJ M P @N<
+
+</CAPTION>
+<CAPTION ID=495>
+uma [um] <arti> DET F S @>N
+senhora [senhora] <Htit> N F S @NPHR
+e [e] KC @CO
+duas [dois] <card> NUM F P @>N
+crianças [criança] <H> N F P @NPHR
+.
+
+</CAPTION>
+<CAPTION ID=5031>
+uma [um] <arti> DET F S @>N
+avó [avó] <Hfam> N F S @NPHR
+e [e] KC @CO
+suas [seu] <poss 3S> DET F P @>N
+netas [neta] <Hfam> N F P @NPHR
+
+</CAPTION>
+<CAPTION ID=5032>
+fazendo [fazer] <vt> V GER @IMV @#ICL-ADVL
+comida [comida] <food-h> <occ> N F S @<ACC
+
+</CAPTION>
+<CAPTION ID=5033>
+família [família] <HH> N F S @SUBJ>
+cozinhando [cozinhar] <vt> V GER @IMV
+
+</CAPTION>
+<CAPTION ID=5034>
+senhora [senhora] <Htit> N F S @NPHR
+idosa [idoso] ADJ F S @N<
+e [e] KC @CO
+duas [dois] <card> NUM F P @>N
+crianças [criança] <H> N F P @NPHR
+
+</CAPTION>
+<CAPTION ID=5035>
+comida [comida] <food-h> <occ> N F S @NPHR
+e [e] KC @CO
+alegria [alegria] <percep-f> N F S @NPHR
+
+</CAPTION>
+<CAPTION ID=5036>
+idosa [idoso] <n> ADJ F S @NPHR
+com [com] PRP @N<
+duas [dois] <card> NUM F P @>N
+crianças [criança] <H> N F P @P<
+
+</CAPTION>
+<CAPTION ID=521>
+a [o] <artd> DET F S @>N
+senhora [senhora] <Htit> N F S @NPHR
+e [e] KC @CO
+as [o] <artd> DET F P @>N
+meninas [menina] <Hbio> N F P @NPHR
+
+</CAPTION>
+<CAPTION ID=58>
+crianças [criança] <H> N F P @NPHR
+com [com] PRP @N<
+a [o] <artd> DET F S @>N
+vó [vó] N F S @P<
+
+</CAPTION>
+<CAPTION ID=684>
+pessoas [pessoa] <H> N F P @SUBJ>
+preparam [preparar] <fmc> <vt> V PR 3P IND VFIN @FMV
+comida [comida] <food-h> <occ> N F S @<ACC
+
+</CAPTION>
+<CAPTION ID=687>
+senhora [senhora] <Htit> N F S @NPHR
+e [e] KC @CO
+duas [dois] <card> NUM F P @>N
+crianças [criança] <H> N F P @NPHR
+
+</CAPTION>
+<CAPTION ID=76>
+almoço [almoço] <occ> N M S @NPHR
+ao ar livre [ao=ar=livre] <aloc> ADJ @N<
+
+</CAPTION>
+<CAPTION ID=771>
+Vó [Vó] <hum> N F S @NPHR
+e [e] KC @CO
+netas [neta] <Hfam> N F P @NPHR
+perto de [perto=de] <sam-> PRP @N<
+o [o] <artd> <-sam> DET M S @>N
+fogão [fogão] <con> <Lopening> N M S @P<
+
+</CAPTION>
+<CAPTION ID=772>
+velha [velho] ADJ F S @SUBJ>
+e [e] <co-subj> KC @CO
+meninas [menina] <Hbio> N F P @SUBJ>
+cozinhando [cozinhar] <vt> V GER @IMV @#ICL-ADVL
+
+</CAPTION>
+<CAPTION ID=781>
+acampamento [acampamento] <Lh> N M S @NPHR
+
+</CAPTION>
+<CAPTION ID=783>
+cozinhando [cozinhar] <vt> V GER @IMV @#ICL-ADVL
+em [em] PRP @<ADVL
+família [família] <HH> N F S @P<
+
+</CAPTION>
+<CAPTION ID=788>
+acampamento [acampamento] <Lh> N M S @NPHR
+nômade [nômade] ADJ M S @N<
+
+</CAPTION>
+<CAPTION ID=790>
+família [família] <HH> N F S @SUBJ>
+fazendo [fazer] V GER @IMV
+jantar [jantar] <vi> V INF 3S @IMV @#ICL-<ACC
+
+</CAPTION>
+<CAPTION ID=791>
+em [em] <sam-> PRP @ADVL
+a [o] <-sam> <artd> DET F S @>N
+cozinha [cozinha] <Lh> N F S @P<
+
+</CAPTION>
+<CAPTION ID=799>
+família [família] <HH> N F S @SUBJ>
+e [e] <co-subj> KC @CO
+panela [panela] <con> N F S @SUBJ>
+fervendo [ferver] <vt> V GER @IMV @#ICL-ADVL
+
+</CAPTION>
+<CAPTION ID=811>
+avó [avó] <Hfam> N F S @NPHR
+,
+mãe [mãe] <Hfam> N F S @NPHR
+e [e] KC @CO
+2 [2] <card> NUM F P @>N
+netas [neta] <Hfam> N F P @NPHR
+com [com] PRP @N<
+panela [panela] <con> N F S @P<
+
+</CAPTION>
+<CAPTION ID=820>
+pessoas [pessoa] <H> N F P @SUBJ>
+cozinhando [cozinhar] <vt> V GER @IMV
+em [em] PRP @<ADVL
+campo [campo] <BB> <Ltop> <Labs> <Lh> <L> <Lciv> N M S @P<
+
+</CAPTION>
+<CAPTION ID=821>
+divergência [divergência] <sit> N F S @NPHR
+de [de] PRP @N<
+idades [idade] <f-q> <per> N F P @P<
+!
+¶
+
+</CAPTION>
+<CAPTION ID=823>
+gerações [geração] <HH> <act> N F P @NPHR
+
+</CAPTION>
+<CAPTION ID=826>
+a [o] <artd> DET F S @>N
+senhora [senhora] <Htit> N F S @NPHR
+e [e] KC @CO
+o [o] <artd> DET M S @>N
+galho [galho] <cc-stick> N M S @NPHR
+
+</CAPTION>
+<CAPTION ID=827>
+ao redor de [ao=redor=de] <sam-> PRP @ADVL
+o [o] <artd> <-sam> DET M S @>N
+fogão [fogão] <con> <Lopening> N M S @P<
+.
+
+</CAPTION>
+<CAPTION ID=828>
+idosa [idoso] ADJ F S @SUBJ>
+e [e] <co-subj> KC @CO
+crianças [criança] <H> N F P @SUBJ>
+esperam [esperar] <fmc> <vt> V PR 3P IND VFIN @FMV
+janta [jantar] <vi> V PR 3S IND VFIN @FMV @#FS-<ACC
+
+</CAPTION>
+<CAPTION ID=829>
+família [família] <HH> N F S @SUBJ>
+cozinhando [cozinhar] <vt> V GER @IMV
+
+</CAPTION>
+<CAPTION ID=83>
+família [família] <HH> N F S @NPHR
+e [e] KC @CO
+um [um] <arti> DET M S @>N
+fogão [fogão] <con> <Lopening> N M S @NPHR
+.
+
+</CAPTION>
+<CAPTION ID=830>
+precariedade [precariedade] <am> N F S @NPHR
+de [de] PRP @N<
+vida [vida] <per> N F S @P<
+
+</CAPTION>
+<CAPTION ID=834>
+unidos [unido] ADJ M P @NPHR
+.
+
+</CAPTION>
+<CAPTION ID=835>
+família [família] <HH> N F S @NPHR
+
+</CAPTION>
+<CAPTION ID=836>
+a [o] <artd> DET F S @>N
+senhora [senhora] <Htit> N F S @NPHR
+com [com] PRP @N<
+duas [dois] <card> NUM F P @>N
+crianças [criança] <H> N F P @P<
+
+</CAPTION>
+<CAPTION ID=837>
+preparando [preparar] <vt> V GER @IMV @#ICL-ADVL
+a [o] <artd> DET F S @>N
+comida [comida] <food-h> <occ> N F S @<ACC
+
+</CAPTION>
+<CAPTION ID=838>
+mulheres [mulher] <Hbio> <Hfam> <Hattr> N F P @SUBJ>
+brancas [branco] ADJ F P @N<
+cozinhando [cozinhar] <vi> V GER @IMV
+.
+
+</CAPTION>
+<CAPTION ID=839>
+pobreza [pobreza] <am> N F S @NPHR
+em [em] <sam-> PRP @N<
+a [o] <-sam> <artd> DET F S @>N
+Síria [Síria] <civ> PROP F S @P<
+
+</CAPTION>
+<CAPTION ID=840>
+mulheres [mulher] <Hbio> <Hfam> <Hattr> N F P @NPHR
+e [e] KC @CO
+um [um] <arti> DET M S @>N
+fogareiro [fogareiro] <tool> N M S @NPHR
+
+</CAPTION>
+<CAPTION ID=842>
+família [família] <HH> N F S @SUBJ>
+espera [esperar] <fmc> <vt> V PR 3S IND VFIN @FMV
+refeição [refeição] <occ> N F S @<ACC
+.
+
+</CAPTION>
+<CAPTION ID=844>
+comida [comida] <food-h> <occ> N F S @NPHR
+em [em] PRP @N<
+fogão [fogão] <con> <Lopening> N M S @P<
+a [a] <sam-> PRP @ADVL
+a [o] <-sam> <artd> DET F S @>N
+lenha [lenha] <cm> N F S @P<
+.
+
+</CAPTION>
+<CAPTION ID=850>
+pessoas [pessoa] <H> N F P @SUBJ>
+cozinhando [cozinhar] <vt> V GER @IMV
+ao ar livre [ao=ar=livre] <aloc> ADV @<ADVL
+
+</CAPTION>
+<CAPTION ID=854>
+reunidos [reunir] <vt> V PCP M P @NPHR
+para [para] PRP @ADVL>
+refeição [refeição] <occ> N F S @P<
+
+</CAPTION>
+<CAPTION ID=855>
+mulheres [mulher] <Hbio> <Hfam> <Hattr> N F P @NPHR
+pobres [pobre] ADJ F P @N<
+e [e] <co-postnom> KC @CO
+felizes [feliz] ADJ M/F P @N<
+
+</CAPTION>
+<CAPTION ID=856>
+avó [avó] <Hfam> N F S @NPHR
+e [e] KC @CO
+netas [neta] <Hfam> N F P @NPHR
+em [em] <sam-> PRP @N<
+um [um] <-sam> <arti> DET M S @>N
+acampamento [acampamento] <Lh> N M S @P<
+
+</CAPTION>
+<CAPTION ID=858>
+o [o] <artd> DET M S @>N
+café da manhã [café=da=manhã] <occ> N M S @NPHR
+
+</CAPTION>
+<CAPTION ID=859>
+vida [vida] <per> N F S @NPHR
+sem [sem] PRP @N<
+luxo [luxo] <am> N M S @P<
+
+</CAPTION>
+<CAPTION ID=861>
+idosa [idoso] <n> ADJ F S @NPHR
+com [com] PRP @N<
+crianças [criança] <H> N F P @P<
+
+</CAPTION>
+<CAPTION ID=862>
+família [família] <HH> N F S @NPHR
+carente [carente] ADJ F S @N<
+.
+
+</CAPTION>
+<CAPTION ID=863>
+quatro [quatro] <card> NUM F P @>N
+mulheres [mulher] <Hbio> <Hfam> <Hattr> N F P @NPHR
+.
+
+</CAPTION>
+<CAPTION ID=864>
+três [três] <card> NUM F P @>N
+gerações [geração] <HH> <act> N F P @NPHR
+em [em] PRP @N<
+uma [um] <arti> DET F S @>N
+foto [foto] <pict> N F S @P<
+.
+
+</CAPTION>
+<CAPTION ID=868>
+este [este] <dem> DET M S @SUBJ>
+é [ser] <fmc> <vK> V PR 3S IND VFIN @FMV
+o [o] <artd> DET M S @>N
+nosso [nosso] <poss 1P> DET M S @>N
+alvo [alvo] <col> <Labs> N M S @<SC
+
+</CAPTION>
+<CAPTION ID=870>
+família [família] <HH> N F S @NPHR
+reunida [reunir] <vt> V PCP F S @N<
+.
+
+</CAPTION>
+<CAPTION ID=875>
+o [o] <artd> DET M S @>N
+alimento [alimento] <food> N M S @NPHR
+
+</CAPTION>
+<CAPTION ID=876>
+uma [um] <arti> DET F S @>N
+senhora [senhora] <Htit> N F S @NPHR
+sentada [sentado] ADJ F S @N<
+
+</CAPTION>
+<CAPTION ID=878>
+mulheres [mulher] <Hbio> <Hfam> <Hattr> N F P @NPHR
+sentadas [sentado] ADJ F P @N<
+e [e] KC @CO
+um [um] <arti> DET M S @>N
+fogão [fogão] <con> <Lopening> N M S @NPHR
+
+</CAPTION>
+<CAPTION ID=879>
+panela [panela] <con> N F S @NPHR
+em [em] <sam-> PRP @N<
+o [o] <-sam> <artd> DET M S @>N
+fogo [fogo] <cc-fire> <process> <L> <act-d> <activity> N M S @P<
+
+</CAPTION>
+<CAPTION ID=880>
+a [o] <artd> DET F S @>N
+senhora [senhora] <Htit> N F S @NPHR
+e [e] KC @CO
+duas [dois] <card> NUM F P @>N
+meninas [menina] <Hbio> N F P @NPHR
+.
+
+</CAPTION>
+<CAPTION ID=881>
+família [família] <HH> N F S @NPHR
+
+</CAPTION>
+<CAPTION ID=882>
+quatro [quatro] <card> NUM F P @>N
+pessoas [pessoa] <H> N F P @NPHR
+perto de [perto=de] PRP @N<
+fogão [fogão] <con> <Lopening> N M S @P<
+
+</CAPTION>
+<CAPTION ID=883>
+o [o] <artd> DET M S @>N
+almoço [almoço] <occ> N M S @NPHR
+.
+
+</CAPTION>
+<CAPTION ID=885>
+família [família] <HH> N F S @SUBJ>
+cozinhando [cozinhar] <vt> V GER @IMV
+em [em] <sam-> PRP @<ADVL
+o [o] <-sam> <artd> DET M S @>N
+campo [campo] <BB> <Ltop> <Labs> <Lh> <L> <Lciv> N M S @P<
+
+</CAPTION>
+<CAPTION ID=886>
+idosas [idoso] <n> ADJ F P @NPHR
+com [com] PRP @N<
+crianças [criança] <H> N F P @P<
+
+</CAPTION>
+<CAPTION ID=888>
+cozinhando [cozinhar] <vi> V GER @IMV @#ICL-ADVL
+para [para] PRP @<ADVL
+as [o] <artd> DET F P @>N
+crianças [criança] <H> N F P @P<
+
+</CAPTION>
+<CAPTION ID=889>
+ciganos [cigano] <Hnat> N M P @NPHR
+velhos [velho] ADJ M P @N<
+e [e] <co-postnom> KC @CO
+crianças [criança] <H> N F P @NPHR
+
+</CAPTION>
+<CAPTION ID=890>
+idosa [idoso] ADJ F S @NPHR
+e [e] KC @CO
+três [três] <card> NUM F P @>N
+crianças [criança] <H> N F P @NPHR
+
+</CAPTION>
+<CAPTION ID=891>
+família [família] <HH> N F S @SUBJ>
+cozinhando [cozinhar] <vt> V GER @IMV
+ao ar livre [ao=ar=livre] <aloc> ADV @<ADVL
+
+</CAPTION>
+<CAPTION ID=892>
+uma [um] <arti> DET F S @>N
+senhora [senhora] <Htit> N F S @NPHR
+e [e] KC @CO
+três [três] <card> NUM F P @>N
+crianças [criança] <H> N F P @NPHR
+
+</CAPTION>
+<CAPTION ID=893>
+velha [velho] <n> ADJ F S @NPHR
+com [com] PRP @N<
+três [três] <card> NUM F P @>N
+crianças [criança] <H> N F P @P<
+
+</CAPTION>
+<CAPTION ID=903>
+comida [comida] <food-h> <occ> N F S @NPHR
+improvisada [improvisar] <vt> V PCP F S @N<
+
+</CAPTION>
+<CAPTION ID=904>
+vovó [vovó] <Hfam> N F S @NPHR
+e [e] KC @CO
+as [o] <artd> DET F P @>N
+crianças [criança] <H> N F P @NPHR
+
+</CAPTION>
+<CAPTION ID=907>
+encontro [encontro] <occ> <event> N M S @NPHR
+de [de] PRP @N<
+gerações [geração] <HH> <act> N F P @P<
+
+</CAPTION>
+<CAPTION ID=908>
+gerações [geração] <HH> <act> N F P @NPHR
+
+</CAPTION>
+<CAPTION ID=909>
+idosa [idoso] ADJ F S @NPHR
+e [e] KC @CO
+duas [dois] <card> NUM F P @>N
+crianças [criança] <H> N F P @NPHR
+
+</CAPTION>
+<CAPTION ID=910>
+cozinhando [cozinhar] <vt> V GER @IMV @#ICL-ADVL
+
+</CAPTION>
+<CAPTION ID=911>
+em [em] PRP @ADVL
+volta [volta] <act-d> <unit> N F S @P<
+de [de] <sam-> PRP @N<
+o [o] <-sam> <artd> DET M S @>N
+caldeirão [caldeirão] <con> <Lwater> N M S @P<
+
+</CAPTION>
+<CAPTION ID=914>
+fogão [fogão] <con> <Lopening> N M S @NPHR
+
+</CAPTION>
+<CAPTION ID=915>
+um [um] <arti> DET M S @>N
+doce [doce] ADJ M S @>N
+sorriso [sorriso] <act-d> N M S @NPHR
+
+</CAPTION>
+<CAPTION ID=916>
+gerações [geração] <HH> <act> N F P @NPHR
+juntas [juntar] <vt> V PCP F P @N<
+
+</CAPTION>
+<CAPTION ID=917>
+simples [simples] ADJ M/F S/P @NPHR
+assim [assim] <kc> ADV @ADVL
+.
+
+</CAPTION>
+<CAPTION ID=918>
+mulheres [mulher] <Hbio> <Hfam> <Hattr> N F P @NPHR
+de [de] <sam-> PRP @N<
+a [o] <-sam> <artd> DET F S @>N
+família [família] <HH> N F S @P<
+reunidas [reunir] <vt> V PCP F P @N<
+
+</CAPTION>
+<CAPTION ID=922>
+vida [vida] <per> N F S @NPHR
+em [em] <sam-> PRP @N<
+o [o] <-sam> <artd> DET M S @>N
+campo [campo] <prop> <BB> <Ltop> <Labs> <Lh> <L> <Lciv> N M S @P<
+
+</CAPTION>
+<CAPTION ID=934>
+gerações [geração] <HH> <act> N F P @SUBJ>
+se [se] <refl> PERS M/F 3S/P ACC @ACC>
+divertindo [divertir] V GER @IMV @#ICL-ADVL
+
+</CAPTION>
+<CAPTION ID=935>
+senhora [senhora] <Htit> N F S @NPHR
+com [com] PRP @N<
+três [três] <card> NUM F P @>N
+crianças [criança] <H> N F P @P<
+
+</CAPTION>
+<CAPTION ID=94>
+idosa [idoso] ADJ F S @NPHR
+e [e] KC @CO
+meninas [menina] <Hbio> N F P @NPHR
+sentadas [sentado] ADJ F P @N<
+
+</CAPTION>
+<CAPTION ID=945>
+família [família] <HH> N F S @NPHR
+ao ar livre [ao=ar=livre] <aloc> ADJ @N<
+
+</CAPTION>
+<CAPTION ID=946>
+família [família] <HH> N F S @NPHR
+em [em] <sam-> PRP @N<
+a [o] <-sam> <artd> DET F S @>N
+hora [hora] <dur> <temp> <unit> N F S @P<
+de [de] <sam-> PRP @N<
+o [o] <-sam> <artd> DET M S @>N
+almoço [almoço] <occ> N M S @P<
+
+</CAPTION>
+<CAPTION ID=947>
+refeição [refeição] <occ> N F S @NPHR
+em [em] <sam-> PRP @N<
+o [o] <-sam> <artd> DET M S @>N
+acampamento [acampamento] <prop> <Lh> N M S @P<
+
+</CAPTION>
+<CAPTION ID=951>
+as [o] <artd> DET F P @>N
+mulheres [mulher] <Hbio> <Hfam> <Hattr> N F P @NPHR
+e [e] KC @CO
+o [o] <artd> DET M S @>N
+caldeirão [caldeirão] <con> <Lwater> N M S @NPHR
+
+</CAPTION>
+<CAPTION ID=982>
+a [o] <artd> DET F S @>N
+família [família] <HH> N F S @NPHR
+
+</CAPTION>
+<CAPTION ID=991>
+família [família] <HH> N F S @SUBJ>
+cozinhando [cozinhar] <vt> V GER @IMV
+
+</CAPTION>

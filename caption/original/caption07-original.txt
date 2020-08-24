@@ -1,0 +1,151 @@
+1040, O abraço.
+1052, Mulher com duas crianças no colo
+1054, Parquinho
+1055, Mulher com duas meninas.
+1058, Família sem lar
+1059, 1995
+1143, Pânico no ar
+1144, Irmãs
+1165, Mulher e duas crianças
+144, Mãe abraçando as filhas
+19, desalojados
+20, Desespero
+2032, Família
+2033, Família
+2035, Crianças chorando.
+2037, Família perde a casa
+2038, mãe e duas filhas
+2039, Crianças tristes.
+2043, Mãe tranquiliza filha
+21, Mãe acalmando as filhas
+22, Mãe acalentando filhas
+2226, Moça abraçando duas crianças
+2327, Duas meninas chorando no colo.
+2330, Duas crianças e uma mulher.
+2331, Família abandonada na sarjeta
+2332, Onde vamos morar?
+2335, Mãe e filhas
+2338, amor de mãe
+2340, Mulher e duas crianças
+2444, Acalentar briga de crianças
+25, A mãe e suas crianças
+2528, três pessoas
+270, mãe com as duas filhas
+28, crianças com a mãe no parque
+282, Mãe e filhas
+2838, Mãe e filhas
+2840, Mulher e crianças tristes
+2841, Mulher abraçada a duas meninas
+3022, Moça abraçando duas meninas
+3023, Sozinhas?
+31, Desabrigados
+32, Sentadas no chão
+3228, Mãe, filhas e brinquedos
+3232, crianças, são, crianças !
+3233, Mãe consolando crianças.
+33, Meninas
+3321, Mulher com duas crianças
+356, Mãe conforta suas filhas
+36, Uma mulher e duas crianças
+379, Mulher abraça duas garotinhas.
+398, Mãe e suas duas filhas
+4021, Mulher e crianças
+4023, Moça com crianças no colo
+4024, Uma mulher com duas meninas.
+4025, Mãe com filhas
+4026, Mulher com filhas.
+4027, mãe com filhas
+4028, Infância destruída
+4030, Mulher e duas crianças tristes
+4032, Uma moça e duas crianças
+405, Mãe e suas filhas.
+430, Mulher e duas meninas no colo
+495, mulher e duas crianças.
+5031, Uma mãe e suas filhas
+5032, Mãe e crianças
+5033, Mãe e crianças sentados juntos
+5034, Mãe sentada ao sol com filhas
+5035, Tristeza
+5036, Mulher abraçando duas meninas
+521, A mulher e as meninas
+58, Mãe com duas filhas
+684, Crianças choram num terreno
+687, Moça sentada com duas meninas
+76, Mãe e seus filhos
+771, Mãe e filhas na rua
+772, mãe e filhas com os brinquedos
+781, Infância infeliz
+783, Crianças após brincar
+788, Desolamento
+790, Uma mãe e duas filhas
+791, Mãe e gêmeas
+799, Mulher e meninas sentadas
+811, Mãe abraça duas filhas
+820, Mãe com filhas no colo
+821, Mulher e crianças tristes!
+823, Abraço
+826, A mulher e duas crianças
+827, Mãe e filhas.
+828, Crianças chorando
+829, Mãe e suas filhas
+83, Mulher e crianças
+830, mãe e filha desabrigadas
+834, juntos
+835, a infância
+836, Mãe e filhas
+837, mãe com suas filhas
+838, Meninas tristes.
+839, Mãe e filhas
+840, duas crianças e sua mãe
+842, Mãe acalmando filhas.
+844, brinquedos e família triste.
+850, Mãe e duas crianças despejadas
+854, Família unida pela dor
+855, família de moças
+856, mãe e filhas sentadas na rua
+858, mãe e duas filhas
+859, Reconforto de uma abraço
+861, mulher com crianças
+862, Crianças tristes.
+863, Mãe com filhas ao colo.
+864, Foto de família.
+868, Onde está os meus amigos?
+870, Abraço em família.
+875, Mãe e filhos.
+876, Mulher com duas crianças
+878, Mulher, crianças e brinquedos
+879, 3 garotas
+880, A mulher e duas meninas.
+881, Mãe e filhas
+882, Crianças no colo da mãe
+883, A mãe e duas crianças.
+885, Família sobre brinquedos
+886, mulher com duas crianças
+888, Uma mulher e duas meninas
+889, Mãe duas crianças
+890, Mãe e dois filhos
+891, Mulher com filhas no parque
+892, Duas meninas e uma mulher
+893, Mulher abraça duas meninas
+903, Brincando com as crianças
+904, Família sem um lar...
+907, família
+908, família
+909, Mãe e suas filhas
+910, Desoladas
+911, Cuidados de mãe
+914, mãe e filhas
+915, amor de mãe
+916, Mãe protegendo filhas
+917, Sonho a três.
+918, Momento em família
+922, Fenômenos
+934, Mãe protetora
+935, Moça e suas meninas.
+94, Mulher sentada com crianças
+945, Família
+946, Família sem lar
+947, Abraçadas no quintal de casa
+951, A mulher e as meninas
+982, A família
+991, Família reunida

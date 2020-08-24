@@ -1,0 +1,151 @@
+1040, O bebê
+1052, Recém nascido
+1054, Bebê dormindo.
+1055, Bebê envolto em tecido.
+1058, Bebê  com cobertor
+1059, recém nascido
+1143, surto de novo vírus na Índia
+1144, Sono profundo
+1165, Bebê doente
+144, Bebê com lábios grandes
+19, sono tranquilo
+20, o bebê
+2032, Uma menina
+2033, Recém-nascido
+2035, Bebê de lábios vermelhos
+2037, bebê recém nascido
+2038, recém-nascido
+2039, Bebê envolto no cobertor.
+2043, epidemia
+21, Lábios grandes
+22, Recém nascido dormindo
+2226, bebê dormindo
+2327, Bebê no colo.
+2330, Uma Criança
+2331, O grande beiço do bebê
+2332, Na hora do nascimento
+2335, Criança Doente.
+2338, Bebê
+2340, Bebê e os maus tratos
+2444, Bebê dormindo calmamente
+25, Recém nascido doente
+2528, criança coberta
+270, o recém nascido
+28, recém-nascida
+282, bebê dormindo
+2838, Deficiência
+2840, Bebê deitado de olhos fechados
+2841, bebê enrolado em manta
+3022, bebê dormindo sob cobertores
+3023, Retrato cruel
+31, Recém - nascido
+32, O bebê
+3228, Recém-nascido e estampas
+3232, recém nascida
+3233, Doença em bebê.
+33, Criança no manto
+3321, Criança recém-nascida
+356, Recém-nascido em seu cobertor
+36, bebê com doença rara
+379, Neném descansando.
+398, bebê de boca grande
+4021, Bebê dormindo em cobertor
+4023, Bebê de olhos fechados
+4024, Bebê enrolado no edredom.
+4025, bebê com a boca vermelha
+4026, Bebê com lábios grandes.
+4027, bebê enrolado na coberta
+4028, Bebê envolto em manta
+4030, Um bebê enrolado em cobertas.
+4032, Bebê enrolado em cobertor
+405, Bebê dormindo.
+430, Criança enrolada no cobertor
+495, bebê enrolado em uma manta.
+5031, Um criança recém-nascida
+5032, Recém nascido
+5033, Criança dormindo após nascer
+5034, Bebê recém nascido
+5035, Recém nascido
+5036, bebê menino negro coberto
+521, Criança recém nascida
+58, Um bebê numa manta
+684, Criança se encontra imóvel
+687, bebê do xale vermelho
+76, bebê doente
+771, Recém-nascido negro na manta
+772, criança recém-nascida dormindo
+781, Um recém-nascido.
+783, Recém-nascido
+788, Bebê doente enrolada no pano
+790, Bebe negro com batom
+791, Recém nascido
+799, Bebê enrolado no lençol
+811, Bebê com lábios grandes.
+820, Recém nascido nas ruas
+821, Criança negra recém nascida!
+823, Bebê doente
+826, O bebê
+827, Criança recém nascida.
+828, Bebê envolto em cobertor
+829, Recém Nascido
+83, Criança enrolada em cobertor
+830, bebê com boca ferida
+834, criança
+835, a primeira foto
+836, bebê recém-nascido
+837, bebê recém nascido
+838, Criança com lábios carnudos.
+839, Bebê recém-nascido
+840, bebê num pano estampado.
+842, O bebê adormecido.
+844, Anomalia em bebê recém nascido
+850, Uma criança Recém-nascida.
+854, Criança dormindo
+855, recém nascido
+856, um bebê de lábios grossos
+858, um bebê pequeno
+859, tranquilidade ou não
+861, bebê com lábios grossos
+862, Bebê recém nascido.
+863, Bebê adoecido.
+864, Criança recém nascida.
+868, Crianças pedem socorro
+870, Novo integrante da família.
+875, bebê recém nascido
+876, Um bebê
+878, Bebê dormindo envolto em pano.
+879, bebê de batom
+880, Um bebê de lábios grandes.
+881, Doença
+882, Bebê negro dormindo em pano
+883, O bebê.
+885, Lábio inchado de recém nascido
+886, criança recém nascida
+888, Criança recém-nascida
+889, Recém nascido
+890, Bebê recém-nascido
+891, recém-nascido dormindo
+892, Um bebê bocudo
+893, Bebê morena enrolada na fronha
+903, Alergia do bebê
+904, Recém nascido
+907, vida e morte
+908, parto raro
+909, Criança doente
+910, Maquiando um bebê
+911, Aquecido por um manto
+914, bebê dormindo
+915, chorar pra que
+916, Criança morta
+917, Self Dark Children
+918, Recém nascido de lábio grande.
+922, Diferença social
+934, Criança negra
+935, Recém-nascido de lábios grossos
+94, Bebê enrolado em pano
+945, Criança adormecida
+946, Bebê enrolado no cobertor
+947, Bebê
+951, O bebê e a manta
+982, O bebê
+991, Bebê pálido

@@ -1,0 +1,151 @@
+1040, A idade.
+1052, Um idoso
+1054, No chão
+1055, Homem sentado.
+1058, Senhor debilitado
+1059, corcunda
+1143, greve de fome
+1144, Pedinte
+1165, Idoso
+144, Idoso sentado no chão
+19, Crenças
+20, abrigo
+2032, Homem de idade
+2033, Homem Sentado
+2035, Invisível
+2037, Homem muito pobre
+2038, velhinho triste
+2039, Sentado ao chão.
+2043, Indiano espera no hospital
+21, Homem corcunda
+22, Homem sentando no chão
+2226, Idoso sentado no chão.
+2327, Senhor em posição de lótus.
+2330, Homem sentado
+2331, O mendigo sentado no chão
+2332, Invisível
+2335, Senhor Idoso
+2338, senhor humilde.
+2340, Homem oriental pobre
+2444, O descanso do guerreiro
+25, Senhor no chão
+2528, velho sentado
+270, asiático idoso
+28, senhor sentado no chão
+282, Homem sentado
+2838, Idoso
+2840, Idoso asiático sentado no chão
+2841, Senhor sentado no chão
+3022, Velho sentado
+3023, cuide e ame
+31, Homem idoso
+32, O senhor
+3228, Senhor simples sentado no chão
+3232, melhor idade
+3233, Homem no meio da multidão.
+33, envergado
+3321, Homem idoso
+356, Morador de rua pede esmola
+36, Homem idoso sentado
+379, Senhor oriental sentado.
+398, Senhor sentado
+4021, Homem corcunda sentado
+4023, Senhor sentado
+4024, Um homem idoso sentado.
+4025, Senhor sentado
+4026, Idoso sentado.
+4027, asiático idoso
+4028, Idoso sentado ao chão
+4030, Velho asiático sentado no chão
+4032, Senhor sentado no chão
+405, Senhor de idade sentado.
+430, Senhor sentado
+495, Idoso sentado.
+5031, Um idoso japonês
+5032, Senhor sentado no chão
+5033, Homem velho sentado.
+5034, Senhor idoso sentado no chão
+5035, o senhorzinho
+5036, Homem idoso sentado no chão
+521, Homem oriental sentado
+58, Senhor sentado no chão
+684, Homem sentado no chão
+687, Senhor sentado
+76, Senescência
+771, Velho sentado no chão
+772, velho sentado no chão
+781, Velhice corcunda
+783, Homem solitário no chão
+788, Senhor encurvado
+790, Idoso morador de rua
+791, senhor sentado
+799, Homem idoso sentado
+811, Senhor pobre sentado no chão
+820, Pessoa idosa com necessidade
+821, Homem idoso asiático!
+823, Idoso humilde
+826, O senhor
+827, Senhor necessitado.
+828, Velho oriental humilde sentado
+829, Homem Chinês
+83, Homem idoso sentado.
+830, senhor abandonado
+834, idoso.
+835, o valor de uma pessoa
+836, O senhor sentado no chão
+837, homem com aparência triste
+838, Senhor corcunda no chão.
+839, Idoso indiano ou asiático
+840, homem sentado no chão
+842, O idoso corcunda.
+844, Idoso com problema na coluna.
+850, Homem asiático sentado no chão
+854, Senhor desnutrido
+855, senhor sentado no chão
+856, Um velho oriental sentado
+858, homem que sofre
+859, senhor sentado no chão
+861, idoso
+862, Senhor de idade abaixado.
+863, Idoso sentado ao chão.
+864, Senhor, oriental, sentado.
+868, A espera nunca acaba
+870, Onde está a família dele
+875, Homem encurvado
+876, um senhor sentado
+878, Senhor encurvado no chão
+879, Velhinho humilde
+880, Um senhor oriental no chão.
+881, Senhor de idade
+882, Idoso asiático sentado no chão
+883, O homem sentado.
+885, Senhor asiático sentado
+886, Homem idoso sentado no chão
+888, Senhor sentado
+889, Senhor mendigo.
+890, Idoso com vida precária
+891, velho sentado no chão
+892, Um velho oriental
+893, Velho sentado no chão
+903, Homem curvado
+904, Um Idoso
+907, senhor humilde
+908, ancião
+909, Homem mendigo
+910, Mendigo
+911, Encurvado ao tempo
+914, Homem sentando
+915, Alguém pode ajudar
+916, Senhor corcunda
+917, O que não se compra.
+918, Velho chinês mendigo
+922, Vida depois dos 100 anos
+934, Senhor humilde
+935, Senhor sentado no chão
+94, Idosos sentado no chão
+945, Senhor com problemas de coluna
+946, Homem sentado no chão
+947, Mendigo Oriental
+951, O homem sentado no chão
+982, O idoso
+991, Idoso pobre

@@ -1,0 +1,1058 @@
+<CAPTION ID=1040>
+cavando [cavar] <vt> V GER @IMV @#ICL-ADVL
+terra [terra] <cm> <Ltop> <BB> <Lstar> N F S @<ACC
+.
+
+</CAPTION>
+<CAPTION ID=1052>
+criança [criança] <H> N F S @NPHR
+em [em] PRP @N<
+uma [um] <arti> DET F S @>N
+construção [construção] <act> N F S @P<
+
+</CAPTION>
+<CAPTION ID=1054>
+criança [criança] <H> N F S @NPHR
+e [e] KC @CO
+terra [terra] <cm> <Ltop> <BB> <Lstar> N F S @NPHR
+
+</CAPTION>
+<CAPTION ID=1055>
+menino [menino] <Hbio> N M S @SUBJ>
+jogando [jogar] <vt> V GER @IMV
+terra [terra] <cm> <Ltop> <BB> <Lstar> N F S @<ACC
+.
+
+</CAPTION>
+<CAPTION ID=1058>
+criança [criança] <H> N F S @SUBJ>
+pobre [pobre] ADJ F S @N<
+pegando [pegar] <vt> V GER @IMV
+terra [terra] <cm> <Ltop> <BB> <Lstar> N F S @<ACC
+
+</CAPTION>
+<CAPTION ID=1059>
+criança [criança] <H> N F S @NPHR
+e [e] KC @CO
+terra [terra] <cm> <Ltop> <BB> <Lstar> N F S @NPHR
+
+</CAPTION>
+<CAPTION ID=1143>
+trabalho [trabalho] <act-d> <am> N M S @NPHR
+infantil [infantil] ADJ M S @N<
+
+</CAPTION>
+<CAPTION ID=1144>
+a [o] <artd> DET F S @>N
+semente [semente] <Btree> <cc> <cm> N F S @NPHR
+atropelada [atropelar] <vt> V PCP F S @N<
+
+</CAPTION>
+<CAPTION ID=1165>
+criança [criança] <H> N F S @NPHR
+com [com] PRP @N<
+balde [balde] <con> N M S @P<
+de [de] PRP @N<
+terra [terra] <cm> <Ltop> <BB> <Lstar> N F S @P<
+
+</CAPTION>
+<CAPTION ID=144>
+criança [criança] <H> N F S @NPHR
+na frente de [na=frente=de] PRP @N<
+1 [1] <card> NUM M S @>N
+barraco [barraco] <build> N M S @P<
+
+</CAPTION>
+<CAPTION ID=19>
+miséria [miséria] <sit> N F S @NPHR
+
+</CAPTION>
+<CAPTION ID=20>
+menino [menino] <Hbio> N M S @NPHR
+em [em] <sam-> PRP @N<
+a [o] <-sam> <artd> DET F S @>N
+terra [terra] <cm> <Ltop> <BB> <Lstar> N F S @P<
+
+</CAPTION>
+<CAPTION ID=2032>
+criança [criança] <H> N F S @NPHR
+e [e] KC @CO
+terra [terra] <cm> <Ltop> <BB> <Lstar> N F S @NPHR
+
+</CAPTION>
+<CAPTION ID=2033>
+abandono [abandono] <act> <state> N M S @NPHR
+
+</CAPTION>
+<CAPTION ID=2035>
+criança [criança] <H> N F S @NPHR
+em [em] <sam-> PRP @N<
+a [o] <-sam> <artd> DET F S @>N
+terra [terra] <cm> <Ltop> <BB> <Lstar> N F S @P<
+
+</CAPTION>
+<CAPTION ID=2037>
+menino [menino] <Hbio> N M S @SUBJ>
+trabalhando [trabalhar] <vt> V GER @IMV
+
+</CAPTION>
+<CAPTION ID=2038>
+criança [criança] <H> N F S @SUBJ>
+brincando [brincar] <vi> V GER @IMV
+
+</CAPTION>
+<CAPTION ID=2039>
+criança [criança] <H> N F S @SUBJ>
+enche [encher] <fmc> V PR 3S IND VFIN @FMV
+balde [balde] <con> N M S @<ACC
+de [de] PRP @<PIV
+terra [terra] <cm> <Ltop> <BB> <Lstar> N F S @P<
+.
+
+</CAPTION>
+<CAPTION ID=2043>
+falta [falta] <f-c> <sit> <event> N F S @NPHR
+de [de] PRP @N<
+educação [educação] <act> <domain> N F S @P<
+
+</CAPTION>
+<CAPTION ID=21>
+tristeza [tristeza] <percep-f> N F S @NPHR
+
+</CAPTION>
+<CAPTION ID=22>
+criança [criança] <H> N F S @SUBJ>
+trabalhando [trabalhar] <vt> V GER @IMV
+
+</CAPTION>
+<CAPTION ID=2226>
+criança [criança] <H> N F S @SUBJ>
+brincando [brincar] <vi> V GER @IMV
+
+</CAPTION>
+<CAPTION ID=2327>
+criança [criança] <H> N F S @SUBJ>
+trabalhando [trabalhar] V GER @IMV
+em [em] <sam-> PRP @<PIV
+a [o] <-sam> <artd> DET F S @>N
+terra [terra] <cm> <Ltop> <BB> <Lstar> N F S @P<
+.
+
+</CAPTION>
+<CAPTION ID=2330>
+criança [criança] <H> N F S @SUBJ>
+brincando [brincar] V GER @IMV
+com [com] PRP @<PIV
+a [o] <artd> DET F S @>N
+terra [terra] <*2> <cm> <Ltop> <BB> <Lstar> N F S @P<
+
+</CAPTION>
+<CAPTION ID=2331>
+o [o] <artd> DET M S @>N
+menino [menino] <Hbio> N M S @SUBJ>
+brincando [brincar] <vi> V GER @IMV @#ICL-ADVL
+em [em] <sam-> PRP @<ADVL
+a [o] <-sam> <artd> DET F S @>N
+terra [terra] <cm> <Ltop> <BB> <Lstar> N F S @P<
+
+</CAPTION>
+<CAPTION ID=2332>
+brincando [brincar] V GER @IMV @#ICL-ADVL
+com [com] PRP @<PIV
+terra [terra] <cm> <Ltop> <BB> <Lstar> N F S @P<
+
+</CAPTION>
+<CAPTION ID=2335>
+índio [índio] <Hnat> N M S @SUBJ>
+de [de] PRP @N<
+3 [3] <card> NUM M P @>N
+anos [ano] <dur> <temp> <per> <unit> N M P @P<
+ajudando [ajudar] <vt> V GER @IMV @#ICL-ADVL
+
+</CAPTION>
+<CAPTION ID=2338>
+pureza [pureza] <am> N F S @NPHR
+de [de] PRP @N<
+uma [um] <arti> DET F S @>N
+criança [criança] <H> N F S @P<
+
+</CAPTION>
+<CAPTION ID=2340>
+a [o] <artd> DET F S @>N
+criança [criança] <H> N F S @NPHR
+em [em] <sam-> PRP @N<
+a [o] <-sam> <artd> DET F S @>N
+terra [terra] <cm> <Ltop> <BB> <Lstar> N F S @P<
+
+</CAPTION>
+<CAPTION ID=2444>
+brincando [brincar] V GER @IMV @#ICL-ADVL
+com [com] PRP @<PIV
+terra [terra] <cm> <Ltop> <BB> <Lstar> N F S @P<
+
+</CAPTION>
+<CAPTION ID=25>
+criança [criança] <H> N F S @NPHR
+em [em] <sam-> PRP @N<
+o [o] <-sam> <artd> DET M S @>N
+trabalho [trabalho] <act-d> <am> N M S @P<
+de [de] PRP @N<
+adulto [adulto] <Hbio> N M S @P<
+
+</CAPTION>
+<CAPTION ID=2528>
+criança [criança] <H> N F S @NPHR
+em [em] <sam-> PRP @N<
+a [o] <-sam> <artd> DET F S @>N
+terra [terra] <cm> <Ltop> <BB> <Lstar> N F S @P<
+
+</CAPTION>
+<CAPTION ID=270>
+criança [criança] <H> N F S @SUBJ>
+brincando [brincar] <vi> V GER @IMV
+em [em] <sam-> PRP @<ADVL
+a [o] <-sam> <artd> DET F S @>N
+terra [terra] <cm> <Ltop> <BB> <Lstar> N F S @P<
+
+</CAPTION>
+<CAPTION ID=28>
+trabalho [trabalho] <act-d> <am> N M S @NPHR
+infantil [infantil] ADJ M S @N<
+
+</CAPTION>
+<CAPTION ID=282>
+menino [menino] <Hbio> N M S @SUBJ>
+jogando [jogar] <vt> V GER @IMV
+terra [terra] <cm> <Ltop> <BB> <Lstar> N F S @<ACC
+
+</CAPTION>
+<CAPTION ID=2838>
+brincadeira [brincadeira] <occ> <act-d> N F S @NPHR
+ou [ou] KC @CO
+trabalho [trabalho] <act-d> <am> N M S @NPHR
+?
+
+</CAPTION>
+<CAPTION ID=2840>
+bebê [bebê] <Hbio> N M S @SUBJ>
+carregando [carregar] <vt> V GER @IMV
+terra [terra] <cm> <Ltop> <BB> <Lstar> N F S @<ACC
+
+</CAPTION>
+<CAPTION ID=2841>
+menino [menino] <Hbio> N M S @SUBJ>
+joga [jogar] <fmc> <vt> V PR 3S IND VFIN @FMV
+terra [terra] <cm> <Ltop> <BB> <Lstar> N F S @<ACC
+em [em] PRP @<ADVL
+balde [balde] <con> N M S @P<
+.
+
+</CAPTION>
+<CAPTION ID=3022>
+bebê [bebê] <Hbio> N M S @SUBJ>
+enchendo [encher] <vt> V GER @IMV
+balde [balde] <con> N M S @<ACC
+com [com] PRP @N<
+terra [terra] <cm> <Ltop> <BB> <Lstar> N F S @P<
+
+</CAPTION>
+<CAPTION ID=3023>
+precisa- [precisar] <fmc> V PR 3S IND VFIN @FMV
+se [se] PERS M/F 3S/P ACC @<SUBJ
+de [de] PRP @<PIV
+amor [amor] <am> <H> <ac> N M S @P<
+
+</CAPTION>
+<CAPTION ID=31>
+criança [criança] <H> N F S @NPHR
+e [e] KC @CO
+a [o] <artd> DET F S @>N
+terra [terra] <cm> <Ltop> <BB> <Lstar> N F S @P<
+
+</CAPTION>
+<CAPTION ID=32>
+o [o] <artd> DET M S @>N
+menino [menino] <Hbio> N M S @NPHR
+e [e] KC @CO
+a [o] <artd> DET F S @>N
+terra [terra] <cm> <Ltop> <BB> <Lstar> N F S @P<
+
+</CAPTION>
+<CAPTION ID=3228>
+garoto [garoto] <Hbio> N M S @SUBJ>
+despeja [despejar] <fmc> <vt> V PR 3S IND VFIN @FMV
+terra [terra] <cm> <Ltop> <BB> <Lstar> N F S @<ACC
+em [em] PRP @<ADVL
+balde [balde] <con> N M S @P<
+
+</CAPTION>
+<CAPTION ID=3232>
+duro [duro] ADJ M S @>N
+recomeço [recomeço] <act> N M S @NPHR
+.
+
+</CAPTION>
+<CAPTION ID=3233>
+trabalho [trabalho] <act-d> <am> N M S @NPHR
+infantil [infantil] ADJ M S @N<
+.
+
+</CAPTION>
+<CAPTION ID=33>
+criança [criança] <H> N F S @SUBJ>
+brincando [brincar] V GER @IMV
+com [com] PRP @<PIV
+terra [terra] <cm> <Ltop> <BB> <Lstar> N F S @P<
+
+</CAPTION>
+<CAPTION ID=3321>
+criança [criança] <H> N F S @NPHR
+com [com] PRP @N<
+balde [balde] <con> N M S @P<
+de [de] PRP @N<
+terra [terra] <cm> <Ltop> <BB> <Lstar> N F S @P<
+
+</CAPTION>
+<CAPTION ID=356>
+criança [criança] <H> N F S @SUBJ>
+carregando [carregar] <vt> V GER @IMV
+terra [terra] <cm> <Ltop> <BB> <Lstar> N F S @<ACC
+
+</CAPTION>
+<CAPTION ID=36>
+trabalho [trabalho] <act-d> <am> N M S @NPHR
+infantil [infantil] ADJ M S @N<
+
+</CAPTION>
+<CAPTION ID=379>
+criança [criança] <H> N F S @SUBJ>
+trabalhando [trabalhar] V GER @IMV
+com [com] PRP @<PIV
+terra [terra] <cm> <Ltop> <BB> <Lstar> N F S @P<
+.
+
+</CAPTION>
+<CAPTION ID=398>
+garoto [garoto] <Hbio> N M S @SUBJ>
+jogando [jogar] <vt> V GER @IMV
+terra [terra] <cm> <Ltop> <BB> <Lstar> N F S @<ACC
+em [em] <sam-> PRP @<ADVL
+o [o] <-sam> <artd> DET M S @>N
+balde [balde] <con> N M S @P<
+
+</CAPTION>
+<CAPTION ID=4021>
+criança [criança] <H> N F S @SUBJ>
+enche [encher] <fmc> <vt> V PR 3S IND VFIN @FMV
+balde [balde] <con> N M S @<ACC
+com [com] PRP @N<
+terra [terra] <cm> <Ltop> <BB> <Lstar> N F S @P<
+
+</CAPTION>
+<CAPTION ID=4023>
+criança [criança] <H> N F S @NPHR
+com [com] PRP @N<
+um [um] <arti> DET M S @>N
+balde [balde] <con> N M S @P<
+de [de] PRP @N<
+terra [terra] <cm> <Ltop> <BB> <Lstar> N F S @P<
+
+</CAPTION>
+<CAPTION ID=4024>
+menino [menino] <Hbio> N M S @NPHR
+com [com] PRP @N<
+balde [balde] <con> N M S @P<
+de [de] PRP @N<
+terra [terra] <cm> <Ltop> <BB> <Lstar> N F S @P<
+.
+
+</CAPTION>
+<CAPTION ID=4025>
+menino [menino] <Hbio> N M S @SUBJ>
+coletando [coletar] <vt> V GER @IMV
+terra [terra] <cm> <Ltop> <BB> <Lstar> N F S @<ACC
+
+</CAPTION>
+<CAPTION ID=4026>
+bebê [bebê] <Hbio> N M S @SUBJ>
+enchendo [encher] <vt> V GER @IMV
+balde [balde] <con> N M S @<ACC
+com [com] PRP @N<
+terra [terra] <cm> <Ltop> <BB> <Lstar> N F S @P<
+.
+
+</CAPTION>
+<CAPTION ID=4027>
+garoto [garoto] <Hbio> N M S @NPHR
+com [com] PRP @N<
+balde [balde] <con> N M S @P<
+de [de] PRP @N<
+terra [terra] <cm> <Ltop> <BB> <Lstar> N F S @P<
+
+</CAPTION>
+<CAPTION ID=4028>
+balde [balde] <con> N M S @NPHR
+de [de] PRP @N<
+terra [terra] <cm> <Ltop> <BB> <Lstar> N F S @P<
+
+</CAPTION>
+<CAPTION ID=4030>
+criança [criança] <H> N F S @SUBJ>
+enche [encher] <fmc> V PR 3S IND VFIN @FMV
+balde [balde] <con> N M S @<ACC
+de [de] PRP @<PIV
+terra [terra] <cm> <Ltop> <BB> <Lstar> N F S @P<
+.
+
+</CAPTION>
+<CAPTION ID=4032>
+criança [criança] <H> N F S @SUBJ>
+mexendo [mexer] V GER @IMV
+com [com] PRP @<PIV
+terra [terra] <cm> <Ltop> <BB> <Lstar> N F S @P<
+
+</CAPTION>
+<CAPTION ID=405>
+garoto [garoto] <Hbio> N M S @NPHR
+e [e] KC @CO
+o [o] <artd> DET M S @>N
+balde [balde] <con> N M S @NPHR
+de [de] PRP @N<
+terra [terra] <cm> <Ltop> <BB> <Lstar> N F S @P<
+.
+
+</CAPTION>
+<CAPTION ID=430>
+menino [menino] <Hbio> N M S @SUBJ>
+enchendo [encher] V GER @IMV
+balde [balde] <con> N M S @<ACC
+de [de] PRP @<PIV
+terra [terra] <cm> <Ltop> <BB> <Lstar> N F S @P<
+
+</CAPTION>
+<CAPTION ID=495>
+garotinho [garoto] <DERS> N M S @SUBJ>
+brincando [brincar] <vi> V GER @IMV
+em [em] <sam-> PRP @<ADVL
+a [o] <-sam> <artd> DET F S @>N
+terra [terra] <cm> <Ltop> <BB> <Lstar> N F S @P<
+.
+
+</CAPTION>
+<CAPTION ID=5031>
+um [um] <card> NUM M S @>N
+criança [criança] <H> N F S @SUBJ>
+enchendo [encher] <vt> V GER @IMV @#ICL-ADVL
+um [um] <arti> DET M S @>N
+balde [balde] <con> N M S @<ACC
+
+</CAPTION>
+<CAPTION ID=5032>
+criança [criança] <H> N F S @SUBJ>
+brincando [brincar] V GER @IMV
+com [com] PRP @<PIV
+terra [terra] <cm> <Ltop> <BB> <Lstar> N F S @P<
+
+</CAPTION>
+<CAPTION ID=5033>
+criança [criança] <H> N F S @SUBJ>
+brincando [brincar] V GER @IMV
+com [com] PRP @<PIV
+terra [terra] <cm> <Ltop> <BB> <Lstar> N F S @P<
+.
+
+</CAPTION>
+<CAPTION ID=5034>
+criança [criança] <H> N F S @NPHR
+com [com] PRP @N<
+balde [balde] <con> N M S @P<
+de [de] PRP @N<
+terra [terra] <cm> <Ltop> <BB> <Lstar> N F S @P<
+
+</CAPTION>
+<CAPTION ID=5035>
+trabalho [trabalho] <act-d> <am> N M S @NPHR
+infantil [infantil] ADJ M S @N<
+
+</CAPTION>
+<CAPTION ID=5036>
+menino [menino] <Hbio> N M S @SUBJ>
+enchendo [encher] V GER @IMV
+balde [balde] <con> N M S @<ACC
+de [de] PRP @<PIV
+terra [terra] <cm> <Ltop> <BB> <Lstar> N F S @P<
+
+</CAPTION>
+<CAPTION ID=521>
+a [o] <artd> DET F S @>N
+criança [criança] <H> N F S @NPHR
+em [em] <sam-> PRP @N<
+o [o] <-sam> <artd> DET M S @>N
+monte [monte] <Ltop> N M S @P<
+de [de] PRP @N<
+terra [terra] <cm> <Ltop> <BB> <Lstar> N F S @P<
+
+</CAPTION>
+<CAPTION ID=58>
+uma [um] <arti> DET F S @>N
+criança [criança] <H> N F S @SUBJ>
+mexendo [mexer] V GER @IMV @#ICL-ADVL
+com [com] PRP @<PIV
+terra [terra] <cm> <Ltop> <BB> <Lstar> N F S @P<
+
+</CAPTION>
+<CAPTION ID=684>
+criança [criança] <H> N F S @SUBJ>
+despejando [despejar] <vt> V GER @IMV
+terra [terra] <cm> <Ltop> <BB> <Lstar> N F S @<ACC
+.
+
+</CAPTION>
+<CAPTION ID=687>
+menino [menino] <Hbio> N M S @SUBJ>
+colhendo [colher] <vt> V GER @IMV
+terra [terra] <cm> <Ltop> <BB> <Lstar> N F S @<ACC
+
+</CAPTION>
+<CAPTION ID=76>
+trabalho [trabalho] <act-d> <am> N M S @NPHR
+infantil [infantil] ADJ M S @N<
+
+</CAPTION>
+<CAPTION ID=771>
+criança [criança] <H> N F S @SUBJ>
+trabalhando [trabalhar] V GER @IMV
+com [com] PRP @<PIV
+terra [terra] <cm> <Ltop> <BB> <Lstar> N F S @P<
+
+</CAPTION>
+<CAPTION ID=772>
+menino [menino] <Hbio> N M S @SUBJ>
+brincando [brincar] V GER @IMV
+com [com] PRP @<PIV
+a [o] <artd> DET F S @>N
+terra [terra] <cm> <Ltop> <BB> <Lstar> N F S @P<
+
+</CAPTION>
+<CAPTION ID=781>
+o [o] <artd> DET M S @>N
+menino [menino] <Hbio> N M S @NPHR
+e [e] KC @CO
+a [o] <artd> DET F S @>N
+terra [terra] <cm> <Ltop> <BB> <Lstar> N F S @P<
+.
+
+</CAPTION>
+<CAPTION ID=783>
+garoto [garoto] <Hbio> N M S @NPHR
+e [e] KC @CO
+o [o] <artd> DET M S @>N
+monte [monte] <Ltop> N M S @NPHR
+de [de] PRP @N<
+terra [terra] <cm> <Ltop> <BB> <Lstar> N F S @P<
+
+</CAPTION>
+<CAPTION ID=788>
+trabalho [trabalho] <act-d> <am> N M S @NPHR
+infantil [infantil] ADJ M S @N<
+
+</CAPTION>
+<CAPTION ID=790>
+criança [criança] <H> N F S @SUBJ>
+jogando [jogar] <vt> V GER @IMV
+terra [terra] <cm> <Ltop> <BB> <Lstar> N F S @<ACC
+em [em] <sam-> PRP @<ADVL
+o [o] <-sam> <artd> DET M S @>N
+balde [balde] <con> N M S @P<
+
+</CAPTION>
+<CAPTION ID=791>
+criança [criança] <H> N F S @SUBJ>
+mexendo [mexer] V GER @IMV
+em [em] <sam-> PRP @<PIV
+a [o] <-sam> <artd> DET F S @>N
+terra [terra] <cm> <Ltop> <BB> <Lstar> N F S @P<
+
+</CAPTION>
+<CAPTION ID=799>
+criança [criança] <H> N F S @NPHR
+e [e] KC @CO
+balde [balde] <con> N M S @NPHR
+de [de] PRP @N<
+terra [terra] <cm> <Ltop> <BB> <Lstar> N F S @P<
+
+</CAPTION>
+<CAPTION ID=811>
+menino [menino] <Hbio> N M S @SUBJ>
+joga [jogar] <fmc> <vt> V PR 3S IND VFIN @FMV
+terra [terra] <cm> <Ltop> <BB> <Lstar> N F S @<ACC
+em [em] <sam-> PRP @<ADVL
+o [o] <-sam> <artd> DET M S @>N
+balde [balde] <con> N M S @P<
+.
+
+</CAPTION>
+<CAPTION ID=820>
+criança [criança] <H> N F S @SUBJ>
+mexendo [mexer] V GER @IMV
+com [com] PRP @<PIV
+terra [terra] <cm> <Ltop> <BB> <Lstar> N F S @P<
+
+</CAPTION>
+<CAPTION ID=821>
+criança [criança] <H> N F S @SUBJ>
+brincando [brincar] V GER @IMV
+com [com] PRP @<PIV
+terra [terra] <cm> <Ltop> <BB> <Lstar> N F S @P<
+!
+¶
+
+</CAPTION>
+<CAPTION ID=823>
+pobre [pobre] ADJ F S @>N
+criança [criança] <H> N F S @NPHR
+
+</CAPTION>
+<CAPTION ID=826>
+a [o] <artd> DET F S @>N
+criança [criança] <H> N F S @NPHR
+e [e] KC @CO
+a [o] <artd> DET F S @>N
+terra [terra] <cm> <Ltop> <BB> <Lstar> N F S @P<
+
+</CAPTION>
+<CAPTION ID=827>
+menino [menino] <Hbio> N M S @SUBJ>
+despejando [despejar] <vt> V GER @IMV
+terra [terra] <cm> <Ltop> <BB> <Lstar> N F S @<ACC
+.
+
+</CAPTION>
+<CAPTION ID=828>
+criança [criança] <H> N F S @SUBJ>
+enche [encher] <fmc> V PR 3S IND VFIN @FMV
+balde [balde] <con> N M S @<ACC
+de [de] PRP @<PIV
+terra [terra] <cm> <Ltop> <BB> <Lstar> N F S @P<
+
+</CAPTION>
+<CAPTION ID=829>
+criança [criança] <H> N F S @SUBJ>
+trabalhando [trabalhar] <vt> V GER @IMV
+
+</CAPTION>
+<CAPTION ID=83>
+criança [criança] <H> N F S @SUBJ>
+mexendo [mexer] V GER @IMV
+com [com] PRP @<PIV
+terra [terra] <cm> <Ltop> <BB> <Lstar> N F S @P<
+
+</CAPTION>
+<CAPTION ID=830>
+bebê [bebê] <Hbio> N M S @SUBJ>
+trabalhando [trabalhar] <vt> V GER @IMV
+
+</CAPTION>
+<CAPTION ID=834>
+trabalho [trabalho] <act-d> <am> N M S @NPHR
+.
+
+</CAPTION>
+<CAPTION ID=835>
+pobreza [pobreza] <am> N F S @NPHR
+
+</CAPTION>
+<CAPTION ID=836>
+criança [criança] <H> N F S @SUBJ>
+trabalhando [trabalhar] <vt> V GER @IMV
+
+</CAPTION>
+<CAPTION ID=837>
+criança [criança] <H> N F S @NPHR
+em [em] <sam-> PRP @N<
+a [o] <-sam> <artd> DET F S @>N
+sua [seu] <poss 3S> DET F S @>N
+casa [casa] <build> N F S @P<
+
+</CAPTION>
+<CAPTION ID=838>
+criança [criança] <H> N F S @SUBJ>
+junta [juntar] <fmc> <vt> V PR 3S IND VFIN @FMV
+terra [terra] <cm> <Ltop> <BB> <Lstar> N F S @<ACC
+em [em] PRP @<ADVL
+balde [balde] <con> N M S @P<
+.
+
+</CAPTION>
+<CAPTION ID=839>
+criança [criança] <H> N F S @NPHR
+em [em] <sam-> PRP @N<
+a [o] <-sam> <artd> DET F S @>N
+aldeia [aldeia] <Lciv> N F S @P<
+indígena [indígena] ADJ F S @N<
+
+</CAPTION>
+<CAPTION ID=840>
+criancinha [criancinha] <H> N F S @SUBJ>
+juntando [juntar] <vt> V GER @IMV
+terra [terra] <cm> <Ltop> <BB> <Lstar> N F S @<ACC
+
+</CAPTION>
+<CAPTION ID=842>
+a [o] <artd> DET F S @>N
+criança [criança] <H> N F S @SUBJ>
+trabalhando [trabalhar] <vi> V GER @IMV @#ICL-ADVL
+.
+
+</CAPTION>
+<CAPTION ID=844>
+criança [criança] <H> N F S @SUBJ>
+brincando [brincar] <vi> V GER @IMV
+.
+
+</CAPTION>
+<CAPTION ID=850>
+menino [menino] <Hbio> N M S @SUBJ>
+jogando [jogar] <vt> V GER @IMV
+terra [terra] <cm> <Ltop> <BB> <Lstar> N F S @<ACC
+em [em] <sam-> PRP @<ADVL
+o [o] <-sam> <artd> DET M S @>N
+balde [balde] <con> N M S @P<
+
+</CAPTION>
+<CAPTION ID=854>
+criança [criança] <H> N F S @SUBJ>
+brincando [brincar] <vi> V GER @IMV
+
+</CAPTION>
+<CAPTION ID=855>
+menino [menino] <Hbio> N M S @SUBJ>
+trabalhando [trabalhar] <vt> V GER @IMV
+
+</CAPTION>
+<CAPTION ID=856>
+um [um] <arti> DET M S @>N
+bebê [bebê] <Hbio> N M S @NPHR
+com [com] PRP @N<
+um [um] <arti> DET M S @>N
+balde [balde] <con> N M S @P<
+de [de] PRP @N<
+terra [terra] <cm> <Ltop> <BB> <Lstar> N F S @P<
+
+</CAPTION>
+<CAPTION ID=858>
+menino [menino] <Hbio> N M S @NPHR
+simples [simples] ADJ M S @N<
+
+</CAPTION>
+<CAPTION ID=859>
+sinal [sinal] <percep-l> <percep-w> <ac> <ac-sign> <mon> <sem-r> <sick-c> N M S @NPHR
+de [de] <sam-> PRP @N<
+a [o] <-sam> <artd> DET F S @>N
+realidade [realidade] <sit> N F S @P<
+
+</CAPTION>
+<CAPTION ID=861>
+criança [criança] <H> N F S @NPHR
+e [e] KC @CO
+terra [terra] <cm> <Ltop> <BB> <Lstar> N F S @NPHR
+
+</CAPTION>
+<CAPTION ID=862>
+criança [criança] <H> N F S @SUBJ>
+brincando [brincar] V GER @IMV
+com [com] PRP @<PIV
+terra [terra] <cm> <Ltop> <BB> <Lstar> N F S @P<
+.
+
+</CAPTION>
+<CAPTION ID=863>
+criança [criança] <H> N F S @NPHR
+com [com] PRP @N<
+balde [balde] <con> N M S @P<
+de [de] PRP @N<
+areia [areia] <mat> N F S @P<
+.
+
+</CAPTION>
+<CAPTION ID=864>
+criança [criança] <H> N F S @SUBJ>
+trabalhando [trabalhar] V GER @IMV
+com [com] PRP @<PIV
+terra [terra] <cm> <Ltop> <BB> <Lstar> N F S @P<
+.
+
+</CAPTION>
+<CAPTION ID=868>
+onde [onde] <interr> <aloc> ADV @ADVS>
+está [estar] <fmc> V PR 3S IND VFIN @FMV
+a [o] <artd> DET F S @>N
+escola [escola] <inst> N F S @<SUBJ
+?
+
+</CAPTION>
+<CAPTION ID=870>
+exploração [exploração] <activity> N F S @NPHR
+infantil [infantil] ADJ F S @N<
+.
+
+</CAPTION>
+<CAPTION ID=875>
+bebê [bebê] <Hbio> N M S @NPHR
+no meio de [no=meio=de] <sam-> PRP @N<
+a [o] <artd> <-sam> DET F S @>N
+terra [terra] <cm> <Ltop> <BB> <Lstar> N F S @P<
+
+</CAPTION>
+<CAPTION ID=876>
+criança [criança] <H> N F S @SUBJ>
+brincando [brincar] <vi> V GER @IMV
+
+</CAPTION>
+<CAPTION ID=878>
+criança [criança] <H> N F S @SUBJ>
+jogando [jogar] <vt> V GER @IMV
+terra [terra] <cm> <Ltop> <BB> <Lstar> N F S @<ACC
+em [em] <sam-> PRP @<ADVL
+o [o] <-sam> <artd> DET M S @>N
+balde [balde] <con> N M S @P<
+
+</CAPTION>
+<CAPTION ID=879>
+recolhendo [recolher] <vt> V GER @IMV @#ICL-ADVL
+terra [terra] <cm> <Ltop> <BB> <Lstar> N F S @<ACC
+
+</CAPTION>
+<CAPTION ID=880>
+um [um] <arti> DET M S @>N
+bebê [bebê] <Hbio> N M S @SUBJ>
+mexendo [mexer] V GER @IMV @#ICL-ADVL
+em [em] <sam-> PRP @<PIV
+a [o] <-sam> <artd> DET F S @>N
+terra [terra] <cm> <Ltop> <BB> <Lstar> N F S @P<
+.
+
+</CAPTION>
+<CAPTION ID=881>
+a [o] <artd> DET F S @>N
+pobreza [pobreza] <am> N F S @NPHR
+
+</CAPTION>
+<CAPTION ID=882>
+criança [criança] <H> N F S @SUBJ>
+manuseando [manusear] <vt> V GER @IMV
+terra [terra] <cm> <Ltop> <BB> <Lstar> N F S @<ACC
+
+</CAPTION>
+<CAPTION ID=883>
+o [o] <artd> DET M S @>N
+menino [menino] <Hbio> N M S @NPHR
+e [e] KC @CO
+a [o] <artd> DET F S @>N
+terra [terra] <cm> <Ltop> <BB> <Lstar> N F S @P<
+.
+
+</CAPTION>
+<CAPTION ID=885>
+criança [criança] <H> N F S @SUBJ>
+pondo [pôr] <vt> V GER @IMV
+terra [terra] <cm> <Ltop> <BB> <Lstar> N F S @<ACC
+em [em] <sam-> PRP @<ADVL
+o [o] <-sam> <artd> DET M S @>N
+balde [balde] <con> N M S @P<
+
+</CAPTION>
+<CAPTION ID=886>
+exploração [exploração] <activity> N F S @NPHR
+infantil [infantil] ADJ F S @N<
+.
+
+</CAPTION>
+<CAPTION ID=888>
+uma [um] <arti> DET F S @>N
+criança [criança] <H> N F S @NPHR
+e [e] KC @CO
+a [o] <artd> DET F S @>N
+terra [terra] <cm> <Ltop> <BB> <Lstar> N F S @P<
+.
+
+</CAPTION>
+<CAPTION ID=889>
+terra [terra] <cm> <Ltop> <BB> <Lstar> N F S @NPHR
+em [em] <sam-> PRP @N<
+o [o] <-sam> <artd> DET M S @>N
+balde [balde] <con> N M S @P<
+.
+
+</CAPTION>
+<CAPTION ID=890>
+criança [criança] <H> N F S @SUBJ>
+e [e] KC @CO
+casa [casar] <fmc> <vi> V PR 3S IND VFIN @FMV
+mal [mal] <atemp> ADV @>A
+construída [construir] <vt> V PCP F S @<PRED
+
+</CAPTION>
+<CAPTION ID=891>
+menino [menino] <Hbio> N M S @SUBJ>
+despeja [despejar] <fmc> <vt> V PR 3S IND VFIN @FMV
+terra [terra] <cm> <Ltop> <BB> <Lstar> N F S @<ACC
+em [em] PRP @<ADVL
+balde [balde] <con> N M S @P<
+
+</CAPTION>
+<CAPTION ID=892>
+criança [criança] <H> N F S @SUBJ>
+brincando [brincar] V GER @IMV
+com [com] PRP @<PIV
+terra [terra] <cm> <Ltop> <BB> <Lstar> N F S @P<
+
+</CAPTION>
+<CAPTION ID=893>
+menino [menino] <Hbio> N M S @NPHR
+com [com] PRP @N<
+um [um] <arti> DET M S @>N
+balde [balde] <con> N M S @P<
+de [de] PRP @N<
+terra [terra] <cm> <Ltop> <BB> <Lstar> N F S @P<
+
+</CAPTION>
+<CAPTION ID=903>
+brincando [brincar] V GER @IMV @#ICL-ADVL
+com [com] PRP @<PIV
+terra [terra] <cm> <Ltop> <BB> <Lstar> N F S @P<
+em [em] <sam-> PRP @N<PRED
+o [o] <-sam> <artd> DET M S @>N
+barraco [barraco] <build> N M S @P<
+
+</CAPTION>
+<CAPTION ID=904>
+brincadeira [brincadeira] <occ> <act-d> N F S @NPHR
+de [de] PRP @N<
+criança [criança] <H> N F S @P<
+
+</CAPTION>
+<CAPTION ID=907>
+infância [infância] <per> N F S @NPHR
+roubada [roubar] <vt> V PCP F S @N<
+
+</CAPTION>
+<CAPTION ID=908>
+barraco [barraco] <build> N M S @NPHR
+
+</CAPTION>
+<CAPTION ID=909>
+criança [criança] <H> N F S @SUBJ>
+brincando [brincar] V GER @IMV
+com [com] PRP @<PIV
+terra [terra] <cm> <Ltop> <BB> <Lstar> N F S @P<
+
+</CAPTION>
+<CAPTION ID=910>
+trabalho [trabalho] <act-d> <am> N M S @NPHR
+infantil [infantil] ADJ M S @N<
+
+</CAPTION>
+<CAPTION ID=911>
+brincando [brincar] V GER @IMV @#ICL-ADVL
+com [com] PRP @<PIV
+a [o] <artd> DET F S @>N
+terra [terra] <cm> <Ltop> <BB> <Lstar> N F S @P<
+
+</CAPTION>
+<CAPTION ID=914>
+criança [criança] <H> N F S @SUBJ>
+brincando [brincar] <vi> V GER @IMV
+
+</CAPTION>
+<CAPTION ID=915>
+ser [ser] <vK> V INF @IMV
+criança [criança] <prop> <H> N F S @<SC
+
+</CAPTION>
+<CAPTION ID=916>
+criança [criança] <H> N F S @NPHR
+com [com] PRP @N<
+terra [terra] <cm> <Ltop> <BB> <Lstar> N F S @P<
+
+</CAPTION>
+<CAPTION ID=917>
+a [a] <sam-> PRP @PIV>
+o [o] <-sam> <artd> DET M S @>N
+pó [pó] <cm> N M S @P<
+voltaremos [voltar] <fmc> <ve> V FUT 1P IND VFIN @FMV
+.
+
+</CAPTION>
+<CAPTION ID=918>
+criança [criança] <H> N F S @NPHR
+em [em] PRP @N<
+um [um] <arti> DET M S @>N
+monte [monte] <Ltop> N M S @P<
+de [de] PRP @N<
+terra [terra] <cm> <Ltop> <BB> <Lstar> N F S @P<
+
+</CAPTION>
+<CAPTION ID=922>
+precariedade [precariedade] <am> N F S @NPHR
+de [de] <sam-> PRP @N<
+a [o] <-sam> <artd> DET F S @>N
+vida [vida] <per> N F S @P<
+rural [rural] <prop> ADJ F S @N<
+
+</CAPTION>
+<CAPTION ID=934>
+criança [criança] <H> N F S @NPHR
+de [de] PRP @N<
+rua [rua] N F S @P<
+
+</CAPTION>
+<CAPTION ID=935>
+bebê [bebê] <Hbio> N M S @SUBJ>
+guardando [guardar] <vt> V GER @IMV
+terra [terra] <cm> <Ltop> <BB> <Lstar> N F S @<ACC
+.
+
+</CAPTION>
+<CAPTION ID=94>
+menino [menino] <Hbio> N M S @SUBJ>
+despejando [despejar] <vt> V GER @IMV
+terra [terra] <cm> <Ltop> <BB> <Lstar> N F S @<ACC
+
+</CAPTION>
+<CAPTION ID=945>
+criança [criança] <H> N F S @SUBJ>
+enchendo [encher] <vt> V GER @IMV
+balde [balde] <con> N M S @<ACC
+
+</CAPTION>
+<CAPTION ID=946>
+criança [criança] <H> N F S @NPHR
+em [em] <sam-> PRP @N<
+a [o] <-sam> <artd> DET F S @>N
+terra [terra] <cm> <Ltop> <BB> <Lstar> N F S @P<
+
+</CAPTION>
+<CAPTION ID=947>
+criança [criança] <H> N F S @SUBJ>
+pobre [pobre] ADJ F S @N<
+trabalhando [trabalhar] <vt> V GER @IMV
+
+</CAPTION>
+<CAPTION ID=951>
+o [o] <artd> DET M S @>N
+menino [menino] <Hbio> N M S @SUBJ>
+depositando [depositar] <vt> V GER @IMV @#ICL-ADVL
+terra [terra] <cm> <Ltop> <BB> <Lstar> N F S @<ACC
+
+</CAPTION>
+<CAPTION ID=982>
+a [o] <artd> DET F S @>N
+inocência [inocência] <f-psych> N F S @NPHR
+
+</CAPTION>
+<CAPTION ID=991>
+trabalho [trabalho] <act-d> <am> N M S @NPHR
+infantil [infantil] ADJ M S @N<
+
+</CAPTION>

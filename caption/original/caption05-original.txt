@@ -1,0 +1,151 @@
+1040, A espera
+1052, Pessoas esperando
+1054, Frio e espera
+1055, Pessoas reunidas.
+1058, Pessoas se protegendo
+1059, refúgio
+1143, Idosa terrorista
+1144, Fila de espera
+1165, Pessoas esperando
+144, Pessoas aguardando em fila
+19, hospital
+20, reunião de família
+2032, Confraternização
+2033, Frio
+2035, Todos à espera
+2037, Aguardando ônibus
+2038, família reunida
+2039, Velhos e crianças observam.
+2043, Fugindo do horror
+21, Fila de Espera
+22, Pessoas sentadas.
+2226, Grupo de pessoas reunidas.
+2327, Mulheres e crianças esperando.
+2330, Pessoas com frio
+2331, A vovó está de babá
+2332, Esperando sentado
+2335, Aniversário de família
+2338, Encontro em família
+2340, Pessoas em ambiente pequeno
+2444, Encontro de família
+25, Pessoas no inverno
+2528, pessoas olhando
+270, mulher olhando a câmera
+28, Festa infantil
+282, Festa em família
+2838, Diversidade
+2840, Pessoas em um cômodo
+2841, Pessoas aguardando em dia frio
+3022, Pessoas sentadas
+3023, à espera do quê?
+31, Reunião
+32, sala de espera
+3228, Pessoas esperando por algo
+3232, fria fila de espera
+3233, Multidão.
+33, Na fila
+3321, Grupo de pessoas
+356, Pessoas aguardando por serviço
+36, Pessoas na festa
+379, Grupo de pessoas esperando.
+398, Pessoas sentadas
+4021, Senhora e crianças no frio
+4023, Pessoas reunidas
+4024, Pessoas em uma sala pequena.
+4025, Pessoas olhando pra foto
+4026, Idosa e crianças no frio.
+4027, pessoas no frio
+4028, Sentados à parede
+4030, Uma reunião de pessoas.
+4032, Algumas pessoas reunidas
+405, A fila de pessoas.
+430, A espera de mulheres e criança
+495, Senhora e crianças.
+5031, Pessoas em um quarto
+5032, Espera
+5033, Família reunida
+5034, Família reunida aguardando
+5035, A espera
+5036, Pessoas em um abrigo
+521, Reunião em família
+58, Pessoas sentadas
+684, Pessoas esperam sentadas
+687, Tempo de frio
+76, Reunião em família
+771, Crianças e uma velha esperando
+772, pessoas reunidas no cômodo
+781, À espera
+783, Pessoas em um lugar frio
+788, Encontro de família
+790, Família no inverno
+791, festinha de aniversário
+799, Fileira de pessoas sentadas
+811, velha e meninos
+820, Pessoas aguardando atendimento
+821, Esperando no Inverno!
+823, família reunida
+826, O frio e as pessoas
+827, Um local frio.
+828, Família reunida
+829, Pessoas em espera
+83, Grupo de pessoas.
+830, forte inverno na região
+834, família
+835, A espera de médicos
+836, Esperando por algo.
+837, lugar com bastante pessoas
+838, Pessoas esperando.
+839, Refugiados
+840, Pessoa em uma sala cinza
+842, Família aguardando.
+844, Fila de espera.
+850, Pessoas esperando!
+854, Pessoas passando frio
+855, reunião de família
+856, pessoas numa fila
+858, família reunida
+859, reunião de família
+861, fila de espera
+862, Grupo de pessoas a espera.
+863, Pessoas em uma fila de espera.
+864, Pessoas aguardam atendimento.
+868, Chega de espera.
+870, Espera interminável.
+875, Festa de Família
+876, Pessoas em espera
+878, Pessoas com roupas de frio
+879, Fila de espera
+880, A senhora branca.
+881, Esperando no frio
+882, Pessoas brancas em clima frio
+883, A espera.
+885, Pessoas aguardando
+886, Pessoas aguardando auxílio
+888, Mulheres e crianças
+889, Senhora surpresa.
+890, Pessoas juntas com olhar sério
+891, Senhora e meninos na multidão
+892, Uma foto inesperada
+893, Pessoas aguardando atendimento
+903, A espera
+904, Prestem atenção
+907, a espera
+908, imigrantes
+909, Pessoas esperando
+910, Vigília
+911, Agasalhados contra o frio
+914, Fila de espera
+915, Duas gerações
+916, Pessoas esperando
+917, Refugiados.
+918, Pessoas na estação
+922, Noite gelada
+934, Refugiados
+935, Senhora na fila
+94, Grupo de pessoas sentadas
+945, encontro de gerações
+946, Uma família esperando
+947, Pessoas na fila à espera
+951, A mulher sentada
+982, As pessoas
+991, Reunião em família

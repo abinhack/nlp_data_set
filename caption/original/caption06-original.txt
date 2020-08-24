@@ -1,0 +1,151 @@
+1040, Criança na cama
+1052, Criança doente
+1054, Berço
+1055, Criança sentada numa cama.
+1058, Criança fragilizada
+1059, angústia
+1143, De volta a vida
+1144, À beira da miséria
+1165, Bebê em situação precária
+144, Criança doente e desnutrida
+19, desumano
+20, tristeza
+2032, Menino doente
+2033, Crueldade
+2035, Pobre criança
+2037, Menino doente
+2038, criança dodói
+2039, Criança doente.
+2043, Descaso na saúde
+21, Tristeza
+22, Menino doente
+2226, bebê doente
+2327, Criança doente.
+2330, Criança doente
+2331, o bebê no berço
+2332, Retrato da miséria
+2335, Criança com queimaduras
+2338, Criança no hospital.
+2340, Menino doente e maltratado
+2444, Criança doente em tratamento
+25, Criança no leito hospitalar
+2528, garoto doente
+270, criança pobre
+28, Criança no hospital
+282, criança doente
+2838, Doente
+2840, Criança com doença nas pernas
+2841, Menino doente sentado em berço
+3022, menino negro no berço
+3023, Uma vida de obstáculos
+31, Criança vulnerável
+32, o bebê
+3228, Criança doente em seu leito
+3232, mais que abandonada
+3233, Menino em hospital.
+33, Criança
+3321, Criança em um leito de hospital
+356, Criança recebendo tratamento
+36, Criança doente na cama
+379, Criança doente.
+398, Criança machucada
+4021, Criança doente sentada em maca
+4023, Criança sentada em berço
+4024, Uma criança com roupas sujas.
+4025, Menino num berço
+4026, Criança doente.
+4027, criança doente numa cama
+4028, Fragilidade
+4030, Garoto negro sentado na cama
+4032, Bebê sujo no berço
+405, Bebê na cama.
+430, Criança em berço de ferro
+495, criança triste.
+5031, Um criança doente
+5032, Criança doente.
+5033, Criança negra desnutrida
+5034, Criança no leito do hospital
+5035, Pobreza
+5036, Menino doente na maca
+521, Criança doente
+58, Criança numa maca
+684, Criança sobre um berço
+687, menino no berço
+76, Criança doente
+771, Criança machucada e abandonada
+772, criança no hospital
+781, Pequenino
+783, Garoto doente
+788, Criança desnutrida
+790, Criança pobre em hospital
+791, criança doente
+799, Bebê choroso no berço
+811, Bebê negro sentado no berço
+820, Criança sentada em maca
+821, Criança necessitada!
+823, Criança pobre e doente
+826, O garoto
+827, Criança necessitada.
+828, Criança em situação precária
+829, Criança em hospital
+83, Criança mal tratada.
+830, criança enferma
+834, sofrimento
+835, uma criança doente
+836, criança no hospital
+837, criança sentada em um berço
+838, Criança doente.
+839, Criança doente
+840, criança triste no berço
+842, A criança doente.
+844, Criança negra e roupas sujas.
+850, Criança doente!
+854, Criança desnutrida
+855, criança doente
+856, Bebê acamado e sujo
+858, bebê sofrendo
+859, olhas desolado
+861, criança doente
+862, Criança doente.
+863, Criança doente em hospital.
+864, Criança em hospital.
+868, A infância de hoje.
+870, O descaso com as crianças.
+875, Criança doente
+876, Uma criança no berço
+878, Criança doente
+879, Criança abandonada
+880, Um bebê ferido.
+881, Criança doente e pobre
+882, Criança negra doente
+883, A criança
+885, Criança em hospital
+886, Criança doente com desnutrição
+888, Criança que precisa de ajuda
+889, Criança negra
+890, Criança doente e triste
+891, criança com hematomas na perna
+892, Um bebê sujo
+893, Menino negro com machucados
+903, Bebê doente
+904, Uma criança doente
+907, leito de hospital
+908, recuperação
+909, Criança doente
+910, Criança triste e sofrendo
+911, Precisando de cuidados
+914, criança abandonada
+915, Triste cenário
+916, Criança doente
+917, Feridas da alma.
+918, Criança resgatada ainda está mal
+922, África sofre com a saúde
+934, Criança doente
+935, Criança com queimaduras
+94, Criança em um berço
+945, Criança hospitalizada
+946, Criança adoentada
+947, Criança doente
+951, A bebê no berço
+982, O hospital
+991, Pobreza nos hospitais

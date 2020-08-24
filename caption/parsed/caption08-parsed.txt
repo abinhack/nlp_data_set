@@ -1,0 +1,1015 @@
+<CAPTION ID=1040>
+a [ela] PERS F 3S ACC @ACC>
+cerca [cercar] <fmc> <vt> V PR 3S IND VFIN @FMV
+.
+
+</CAPTION>
+<CAPTION ID=1052>
+um [um] <arti> DET M S @>N
+cara [caro] <n> <n> ADJ F S @NPHR
+atrás de [atrás=de] PRP @N<
+uma [um] <arti> DET F S @>N
+madeira [madeira] <mat> N F S @P<
+
+</CAPTION>
+<CAPTION ID=1054>
+arame farpado [arame=farpado] N M S @NPHR
+
+</CAPTION>
+<CAPTION ID=1055>
+homem [homem] <Hbio> N M S @NPHR
+em [em] <sam-> PRP @N<
+a [o] <-sam> <artd> DET F S @>N
+cerca [cerca] <part-build> N F S @P<
+.
+
+</CAPTION>
+<CAPTION ID=1058>
+cerca [cerca] <aloc> ADV @ADVL [cercar] <fmc> <vt> V PR 3S IND VFIN @FMV
+com [com] PRP @<ADVL @<PRED
+arame farpado [arame=farpado] N M S @P<
+
+</CAPTION>
+<CAPTION ID=1059>
+desejo [desejar] <fmc> <vt> V PR 1S IND VFIN @FMV
+
+</CAPTION>
+<CAPTION ID=1143>
+estreia [estreia] <occ> <sem-w> N F S @NPHR
+mundial [mundial] ADJ F S @N<
+
+</CAPTION>
+<CAPTION ID=1144>
+prisão [prisão] <inst> <act> <tool> <per> N F S @NPHR
+
+</CAPTION>
+<CAPTION ID=1165>
+homem [homem] <Hbio> N M S @NPHR
+negro [negro] ADJ M S @N<
+em [em] <sam-> PRP @N<
+a [o] <-sam> <artd> DET F S @>N
+cerca [cerca] <part-build> N F S @P<
+
+</CAPTION>
+<CAPTION ID=144>
+homem [homem] <Hbio> N M S @SUBJ>
+observa [observar] <fmc> <vt> V PR 3S IND VFIN @FMV
+através [através] ADV @<ADVL
+de [de] PRP @A<
+cerca [cerca] <aloc> ADV @P<
+
+</CAPTION>
+<CAPTION ID=19>
+escravidão [escravidão] <state-h> N F S @NPHR
+
+</CAPTION>
+<CAPTION ID=20>
+o [o] <artd> DET M S @>N
+homem [homem] <Hbio> N M S @NPHR
+
+</CAPTION>
+<CAPTION ID=2032>
+olhar [olhar] <act-d> N M S @NPHR
+
+</CAPTION>
+<CAPTION ID=2033>
+trabalhador [trabalhador] <Hprof> N M S @NPHR
+
+</CAPTION>
+<CAPTION ID=2035>
+cercado [cercar] <vt> V PCP M S @NPHR
+
+</CAPTION>
+<CAPTION ID=2037>
+refugiado [refugiado] <H> N M S @NPHR
+
+</CAPTION>
+<CAPTION ID=2038>
+dois [dois] <card> NUM M P @>N
+adultos [adulto] <Hbio> N M P @NPHR
+exposto [expor] V PCP M S @NPHR
+a [a] <sam-> PRP @<PIV
+o [o] <-sam> <artd> DET M S @>N
+sol [sol] <Lstar> <ac-sign> <percep-l> <cm> N M S @P<
+
+</CAPTION>
+<CAPTION ID=2039>
+rapaz [rapaz] <Hbio> N M S @NPHR
+atrás de [atrás=de] <sam-> PRP @N<
+a [o] <artd> <-sam> DET F S @>N
+cerca [cerca] <part-build> N F S @P<
+.
+
+</CAPTION>
+<CAPTION ID=2043>
+olhar [olhar] <vt> V INF @IMV
+sem [sem] PRP @<ADVL
+esperança [esperança] <am> <percep-w> N F S @P<
+
+</CAPTION>
+<CAPTION ID=21>
+trabalhador [trabalhador] <Hprof> N M S @NPHR
+
+</CAPTION>
+<CAPTION ID=22>
+olhando [olhar] <vi> V GER @IMV @#ICL-ADVL
+além de [além=de] <adir> <sam-> PRP @<ADVL
+as [o] <artd> <-sam> DET F P @>N
+cercas [cerca] <part-build> N F P @P<
+
+</CAPTION>
+<CAPTION ID=2226>
+homem [homem] <Hbio> N M S @SUBJ>
+olhando [olhar] V GER @IMV
+por [por] <sam-> PRP @<PIV
+a [o] <-sam> <artd> DET F S @>N
+cerca [cerca] <part-build> N F S @P<
+.
+
+</CAPTION>
+<CAPTION ID=2327>
+um [um] <arti> DET M S @>N
+homem [homem] <Hbio> N M S @NPHR
+atrás de [atrás=de] <sam-> PRP @N<
+a [o] <artd> <-sam> DET F S @>N
+cerca [cerca] <part-build> N F S @P<
+.
+
+</CAPTION>
+<CAPTION ID=2330>
+homem [homem] <Hbio> N M S @NPHR
+atrás de [atrás=de] <sam-> PRP @N<
+a [o] <artd> <-sam> DET F S @>N
+cerca [cerca] <aloc> ADV @ADVL
+
+</CAPTION>
+<CAPTION ID=2331>
+visão [visão] <sem-c> <f-h> N F S @NPHR
+de [de] <sam-> PRP @N<
+o [o] <-sam> <artd> DET M S @>N
+senhor [senhor] <Htit> N M S @P<
+além de [além=de] <adir> <sam-> PRP @N<
+a [o] <artd> <-sam> DET F S @>N
+cerca [cerca] <aloc> ADV @ADVL
+
+</CAPTION>
+<CAPTION ID=2332>
+esperança [esperança] <am> <percep-w> N F S @NPHR
+
+</CAPTION>
+<CAPTION ID=2335>
+olhar [olhar] <act-d> N M S @NPHR
+pensativo [pensativo] <prop> ADJ M S @N<
+
+</CAPTION>
+<CAPTION ID=2338>
+olhar [olhar] <vt> V INF @IMV
+de [de] PRP @<ADVL
+esperança [esperança] <am> <percep-w> N F S @P<
+
+</CAPTION>
+<CAPTION ID=2340>
+o [o] <artd> DET M S @>N
+homem [homem] <Hbio> N M S @NPHR
+negro [negro] ADJ M S @N<
+em [em] <sam-> PRP @N<
+a [o] <-sam> <artd> DET F S @>N
+cerca [cerca] <aloc> ADV @ADVL
+
+</CAPTION>
+<CAPTION ID=2444>
+separando [separar] <vt> V GER @IMV @#ICL-ADVL
+mundos [mundo] <L> N M P @<ACC
+
+</CAPTION>
+<CAPTION ID=25>
+senhor [senhor] <Htit> N M S @NPHR
+em [em] <sam-> PRP @N<
+a [o] <-sam> <artd> DET F S @>N
+grade [grade] <bar> <tool> <furn> N F S @P<
+
+</CAPTION>
+<CAPTION ID=2528>
+homem [homem] <Hbio> N M S @NPHR
+
+</CAPTION>
+<CAPTION ID=270>
+negro [negro] ADJ M S @SUBJ>
+olhando [olhar] V GER @IMV @#ICL-ADVL
+para [para] PRP @<PIV
+o [o] <artd> DET M S @>N
+horizonte [horizonte] <Ltop> <Labs> N M S @P<
+
+</CAPTION>
+<CAPTION ID=28>
+homem [homem] <Hbio> N M S @NPHR
+em [em] <sam-> PRP @N<
+a [o] <-sam> <artd> DET F S @>N
+cerca [cerca] <aloc> ADV @ADVL
+
+</CAPTION>
+<CAPTION ID=282>
+homem [homem] <Hbio> N M S @SUBJ>
+observa [observar] <fmc> <vt> V PR 3S IND VFIN @FMV
+em [em] <sam-> PRP @<ADVL
+a [o] <-sam> <artd> DET F S @>N
+fronteira [fronteira] <bar> N F S @P<
+
+</CAPTION>
+<CAPTION ID=2838>
+desigualdade [desigualdade] <am> N F S @NPHR
+
+</CAPTION>
+<CAPTION ID=2840>
+homem [homem] <Hbio> N M S @NPHR
+negro [negro] ADJ M S @N<
+atrás de [atrás=de] <sam-> PRP @N<
+a [o] <artd> <-sam> DET F S @>N
+cerca [cerca] <aloc> ADV @ADVL
+
+</CAPTION>
+<CAPTION ID=2841>
+homem [homem] <Hbio> N M S @NPHR
+negro [negro] ADJ M S @N<
+atrás de [atrás=de] PRP @N<
+cerca [cerca] <aloc> ADV @P<
+
+</CAPTION>
+<CAPTION ID=3022>
+homem [homem] <Hbio> N M S @SUBJ>
+olhando [olhar] <vt> V GER @IMV
+a [o] <artd> DET F S @>N
+cerca [cerca] <aloc> ADV @<ADVL
+
+</CAPTION>
+<CAPTION ID=3023>
+para além de [para=além=de] <sam-> PRP @ADVL
+os [o] <artd> <-sam> DET M P @>N
+muros [muro] <part-build> <bar> N M P @P<
+de [de] PRP @N<
+arame [arame] N M S @P<
+
+</CAPTION>
+<CAPTION ID=31>
+sem [sem] PRP @ADVL
+liberdade [liberdade] <f-psych> <am> <f-right> N F S @P<
+
+</CAPTION>
+<CAPTION ID=32>
+o [o] <artd> DET M S @>N
+homem [homem] <Hbio> N M S @NPHR
+
+</CAPTION>
+<CAPTION ID=3228>
+homem [homem] <Hbio> N M S @NPHR
+apoiado [apoiar] <vt> V PCP M S @N<
+a [a] <sam-> PRP @<ADVL
+a [o] <-sam> <artd> DET F S @>N
+cerca [cerca] <aloc> ADV @ADVL
+
+</CAPTION>
+<CAPTION ID=3232>
+excluído [excluir] <vt> V PCP M S @NPHR
+
+</CAPTION>
+<CAPTION ID=3233>
+homem [homem] <Hbio> N M S @SUBJ>
+observa [observar] <fmc> V PR 3S IND VFIN @FMV
+atrás de [atrás=de] <sam-> PRP @<ADVL
+a [o] <artd> <-sam> DET F S @>N
+cerca [cerca] <part-build> N F S @P<
+.
+
+</CAPTION>
+<CAPTION ID=33>
+olhar [olhar] <act-d> N M S @NPHR
+
+</CAPTION>
+<CAPTION ID=3321>
+homem [homem] <Hbio> N M S @NPHR
+próximo a [próximo=a] PRP @N<
+uma [um] <card> NUM F S @P<
+cerca [cerca] <aloc> ADV @ADVL
+
+</CAPTION>
+<CAPTION ID=356>
+detido [deter] <vt> V PCP M S @SUBJ>
+observa [observar] <fmc> <vt> V PR 3S IND VFIN @FMV
+o [o] <artd> DET M S @>N
+outro [outro] <diff> <KOMP> DET M S @>N
+lado [lado] <Labs> N M S @<ACC
+
+</CAPTION>
+<CAPTION ID=36>
+homem [homem] <Hbio> N M S @SUBJ>
+olhando [olhar] <vi> V GER @IMV
+através [através] ADV @<ADVL
+de [de] <sam-> PRP @A<
+a [o] <-sam> <artd> DET F S @>N
+cerca [cerca] <aloc> ADV @<ADVL
+
+</CAPTION>
+<CAPTION ID=379>
+homem [homem] <Hbio> N M S @SUBJ>
+observando [observar] V GER @IMV
+.
+
+</CAPTION>
+<CAPTION ID=398>
+moço [moço] <Hbio> N M S @NPHR
+atrás de [atrás=de] <sam-> PRP @N<
+a [o] <artd> <-sam> DET F S @>N
+cerca [cerca] <aloc> ADV @ADVL
+
+</CAPTION>
+<CAPTION ID=4021>
+homem [homem] <Hbio> N M S @NPHR
+atrás de [atrás=de] <sam-> PRP @N<
+a [o] <artd> <-sam> DET F S @>N
+cerca [cerca] <aloc> ADV @ADVL
+
+</CAPTION>
+<CAPTION ID=4023>
+homem [homem] <Hbio> N M S @NPHR
+em [em] <sam-> PRP @N<
+a [o] <-sam> <artd> DET F S @>N
+cerca [cerca] <aloc> ADV @ADVL
+
+</CAPTION>
+<CAPTION ID=4024>
+um [um] <arti> DET M S @>N
+homem [homem] <Hbio> N M S @NPHR
+atrás de [atrás=de] PRP @N<
+uma [um] <arti> DET F S @>N
+cerca [cerca] <part-build> N F S @P<
+.
+
+</CAPTION>
+<CAPTION ID=4025>
+homem [homem] <Hbio> N M S @SUBJ>
+observando [observar] V GER @IMV
+por [por] <sam-> PRP @<ADVL
+a [o] <-sam> <artd> DET F S @>N
+cerca [cerca] <aloc> ADV @<ADVL
+
+</CAPTION>
+<CAPTION ID=4026>
+homem [homem] <Hbio> N M S @NPHR
+em [em] <sam-> PRP @N<
+a [o] <-sam> <artd> DET F S @>N
+cerca [cerca] <part-build> N F S @P<
+.
+
+</CAPTION>
+<CAPTION ID=4027>
+homem [homem] <Hbio> N M S @NPHR
+atrás de [atrás=de] PRP @N<
+cerca [cerca] <aloc> ADV @P<
+
+</CAPTION>
+<CAPTION ID=4028>
+observando [observar] <vt> V GER @IMV @#ICL-ADVL
+por trás [por=trás] ADV @<ADVL
+de [de] <sam-> PRP @A<
+a [o] <-sam> <artd> DET F S @>N
+cerca [cerca] <aloc> ADV @<ADVL
+
+</CAPTION>
+<CAPTION ID=4030>
+homem [homem] <Hbio> N M S @SUBJ>
+olha [olhar] <fmc> <vi> V PR 3S IND VFIN @FMV
+através [através] ADV @<ADVL
+de [de] <sam-> PRP @A<
+a [o] <-sam> <artd> DET F S @>N
+cerca [cerca] <aloc> ADV @<ADVL
+
+</CAPTION>
+<CAPTION ID=4032>
+um [um] <arti> DET M S @>N
+homem [homem] <Hbio> N M S @SUBJ>
+olhando [olhar] V GER @IMV @#ICL-ADVL
+sobre [sobre] PRP @<PIV
+a [o] <artd> DET F S @>N
+cerca [cerca] <aloc> ADV @<ADVL
+
+</CAPTION>
+<CAPTION ID=405>
+homem [homem] <Hbio> N M S @SUBJ>
+e [e] KC @CO
+a [ela] PERS F 3S ACC @ACC>
+cerca [cercar] <fmc> <vt> V PR 3S IND VFIN @FMV
+.
+
+</CAPTION>
+<CAPTION ID=430>
+homem [homem] <Hbio> N M S @SUBJ>
+olhando [olhar] V GER @IMV
+por [por] <sam-> PRP @<PIV
+a [o] <-sam> <artd> DET F S @>N
+cerca [cerca] <aloc> ADV @<ADVL
+
+</CAPTION>
+<CAPTION ID=495>
+homem [homem] <Hbio> N M S @NPHR
+negro [negro] <prop> ADJ M S @N<
+
+</CAPTION>
+<CAPTION ID=5031>
+um [um] <arti> DET M S @>N
+homem [homem] <Hbio> N M S @NPHR
+atrás de [atrás=de] PRP @N<
+uma [um] <card> NUM F S @P<
+cerca [cerca] <aloc> ADV @ADVL
+
+</CAPTION>
+<CAPTION ID=5032>
+a [ela] PERS F 3S ACC @ACC>
+cerca [cerca] <aloc> ADV @ADVL
+
+</CAPTION>
+<CAPTION ID=5033>
+homem [homem] <Hbio> N M S @NPHR
+negro [negro] ADJ M S @N<
+em [em] <sam-> PRP @N<
+a [o] <-sam> <artd> DET F S @>N
+cerca [cerca] <aloc> ADV @ADVL
+
+</CAPTION>
+<CAPTION ID=5034>
+homem [homem] <Hbio> N M S @SUBJ>
+olha [olhar] <fmc> <vi> V PR 3S IND VFIN @FMV
+por trás [por=trás] ADV @<ADVL
+de [de] <sam-> PRP @A<
+a [o] <-sam> <artd> DET F S @>N
+cerca [cerca] <aloc> ADV @<ADVL
+
+</CAPTION>
+<CAPTION ID=5035>
+trabalhador [trabalhador] <Hprof> N M S @NPHR
+
+</CAPTION>
+<CAPTION ID=5036>
+homem [homem] <Hbio> N M S @SUBJ>
+olhando [olhar] <vi> V GER @IMV
+através [através] ADV @<ADVL
+de [de] <sam-> PRP @A<
+a [o] <-sam> <artd> DET F S @>N
+cerca [cerca] <aloc> ADV @<ADVL
+
+</CAPTION>
+<CAPTION ID=521>
+o [o] <artd> DET M S @>N
+negro [negro] <Htit> <Hbio> <Hattr> N M S @NPHR
+atrás de [atrás=de] <sam-> PRP @N<
+a [o] <artd> <-sam> DET F S @>N
+cerca [cerca] <aloc> ADV @ADVL
+
+</CAPTION>
+<CAPTION ID=58>
+um [um] <arti> DET M S @>N
+homem [homem] <Hbio> N M S @NPHR
+atrás de [atrás=de] PRP @N<
+uma [um] <card> NUM F S @P<
+cerca [cerca] <aloc> ADV @ADVL
+
+</CAPTION>
+<CAPTION ID=684>
+homem [homem] <Hbio> N M S @SUBJ>
+olha [olhar] <fmc> <vi> V PR 3S IND VFIN @FMV
+através [através] ADV @<ADVL
+de [de] <sam-> PRP @A<
+a [o] <-sam> <artd> DET F S @>N
+cerca [cerca] <aloc> ADV @<ADVL
+
+</CAPTION>
+<CAPTION ID=687>
+homem [homem] <Hbio> N M S @NPHR
+atrás de [atrás=de] <sam-> PRP @N<
+a [o] <artd> <-sam> DET F S @>N
+cerca [cerca] <aloc> ADV @ADVL
+
+</CAPTION>
+<CAPTION ID=76>
+homem [homem] <Hbio> N M S @NPHR
+negro [negro] ADJ M S @N<
+
+</CAPTION>
+<CAPTION ID=771>
+homem [homem] <Hbio> N M S @SUBJ>
+negro [negro] ADJ M S @N<
+olhando [olhar] V GER @IMV
+por [por] <sam-> PRP @<PIV
+a [o] <-sam> <artd> DET F S @>N
+cerca [cerca] <aloc> ADV @<ADVL
+
+</CAPTION>
+<CAPTION ID=772>
+homem [homem] <Hbio> N M S @SUBJ>
+olhando [olhar] <vi> V GER @IMV
+através [através] ADV @<ADVL
+de [de] <sam-> PRP @A<
+a [o] <-sam> <artd> DET F S @>N
+cerca [cerca] <aloc> ADV @<ADVL
+
+</CAPTION>
+<CAPTION ID=781>
+cercado [cercar] <vt> V PCP M S @NPHR
+
+</CAPTION>
+<CAPTION ID=783>
+homem [homem] <Hbio> N M S @NPHR
+encarcerado [encarcerar] <vt> V PCP M S @N<
+
+</CAPTION>
+<CAPTION ID=788>
+homem [homem] <Hbio> N M S @NPHR
+atrás de [atrás=de] <sam-> PRP @N<
+a [o] <artd> <-sam> DET F S @>N
+cerca [cerca] <aloc> ADV @ADVL
+
+</CAPTION>
+<CAPTION ID=790>
+homem [homem] <Hbio> N M S @NPHR
+negro [negro] ADJ M S @N<
+atrás de [atrás=de] <sam-> PRP @N<
+a [o] <artd> <-sam> DET F S @>N
+cerca [cerca] <aloc> ADV @ADVL
+
+</CAPTION>
+<CAPTION ID=791>
+homem [homem] <Hbio> N M S @NPHR
+em [em] <sam-> PRP @N<
+a [o] <-sam> <artd> DET F S @>N
+cerca [cerca] <part-build> N F S @P<
+
+</CAPTION>
+<CAPTION ID=799>
+homem [homem] <Hbio> N M S @NPHR
+e [e] KC @CO
+arame [arame] N M S @NPHR
+
+</CAPTION>
+<CAPTION ID=811>
+homem [homem] <Hbio> N M S @SUBJ>
+olha [olhar] <fmc> <vi> V PR 3S IND VFIN @FMV
+por trás [por=trás] ADV @<ADVL
+de [de] <sam-> PRP @A<
+a [o] <-sam> <artd> DET F S @>N
+cerca [cerca] <aloc> ADV @<ADVL
+
+</CAPTION>
+<CAPTION ID=820>
+homem [homem] <Hbio> N M S @SUBJ>
+olhando [olhar] <vi> V GER @IMV
+através [através] ADV @<ADVL
+de [de] <sam-> PRP @A<
+a [o] <-sam> <artd> DET F S @>N
+cerca [cerca] <aloc> ADV @<ADVL
+
+</CAPTION>
+<CAPTION ID=821>
+a [o] <artd> DET F S @>N
+divisão [divisão] <act-d> <HH> <ac> N F S @NPHR
+de [de] PRP @N<
+terra [terra] <cm> <Ltop> <BB> <Lstar> N F S @P<
+!
+¶
+
+</CAPTION>
+<CAPTION ID=823>
+atrás de [atrás=de] <sam-> PRP @ADVL
+a [o] <artd> <-sam> DET F S @>N
+cerca [cerca] <aloc> ADV @ADVL
+
+</CAPTION>
+<CAPTION ID=826>
+a [ela] PERS F 3S ACC @ACC>
+cerca [cerca] <aloc> ADV @ADVL
+
+</CAPTION>
+<CAPTION ID=827>
+impedido [impedir] <vt> V PCP M S @SUBJ>
+mas [mas] KC @CO
+observando [observar] V GER @IMV @#ICL-ADVL
+.
+
+</CAPTION>
+<CAPTION ID=828>
+homem [homem] <Hbio> N M S @NPHR
+preso [prender] <vt> V PCP M S @N<
+atrás de [atrás=de] <sam-> PRP @ADVL
+a [o] <artd> <-sam> DET F S @>N
+cerca [cerca] <aloc> ADV @ADVL
+
+</CAPTION>
+<CAPTION ID=829>
+homem [homem] <Hbio> N M S @NPHR
+e [e] KC @CO
+o [o] <artd> DET M S @>N
+arame [arame] N M S @NPHR
+
+</CAPTION>
+<CAPTION ID=83>
+homem [homem] <Hbio> N M S @NPHR
+e [e] KC @CO
+cerca [cerca] <aloc> ADV @ADVL
+
+</CAPTION>
+<CAPTION ID=830>
+negro [negro] <Htit> <Hbio> <Hattr> N M S @NPHR
+aprisionado [aprisionado] ADJ M S @N<
+
+</CAPTION>
+<CAPTION ID=834>
+olhar [olhar] <act-d> N M S @NPHR
+
+</CAPTION>
+<CAPTION ID=835>
+tristeza [tristeza] <percep-f> N F S @NPHR
+
+</CAPTION>
+<CAPTION ID=836>
+o [o] <artd> DET M S @>N
+homem [homem] <Hbio> N M S @SUBJ>
+observando [observar] V GER @IMV @#ICL-ADVL
+.
+
+</CAPTION>
+<CAPTION ID=837>
+homem [homem] <Hbio> N M S @SUBJ>
+segurando [segurar] <vt> V GER @IMV
+uma [um] <arti> DET F S @>N
+madeira [madeira] <mat> N F S @<ACC
+
+</CAPTION>
+<CAPTION ID=838>
+homem [homem] <Hbio> N M S @NPHR
+negro [negro] ADJ M S @N<
+em [em] <sam-> PRP @N<
+a [o] <-sam> <artd> DET F S @>N
+cerca [cerca] <part-build> N F S @P<
+.
+
+</CAPTION>
+<CAPTION ID=839>
+o [o] <artd> DET M S @>N
+homem [homem] <Hbio> N M S @NPHR
+e [e] KC @CO
+a [ela] PERS F 3S ACC @ACC>
+cerca [cerca] <aloc> ADV @ADVL
+
+</CAPTION>
+<CAPTION ID=840>
+homem [homem] <Hbio> N M S @NPHR
+atrás de [atrás=de] <sam-> PRP @N<
+a [o] <artd> <-sam> DET F S @>N
+cerca [cerca] <aloc> ADV @ADVL
+
+</CAPTION>
+<CAPTION ID=842>
+o [o] <artd> DET M S @>N
+homem [homem] <Hbio> N M S @SUBJ>
+segurando [segurar] <vt> V GER @IMV @#ICL-ADVL
+a [o] <artd> DET F S @>N
+tábua [tábua] <cc-board> N F S @<ACC
+.
+
+</CAPTION>
+<CAPTION ID=844>
+Afrodescendente [Afrodescendente] N M/F S @NPHR
+atrás de [atrás=de] <sam-> PRP @ADVL
+a [o] <artd> <-sam> DET F S @>N
+cerca [cerca] <aloc> ADV @ADVL
+
+</CAPTION>
+<CAPTION ID=850>
+homem [homem] <Hbio> N M S @SUBJ>
+olhando [olhar] V GER @IMV
+por [por] <sam-> PRP @<PIV
+o [o] <-sam> <artd> DET M S @>N
+cercado [cercado] <part-build> N M S @P<
+
+</CAPTION>
+<CAPTION ID=854>
+um [um] <arti> DET M S @>N
+olhar [olhar] <act-d> N M S @NPHR
+desconfiado [desconfiado] ADJ M S @N<
+
+</CAPTION>
+<CAPTION ID=855>
+hum [um] <arti> DET M S @>N
+homem [homem] <Hbio> N M S @SUBJ>
+por [por] PRP @N<
+traz [trazer] <fmc> V PR 3S IND VFIN @FMV
+de [de] <sam-> PRP @<ADVL
+a [o] <-sam> <artd> DET F S @>N
+cerca [cerca] <aloc> ADV @<ADVL
+
+</CAPTION>
+<CAPTION ID=856>
+um [um] <arti> DET M S @>N
+homem [homem] <Hbio> N M S @NPHR
+apoiado [apoiar] V PCP M S @IMV @#ICL-N<
+em [em] <sam-> PRP @<PIV
+a [o] <-sam> <artd> DET F S @>N
+cerca [cerca] <aloc> ADV @ADVL
+
+</CAPTION>
+<CAPTION ID=858>
+homem [homem] <Hbio> N M S @NPHR
+preso [prender] <vt> V PCP M S @N<
+
+</CAPTION>
+<CAPTION ID=859>
+o [o] <artd> DET M S @>N
+trabalho [trabalho] <act-d> <am> N M S @NPHR
+de [de] PRP @N<
+um [um] <arti> DET M S @>N
+povo [povo] <HH> N M S @P<
+
+</CAPTION>
+<CAPTION ID=861>
+homem [homem] <Hbio> N M S @NPHR
+atrás de [atrás=de] <sam-> PRP @N<
+a [o] <artd> <-sam> DET F S @>N
+cerca [cerca] <aloc> ADV @ADVL
+
+</CAPTION>
+<CAPTION ID=862>
+homem [homem] <Hbio> N M S @NPHR
+negro [negro] ADJ M S @N<
+.
+
+</CAPTION>
+<CAPTION ID=863>
+homem [homem] <Hbio> N M S @NPHR
+por [por] PRP @N<
+três [três] <card> NUM M/F P @P<
+de [de] PRP @N< @ADVL
+cerca [cerca] <part-build> N F S @P<
+.
+
+</CAPTION>
+<CAPTION ID=864>
+homem [homem] <Hbio> N M S @NPHR
+em [em] <sam-> PRP @N<
+a [o] <-sam> <artd> DET F S @>N
+cerca [cerca] <part-build> N F S @P<
+.
+
+</CAPTION>
+<CAPTION ID=868>
+preferência [preferência] <am> N F S @NPHR
+ou [ou] KC @CO
+descaso [descaso] <am> N M S @NPHR
+?
+
+</CAPTION>
+<CAPTION ID=870>
+desconfiança [desconfiança] <am> <percep-f> N F S @NPHR
+.
+
+</CAPTION>
+<CAPTION ID=875>
+a [ela] PERS F 3S ACC @ACC>
+cerca [cerca] <aloc> ADV @ADVL
+
+</CAPTION>
+<CAPTION ID=876>
+rosto [rosto] <an> <Labs> N M S @NPHR
+atrás de [atrás=de] <sam-> PRP @N<
+a [o] <artd> <-sam> DET F S @>N
+cerca [cerca] <aloc> ADV @ADVL
+
+</CAPTION>
+<CAPTION ID=878>
+homem [homem] <Hbio> N M S @NPHR
+atrás de [atrás=de] <sam-> PRP @N<
+a [o] <artd> <-sam> DET F S @>N
+cerca [cerca] <aloc> ADV @ADVL
+
+</CAPTION>
+<CAPTION ID=879>
+olhando [olhar] <vt> V GER @IMV @#ICL-ADVL
+a [o] <artd> DET F S @>N
+cerca [cerca] <aloc> ADV @<ADVL
+
+</CAPTION>
+<CAPTION ID=880>
+um [um] <arti> DET M S @>N
+negro [negro] <Htit> <Hbio> <Hattr> N M S @NPHR
+atrás de [atrás=de] <sam-> PRP @N<
+os [o] <artd> <-sam> DET M P @>N
+arames [arame] N M P @P<
+.
+
+</CAPTION>
+<CAPTION ID=881>
+cerca [cerca] <aloc> ADV @ADVL
+
+</CAPTION>
+<CAPTION ID=882>
+homem [homem] <Hbio> N M S @NPHR
+negro [negro] ADJ M S @N<
+atrás de [atrás=de] PRP @N<
+cerca [cerca] <aloc> ADV @P<
+
+</CAPTION>
+<CAPTION ID=883>
+o [o] <artd> DET M S @>N
+homem [homem] <Hbio> N M S @SUBJ>
+e [e] KC @CO
+a [ela] PERS F 3S ACC @ACC>
+cerca [cercar] <fmc> <vt> V PR 3S IND VFIN @FMV
+.
+
+</CAPTION>
+<CAPTION ID=885>
+homem [homem] <Hbio> N M S @NPHR
+moreno [moreno] ADJ M S @N<
+em [em] <sam-> PRP @N<
+a [o] <-sam> <artd> DET F S @>N
+cerca [cerca] <aloc> ADV @ADVL
+
+</CAPTION>
+<CAPTION ID=886>
+homem [homem] <Hbio> N M S @NPHR
+atrás de [atrás=de] PRP @N<
+uma [um] <card> NUM F S @P<
+cerca [cerca] <aloc> ADV @ADVL
+
+</CAPTION>
+<CAPTION ID=888>
+um [um] <arti> DET M S @>N
+homem [homem] <Hbio> N M S @NPHR
+e [e] KC @CO
+a [o] <artd> DET F S @>N
+barreira [barreira] <part-build> <bar> N F S @NPHR
+
+</CAPTION>
+<CAPTION ID=889>
+homem [homem] <Hbio> N M S @NPHR
+negro [negro] ADJ M S @N<
+arame [arame] N M S @NPHR
+
+</CAPTION>
+<CAPTION ID=890>
+homem [homem] <Hbio> N M S @NPHR
+e [e] KC @CO
+cerca [cerca] <aloc> ADV @ADVL
+
+</CAPTION>
+<CAPTION ID=891>
+homem [homem] <Hbio> N M S @SUBJ>
+olhando [olhar] <vt> V GER @IMV
+através [através] ADV @<ADVL
+de [de] PRP @A<
+cerca [cerca] <aloc> ADV @P<
+
+</CAPTION>
+<CAPTION ID=892>
+um [um] <arti> DET M S @>N
+homem [homem] <Hbio> N M S @NPHR
+negro [negro] ADJ M S @N<
+
+</CAPTION>
+<CAPTION ID=893>
+negro [negro] <n> ADJ M S @NPHR
+em [em] <sam-> PRP @N<
+o [o] <-sam> <artd> DET M S @>N
+muro [muro] <part-build> <bar> N M S @P<
+de [de] PRP @N<
+arame farpado [arame=farpado] N M S @P<
+
+</CAPTION>
+<CAPTION ID=903>
+atrás de [atrás=de] <sam-> PRP @ADVL
+a [o] <artd> <-sam> DET F S @>N
+cerca [cerca] <aloc> ADV @ADVL
+
+</CAPTION>
+<CAPTION ID=904>
+olhar [olhar] <act-d> N M S @NPHR
+fixado [fixar] <vt> V PCP M S @N<
+
+</CAPTION>
+<CAPTION ID=907>
+homem [homem] <Hbio> N M S @SUBJ>
+esperando [esperar] <vt> V GER @IMV
+
+</CAPTION>
+<CAPTION ID=908>
+cerca [cerca] <aloc> ADV @ADVL
+
+</CAPTION>
+<CAPTION ID=909>
+o [o] <artd> DET M S @>N
+olhar [olhar] <act-d> N M S @NPHR
+de [de] <sam-> PRP @N<
+o [o] <-sam> <artd> DET M S @>N
+homem [homem] <Hbio> N M S @P<
+
+</CAPTION>
+<CAPTION ID=910>
+fronteira [fronteira] <bar> N F S @NPHR
+
+</CAPTION>
+<CAPTION ID=911>
+olhar [olhar] <act-d> N M S @NPHR
+concentrado [concentrado] ADJ M S @N<
+
+</CAPTION>
+<CAPTION ID=914>
+cerca [cerca] <aloc> ADV @ADVL
+
+</CAPTION>
+<CAPTION ID=915>
+um [um] <arti> DET M S @>N
+olhar [olhar] <act-d> N M S @NPHR
+perdido [perder] <vt> V PCP M S @N<
+
+</CAPTION>
+<CAPTION ID=916>
+homem [homem] <Hbio> N M S @NPHR
+negro [negro] ADJ M S @N<
+
+</CAPTION>
+<CAPTION ID=917>
+negritude [negritude] <f-psych> N F S @NPHR
+nossa [nosso] <poss 1P> DET F S @N<
+.
+
+</CAPTION>
+<CAPTION ID=918>
+homem [homem] <Hbio> N M S @NPHR
+em [em] <sam-> PRP @N<
+a [o] <-sam> <artd> DET F S @>N
+cerca [cerca] <aloc> ADV @ADVL
+
+</CAPTION>
+<CAPTION ID=922>
+expectativa [expectativa] <sem-c> N F S @NPHR
+africana [africano] ADJ F S @N<
+
+</CAPTION>
+<CAPTION ID=934>
+homem [homem] <Hbio> N M S @NPHR
+em [em] <sam-> PRP @N<
+a [o] <-sam> <artd> DET F S @>N
+cerca [cerca] <aloc> ADV @ADVL
+
+</CAPTION>
+<CAPTION ID=935>
+senhor [senhor] <Htit> N M S @NPHR
+próximo de [próximo=de] PRP @N<
+cerca [cerca] <aloc> ADV @ADVL
+
+</CAPTION>
+<CAPTION ID=94>
+homem [homem] <Hbio> N M S @NPHR
+,
+madeira [madeira] <mat> N F S @NPHR
+e [e] KC @CO
+arame [arame] N M S @NPHR
+.
+
+</CAPTION>
+<CAPTION ID=945>
+homem [homem] <Hbio> N M S @SUBJ>
+olhando [olhar] <vi> V GER @IMV
+através [através] ADV @<ADVL
+de [de] <sam-> PRP @A<
+a [o] <-sam> <artd> DET F S @>N
+cerca [cerca] <part-build> N F S @P<
+
+</CAPTION>
+<CAPTION ID=946>
+por trás [por=trás] ADV @ADVL
+de [de] <sam-> PRP @A<
+a [o] <-sam> <artd> DET F S @>N
+cerca [cerca] <aloc> ADV @ADVL
+
+</CAPTION>
+<CAPTION ID=947>
+trabalhador [trabalhador] <Hprof> N M S @NPHR
+negro [negro] <prop> ADJ M S @N<
+
+</CAPTION>
+<CAPTION ID=951>
+o [o] <artd> DET M S @>N
+homem [homem] <Hbio> N M S @NPHR
+e [e] KC @CO
+a [ela] PERS F 3S ACC @ACC>
+cerca [cerca] <aloc> ADV @ADVL
+
+</CAPTION>
+<CAPTION ID=982>
+o [o] <artd> DET M S @>N
+homem [homem] <Hbio> N M S @NPHR
+
+</CAPTION>
+<CAPTION ID=991>
+negro [negro] ADJ M S @SUBJ>
+observando [observar] <vt> V GER @IMV @#ICL-ADVL
+
+</CAPTION>

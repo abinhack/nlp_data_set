@@ -1,0 +1,950 @@
+<CAPTION ID=1040>
+criança [criança] <H> N F S @NPHR
+em [em] <sam-> PRP @N<
+a [o] <-sam> <artd> DET F S @>N
+cama [cama] <furn> N F S @P<
+
+</CAPTION>
+<CAPTION ID=1052>
+criança [criança] <H> N F S @NPHR
+doente [doente] ADJ F S @N<
+
+</CAPTION>
+<CAPTION ID=1054>
+berço [berço] <furn> <Lh> <tool> N M S @NPHR
+
+</CAPTION>
+<CAPTION ID=1055>
+criança [criança] <H> N F S @NPHR
+sentada [sentar] V PCP F S @IMV @#ICL-N<
+em [em] <sam-> PRP @<ADVL
+uma [um] <-sam> <arti> DET F S @>N
+cama [cama] <furn> N F S @P<
+.
+
+</CAPTION>
+<CAPTION ID=1058>
+criança [criança] <H> N F S @NPHR
+fragilizada [fragilizar] <vt> V PCP F S @N<
+
+</CAPTION>
+<CAPTION ID=1059>
+angústia [angústia] <H> N F S @NPHR
+
+</CAPTION>
+<CAPTION ID=1143>
+de volta [de=volta] ADV @ADVL
+a [o] <artd> DET F S @>N
+vida [vida] <per> N F S @NPHR
+
+</CAPTION>
+<CAPTION ID=1144>
+à beira de [à=beira=de] <sam-> PRP @ADVL
+a [o] <artd> <-sam> DET F S @>N
+miséria [miséria] <sit> N F S @P<
+
+</CAPTION>
+<CAPTION ID=1165>
+bebê [bebê] <Hbio> N M S @NPHR
+em [em] PRP @N<
+situação [situação] <sit> N F S @P<
+precária [precário] ADJ F S @N<
+
+</CAPTION>
+<CAPTION ID=144>
+criança [criança] <H> N F S @NPHR
+doente [doente] ADJ F S @N<
+e [e] <co-postnom> KC @CO
+desnutrida [desnutrido] ADJ F S @N<
+
+</CAPTION>
+<CAPTION ID=19>
+desumano [desumano] ADJ M S @NPHR
+
+</CAPTION>
+<CAPTION ID=20>
+tristeza [tristeza] <percep-f> N F S @NPHR
+
+</CAPTION>
+<CAPTION ID=2032>
+menino [menino] <Hbio> N M S @NPHR
+doente [doente] ADJ M S @N<
+
+</CAPTION>
+<CAPTION ID=2033>
+crueldade [crueldade] <am> N F S @NPHR
+
+</CAPTION>
+<CAPTION ID=2035>
+pobre [pobre] ADJ F S @>N
+criança [criança] <H> N F S @NPHR
+
+</CAPTION>
+<CAPTION ID=2037>
+menino [menino] <Hbio> N M S @NPHR
+doente [doente] ADJ M S @N<
+
+</CAPTION>
+<CAPTION ID=2038>
+criança [criança] <H> N F S @NPHR
+dodói [dodói] ADJ F S @N<
+
+</CAPTION>
+<CAPTION ID=2039>
+criança [criança] <H> N F S @NPHR
+doente [doente] ADJ F S @N<
+.
+
+</CAPTION>
+<CAPTION ID=2043>
+descaso [descaso] <am> N M S @NPHR
+em [em] <sam-> PRP @N<
+a [o] <-sam> <artd> DET F S @>N
+saúde [saúde] <state-h> N F S @P<
+
+</CAPTION>
+<CAPTION ID=21>
+tristeza [tristeza] <percep-f> N F S @NPHR
+
+</CAPTION>
+<CAPTION ID=22>
+menino [menino] <Hbio> N M S @NPHR
+doente [doente] ADJ M S @N<
+
+</CAPTION>
+<CAPTION ID=2226>
+bebê [bebê] <Hbio> N M S @NPHR
+doente [doente] ADJ M S @N<
+
+</CAPTION>
+<CAPTION ID=2327>
+criança [criança] <H> N F S @NPHR
+doente [doente] ADJ F S @N<
+.
+
+</CAPTION>
+<CAPTION ID=2330>
+criança [criança] <H> N F S @NPHR
+doente [doente] ADJ F S @N<
+
+</CAPTION>
+<CAPTION ID=2331>
+o [o] <artd> DET M S @>N
+bebê [bebê] <Hbio> N M S @NPHR
+em [em] <sam-> PRP @N<
+o [o] <-sam> <artd> DET M S @>N
+berço [berço] <furn> <Lh> <tool> N M S @P<
+
+</CAPTION>
+<CAPTION ID=2332>
+retrato [retrato] <pict> N M S @NPHR
+de [de] <sam-> PRP @N<
+a [o] <-sam> <artd> DET F S @>N
+miséria [miséria] <sit> N F S @P<
+
+</CAPTION>
+<CAPTION ID=2335>
+criança [criança] <H> N F S @NPHR
+com [com] PRP @N<
+queimaduras [queimadura] <sick-c> N F P @P<
+
+</CAPTION>
+<CAPTION ID=2338>
+criança [criança] <H> N F S @NPHR
+em [em] <sam-> PRP @N<
+o [o] <-sam> <artd> DET M S @>N
+hospital [hospital] <inst> N M S @P<
+.
+
+</CAPTION>
+<CAPTION ID=2340>
+menino [menino] <Hbio> N M S @NPHR
+doente [doente] ADJ M S @N<
+e [e] <co-postnom> KC @CO
+maltratado [maltratar] <vt> V PCP M S @N<
+
+</CAPTION>
+<CAPTION ID=2444>
+criança [criança] <H> N F S @NPHR
+doente [doente] ADJ F S @N<
+em [em] PRP @ADVL>
+tratamento [tratamento] <therapy> <f-c> <activity> N M S @P<
+
+</CAPTION>
+<CAPTION ID=25>
+criança [criança] <H> N F S @NPHR
+em [em] <sam-> PRP @N<
+o [o] <-sam> <artd> DET M S @>N
+leito [leito] <furn> <Labs> N M S @P<
+hospitalar [hospitalar] ADJ M S @N<
+
+</CAPTION>
+<CAPTION ID=2528>
+garoto [garoto] <Hbio> N M S @NPHR
+doente [doente] ADJ M S @N<
+
+</CAPTION>
+<CAPTION ID=270>
+criança [criança] <H> N F S @NPHR
+pobre [pobre] ADJ F S @N<
+
+</CAPTION>
+<CAPTION ID=28>
+criança [criança] <H> N F S @NPHR
+em [em] <sam-> PRP @N<
+o [o] <-sam> <artd> DET M S @>N
+hospital [hospital] <inst> N M S @P<
+
+</CAPTION>
+<CAPTION ID=282>
+criança [criança] <H> N F S @NPHR
+doente [doente] ADJ F S @N<
+
+</CAPTION>
+<CAPTION ID=2838>
+doente [doente] ADJ M/F S @NPHR
+
+</CAPTION>
+<CAPTION ID=2840>
+criança [criança] <H> N F S @NPHR
+com [com] PRP @N<
+doença [doença] <sick> N F S @P<
+em [em] <sam-> PRP @ADVL>
+as [o] <-sam> <artd> DET F P @>N
+pernas [perna] N F P @P<
+
+</CAPTION>
+<CAPTION ID=2841>
+menino [menino] <Hbio> N M S @NPHR
+doente [doente] ADJ M S @N<
+sentado [sentar] V PCP M S @IMV @#ICL-N<
+em [em] PRP @<ADVL
+berço [berço] <furn> <Lh> <tool> N M S @P<
+
+</CAPTION>
+<CAPTION ID=3022>
+menino [menino] <Hbio> N M S @NPHR
+negro [negro] ADJ M S @N<
+em [em] <sam-> PRP @N<
+o [o] <-sam> <artd> DET M S @>N
+berço [berço] <furn> <Lh> <tool> N M S @P<
+
+</CAPTION>
+<CAPTION ID=3023>
+uma [um] <arti> DET F S @>N
+vida [vida] <per> N F S @NPHR
+de [de] PRP @N<
+obstáculos [obstáculo] <ac> N M P @P<
+
+</CAPTION>
+<CAPTION ID=31>
+criança [criança] <H> N F S @NPHR
+vulnerável [vulnerável] ADJ F S @N<
+
+</CAPTION>
+<CAPTION ID=32>
+o [o] <artd> DET M S @>N
+bebê [bebê] <Hbio> N M S @NPHR
+
+</CAPTION>
+<CAPTION ID=3228>
+criança [criança] <H> N F S @NPHR
+doente [doente] ADJ F S @N<
+em [em] PRP @ADVL>
+seu [seu] <poss 3S> <si> DET M S @>N
+leito [leito] <furn> <Labs> N M S @P<
+
+</CAPTION>
+<CAPTION ID=3232>
+mais [muito] <quant> <KOMP> ADV @ADVL
+que [que] KS @COM @#AS-KOMP<
+abandonada [abandonar] <n> V PCP F S @AS<
+
+</CAPTION>
+<CAPTION ID=3233>
+menino [menino] <Hbio> N M S @NPHR
+em [em] PRP @N<
+hospital [hospital] <inst> N M S @P<
+.
+
+</CAPTION>
+<CAPTION ID=33>
+criança [criança] <H> N F S @NPHR
+
+</CAPTION>
+<CAPTION ID=3321>
+criança [criança] <H> N F S @NPHR
+em [em] PRP @N<
+um [um] <arti> DET M S @>N
+leito [leito] <furn> <Labs> N M S @P<
+de [de] PRP @N<
+hospital [hospital] <inst> N M S @P<
+
+</CAPTION>
+<CAPTION ID=356>
+criança [criança] <H> N F S @SUBJ>
+recebendo [receber] <vt> V GER @IMV
+tratamento [tratamento] <therapy> <f-c> <activity> N M S @<ACC
+
+</CAPTION>
+<CAPTION ID=36>
+criança [criança] <H> N F S @NPHR
+doente [doente] ADJ F S @N<
+em [em] <sam-> PRP @ADVL>
+a [o] <-sam> <artd> DET F S @>N
+cama [cama] <furn> N F S @P<
+
+</CAPTION>
+<CAPTION ID=379>
+criança [criança] <H> N F S @NPHR
+doente [doente] ADJ F S @N<
+.
+
+</CAPTION>
+<CAPTION ID=398>
+criança [criança] <H> N F S @NPHR
+machucada [machucar] <vt> V PCP F S @N<
+
+</CAPTION>
+<CAPTION ID=4021>
+criança [criança] <H> N F S @NPHR
+doente [doente] ADJ F S @N<
+sentada [sentar] V PCP F S @IMV @#ICL-N<
+em [em] PRP @<ADVL
+maca [maca] <furn> N F S @P<
+
+</CAPTION>
+<CAPTION ID=4023>
+criança [criança] <H> N F S @NPHR
+sentada [sentar] V PCP F S @IMV @#ICL-N<
+em [em] PRP @<ADVL
+berço [berço] <furn> <Lh> <tool> N M S @P<
+
+</CAPTION>
+<CAPTION ID=4024>
+uma [um] <arti> DET F S @>N
+criança [criança] <H> N F S @NPHR
+com [com] PRP @N<
+roupas [roupa] <cm> <mat-cloth> N F P @P<
+sujas [sujo] ADJ F P @N<
+.
+
+</CAPTION>
+<CAPTION ID=4025>
+menino [menino] <Hbio> N M S @NPHR
+em [em] <sam-> PRP @N<
+um [um] <-sam> <arti> DET M S @>N
+berço [berço] <furn> <Lh> <tool> N M S @P<
+
+</CAPTION>
+<CAPTION ID=4026>
+criança [criança] <H> N F S @NPHR
+doente [doente] ADJ F S @N<
+.
+
+</CAPTION>
+<CAPTION ID=4027>
+criança [criança] <H> N F S @NPHR
+doente [doente] ADJ F S @N<
+em [em] <sam-> PRP @ADVL>
+uma [um] <-sam> <arti> DET F S @>N
+cama [cama] <furn> N F S @P<
+
+</CAPTION>
+<CAPTION ID=4028>
+fragilidade [fragilidade] <am> N F S @NPHR
+
+</CAPTION>
+<CAPTION ID=4030>
+garoto [garoto] <Hbio> N M S @NPHR
+negro [negro] ADJ M S @N<
+sentado [sentar] V PCP M S @IMV @#ICL-N<
+em [em] <sam-> PRP @<ADVL
+a [o] <-sam> <artd> DET F S @>N
+cama [cama] <furn> N F S @P<
+
+</CAPTION>
+<CAPTION ID=4032>
+bebê [bebê] <Hbio> N M S @NPHR
+sujo [sujo] ADJ M S @N<
+em [em] <sam-> PRP @N<
+o [o] <-sam> <artd> DET M S @>N
+berço [berço] <furn> <Lh> <tool> N M S @P<
+
+</CAPTION>
+<CAPTION ID=405>
+bebê [bebê] <Hbio> N M S @NPHR
+em [em] <sam-> PRP @N<
+a [o] <-sam> <artd> DET F S @>N
+cama [cama] <furn> N F S @P<
+.
+
+</CAPTION>
+<CAPTION ID=430>
+criança [criança] <H> N F S @NPHR
+em [em] PRP @N<
+berço [berço] <furn> <Lh> <tool> N M S @P<
+de [de] PRP @N<
+ferro [ferro] <mat> <tool> N M S @P<
+
+</CAPTION>
+<CAPTION ID=495>
+criança [criança] <H> N F S @NPHR
+triste [triste] ADJ F S @N<
+.
+
+</CAPTION>
+<CAPTION ID=5031>
+um [um] <card> NUM M S @>N
+criança [criança] <H> N F S @NPHR
+doente [doente] ADJ F S @N<
+
+</CAPTION>
+<CAPTION ID=5032>
+criança [criança] <H> N F S @NPHR
+doente [doente] ADJ F S @N<
+.
+
+</CAPTION>
+<CAPTION ID=5033>
+criança [criança] <H> N F S @NPHR
+negra [negro] ADJ F S @N<
+desnutrida [desnutrido] ADJ F S @N<
+
+</CAPTION>
+<CAPTION ID=5034>
+criança [criança] <H> N F S @NPHR
+em [em] <sam-> PRP @N<
+o [o] <-sam> <artd> DET M S @>N
+leito [leito] <furn> <Labs> N M S @P<
+de [de] <sam-> PRP @N<
+o [o] <-sam> <artd> DET M S @>N
+hospital [hospital] <inst> N M S @P<
+
+</CAPTION>
+<CAPTION ID=5035>
+pobreza [pobreza] <am> N F S @NPHR
+
+</CAPTION>
+<CAPTION ID=5036>
+menino [menino] <Hbio> N M S @NPHR
+doente [doente] ADJ M S @N<
+em [em] <sam-> PRP @ADVL>
+a [o] <-sam> <artd> DET F S @>N
+maca [maca] <furn> N F S @P<
+
+</CAPTION>
+<CAPTION ID=521>
+criança [criança] <H> N F S @NPHR
+doente [doente] ADJ F S @N<
+
+</CAPTION>
+<CAPTION ID=58>
+criança [criança] <H> N F S @NPHR
+em [em] <sam-> PRP @N<
+uma [um] <-sam> <arti> DET F S @>N
+maca [maca] <furn> N F S @P<
+
+</CAPTION>
+<CAPTION ID=684>
+criança [criança] <H> N F S @NPHR
+sobre [sobre] PRP @N<
+um [um] <arti> DET M S @>N
+berço [berço] <furn> <Lh> <tool> N M S @P<
+
+</CAPTION>
+<CAPTION ID=687>
+menino [menino] <Hbio> N M S @NPHR
+em [em] <sam-> PRP @N<
+o [o] <-sam> <artd> DET M S @>N
+berço [berço] <furn> <Lh> <tool> N M S @P<
+
+</CAPTION>
+<CAPTION ID=76>
+criança [criança] <H> N F S @NPHR
+doente [doente] ADJ F S @N<
+
+</CAPTION>
+<CAPTION ID=771>
+criança [criança] <H> N F S @NPHR
+machucada [machucar] <vt> V PCP F S @N<
+e [e] <co-postnom> KC @CO
+abandonada [abandonar] <vt> V PCP F S @N<
+
+</CAPTION>
+<CAPTION ID=772>
+criança [criança] <H> N F S @NPHR
+em [em] <sam-> PRP @N<
+o [o] <-sam> <artd> DET M S @>N
+hospital [hospital] <inst> N M S @P<
+
+</CAPTION>
+<CAPTION ID=781>
+pequenino [pequenino] ADJ M S @NPHR
+
+</CAPTION>
+<CAPTION ID=783>
+garoto [garoto] <Hbio> N M S @NPHR
+doente [doente] ADJ M S @N<
+
+</CAPTION>
+<CAPTION ID=788>
+criança [criança] <H> N F S @NPHR
+desnutrida [desnutrido] ADJ F S @N<
+
+</CAPTION>
+<CAPTION ID=790>
+criança [criança] <H> N F S @NPHR
+pobre [pobre] ADJ F S @N<
+em [em] PRP @N<
+hospital [hospital] <inst> N M S @P<
+
+</CAPTION>
+<CAPTION ID=791>
+criança [criança] <H> N F S @NPHR
+doente [doente] ADJ F S @N<
+
+</CAPTION>
+<CAPTION ID=799>
+bebê [bebê] <Hbio> N M S @NPHR
+choroso [choroso] ADJ M S @N<
+em [em] <sam-> PRP @N<
+o [o] <-sam> <artd> DET M S @>N
+berço [berço] <furn> <Lh> <tool> N M S @P<
+
+</CAPTION>
+<CAPTION ID=811>
+bebê [bebê] <Hbio> N M S @NPHR
+negro [negro] ADJ M S @N<
+sentado [sentar] V PCP M S @IMV @#ICL-N<
+em [em] <sam-> PRP @<ADVL
+o [o] <-sam> <artd> DET M S @>N
+berço [berço] <furn> <Lh> <tool> N M S @P<
+
+</CAPTION>
+<CAPTION ID=820>
+criança [criança] <H> N F S @NPHR
+sentada [sentar] V PCP F S @IMV @#ICL-N<
+em [em] PRP @<ADVL
+maca [maca] <furn> N F S @P<
+
+</CAPTION>
+<CAPTION ID=821>
+criança [criança] <H> N F S @NPHR
+necessitada [necessitado] ADJ F S @N<
+!
+¶
+
+</CAPTION>
+<CAPTION ID=823>
+criança [criança] <H> N F S @NPHR
+pobre [pobre] ADJ F S @N<
+e [e] <co-postnom> KC @CO
+doente [doente] ADJ M/F S @N<
+
+</CAPTION>
+<CAPTION ID=826>
+o [o] <artd> DET M S @>N
+garoto [garoto] <Hbio> N M S @NPHR
+
+</CAPTION>
+<CAPTION ID=827>
+criança [criança] <H> N F S @NPHR
+necessitada [necessitado] ADJ F S @N<
+.
+
+</CAPTION>
+<CAPTION ID=828>
+criança [criança] <H> N F S @NPHR
+em [em] PRP @N<
+situação [situação] <sit> N F S @P<
+precária [precário] ADJ F S @N<
+
+</CAPTION>
+<CAPTION ID=829>
+criança [criança] <H> N F S @NPHR
+em [em] PRP @N<
+hospital [hospital] <inst> N M S @P<
+
+</CAPTION>
+<CAPTION ID=83>
+criança [criança] <H> N F S @NPHR
+mal [mal] <atemp> ADV @ADVL>
+tratada [tratar] <vt> V PCP F S @IMV @#ICL-N<
+.
+
+</CAPTION>
+<CAPTION ID=830>
+criança [criança] <H> N F S @SUBJ>
+enferma [enfermar] <fmc> <vt> V PR 3S IND VFIN @FMV
+
+</CAPTION>
+<CAPTION ID=834>
+sofrimento [sofrimento] <act> N M S @NPHR
+
+</CAPTION>
+<CAPTION ID=835>
+uma [um] <arti> DET F S @>N
+criança [criança] <H> N F S @NPHR
+doente [doente] ADJ F S @N<
+
+</CAPTION>
+<CAPTION ID=836>
+criança [criança] <H> N F S @NPHR
+em [em] <sam-> PRP @N<
+o [o] <-sam> <artd> DET M S @>N
+hospital [hospital] <inst> N M S @P<
+
+</CAPTION>
+<CAPTION ID=837>
+criança [criança] <H> N F S @NPHR
+sentada [sentar] V PCP F S @IMV @#ICL-N<
+em [em] PRP @<ADVL
+um [um] <arti> DET M S @>N
+berço [berço] <furn> <Lh> <tool> N M S @P<
+
+</CAPTION>
+<CAPTION ID=838>
+criança [criança] <H> N F S @NPHR
+doente [doente] ADJ F S @N<
+.
+
+</CAPTION>
+<CAPTION ID=839>
+criança [criança] <H> N F S @NPHR
+doente [doente] ADJ F S @N<
+
+</CAPTION>
+<CAPTION ID=840>
+criança [criança] <H> N F S @NPHR
+triste [triste] ADJ F S @N<
+em [em] <sam-> PRP @ADVL>
+o [o] <-sam> <artd> DET M S @>N
+berço [berço] <furn> <Lh> <tool> N M S @P<
+
+</CAPTION>
+<CAPTION ID=842>
+a [o] <artd> DET F S @>N
+criança [criança] <H> N F S @NPHR
+doente [doente] ADJ F S @N<
+.
+
+</CAPTION>
+<CAPTION ID=844>
+criança [criança] <H> N F S @NPHR
+negra [negro] ADJ F S @N<
+e [e] <co-postnom> KC @CO
+roupas [roupa] <cm> <mat-cloth> N F P @NPHR
+sujas [sujo] ADJ F P @N<
+.
+
+</CAPTION>
+<CAPTION ID=850>
+criança [criança] <H> N F S @NPHR
+doente [doente] ADJ F S @N<
+!
+¶
+
+</CAPTION>
+<CAPTION ID=854>
+criança [criança] <H> N F S @NPHR
+desnutrida [desnutrido] ADJ F S @N<
+
+</CAPTION>
+<CAPTION ID=855>
+criança [criança] <H> N F S @NPHR
+doente [doente] ADJ F S @N<
+
+</CAPTION>
+<CAPTION ID=856>
+bebê [bebê] <Hbio> N M S @NPHR
+acamado [acamado] ADJ M S @N<
+e [e] <co-postnom> KC @CO
+sujo [sujo] ADJ M S @N<
+
+</CAPTION>
+<CAPTION ID=858>
+bebê [bebê] <Hbio> N M S @SUBJ>
+sofrendo [sofrer] <vt> V GER @IMV
+
+</CAPTION>
+<CAPTION ID=859>
+olhas [olhar] <fmc> <vt> V PR 2S IND VFIN @FMV
+desolado [desolar] <vt> V PCP M S @<PRED
+
+</CAPTION>
+<CAPTION ID=861>
+criança [criança] <H> N F S @NPHR
+doente [doente] ADJ F S @N<
+
+</CAPTION>
+<CAPTION ID=862>
+criança [criança] <H> N F S @NPHR
+doente [doente] ADJ F S @N<
+.
+
+</CAPTION>
+<CAPTION ID=863>
+criança [criança] <H> N F S @NPHR
+doente [doente] ADJ F S @N<
+em [em] PRP @ADVL>
+hospital [hospital] <inst> N M S @P<
+.
+
+</CAPTION>
+<CAPTION ID=864>
+criança [criança] <H> N F S @NPHR
+em [em] PRP @N<
+hospital [hospital] <inst> N M S @P<
+.
+
+</CAPTION>
+<CAPTION ID=868>
+a [o] <artd> DET F S @>N
+infância [infância] <per> N F S @NPHR
+de [de] PRP @N<
+hoje [hoje] <atemp> ADV @P<
+.
+
+</CAPTION>
+<CAPTION ID=870>
+o [o] <artd> DET M S @>N
+descaso [descaso] <am> N M S @NPHR
+com [com] PRP @N<
+as [o] <artd> DET F P @>N
+crianças [criança] <H> N F P @P<
+.
+
+</CAPTION>
+<CAPTION ID=875>
+criança [criança] <H> N F S @NPHR
+doente [doente] ADJ F S @N<
+
+</CAPTION>
+<CAPTION ID=876>
+uma [um] <arti> DET F S @>N
+criança [criança] <H> N F S @NPHR
+em [em] <sam-> PRP @N<
+o [o] <-sam> <artd> DET M S @>N
+berço [berço] <furn> <Lh> <tool> N M S @P<
+
+</CAPTION>
+<CAPTION ID=878>
+criança [criança] <H> N F S @NPHR
+doente [doente] ADJ F S @N<
+
+</CAPTION>
+<CAPTION ID=879>
+criança abandonada [criança=abandonada] <H> N F S @NPHR
+
+</CAPTION>
+<CAPTION ID=880>
+um [um] <arti> DET M S @>N
+bebê [bebê] <Hbio> N M S @NPHR
+ferido [ferido] ADJ M S @N<
+.
+
+</CAPTION>
+<CAPTION ID=881>
+criança [criança] <H> N F S @NPHR
+doente [doente] ADJ F S @N<
+e [e] <co-postnom> KC @CO
+pobre [pobre] ADJ M/F S @N<
+
+</CAPTION>
+<CAPTION ID=882>
+criança [criança] <H> N F S @NPHR
+negra [negro] ADJ F S @N<
+doente [doente] ADJ F S @N<
+
+</CAPTION>
+<CAPTION ID=883>
+a [o] <artd> DET F S @>N
+criança [criança] <H> N F S @NPHR
+
+</CAPTION>
+<CAPTION ID=885>
+criança [criança] <H> N F S @NPHR
+em [em] PRP @N<
+hospital [hospital] <inst> N M S @P<
+
+</CAPTION>
+<CAPTION ID=886>
+criança [criança] <H> N F S @NPHR
+doente [doente] ADJ F S @N<
+com [com] PRP @N<
+desnutrição [desnutrição] <f-h> N F S @P<
+
+</CAPTION>
+<CAPTION ID=888>
+criança [criança] <H> N F S @NPHR
+que [que] <rel> SPEC M S @SUBJ> @#FS-N<
+precisa [precisar] V PR 3S IND VFIN @FMV
+de [de] PRP @<PIV
+ajuda [ajuda] <am> N F S @P<
+
+</CAPTION>
+<CAPTION ID=889>
+criança [criança] <H> N F S @NPHR
+negra [negro] ADJ F S @N<
+
+</CAPTION>
+<CAPTION ID=890>
+criança [criança] <H> N F S @NPHR
+doente [doente] ADJ F S @N<
+e [e] <co-postnom> KC @CO
+triste [triste] ADJ M/F S @N<
+
+</CAPTION>
+<CAPTION ID=891>
+criança [criança] <H> N F S @NPHR
+com [com] PRP @N<
+hematomas [hematoma] <sick-c> N M P @P<
+em [em] <sam-> PRP @ADVL>
+a [o] <-sam> <artd> DET F S @>N
+perna [perna] N F S @P<
+
+</CAPTION>
+<CAPTION ID=892>
+um [um] <arti> DET M S @>N
+bebê [bebê] <Hbio> N M S @NPHR
+sujo [sujo] ADJ M S @N<
+
+</CAPTION>
+<CAPTION ID=893>
+menino [menino] <Hbio> N M S @NPHR
+negro [negro] ADJ M S @N<
+com [com] PRP @N<
+machucados [machucar] V PCP M P @P<
+
+</CAPTION>
+<CAPTION ID=903>
+bebê [bebê] <Hbio> N M S @NPHR
+doente [doente] ADJ M S @N<
+
+</CAPTION>
+<CAPTION ID=904>
+uma [um] <arti> DET F S @>N
+criança [criança] <H> N F S @NPHR
+doente [doente] ADJ F S @N<
+
+</CAPTION>
+<CAPTION ID=907>
+leito [leito] <furn> <Labs> N M S @NPHR
+de [de] PRP @N<
+hospital [hospital] <inst> N M S @P<
+
+</CAPTION>
+<CAPTION ID=908>
+recuperação [recuperação] <act> <process> N F S @NPHR
+
+</CAPTION>
+<CAPTION ID=909>
+criança [criança] <H> N F S @NPHR
+doente [doente] ADJ F S @N<
+
+</CAPTION>
+<CAPTION ID=910>
+criança [criança] <H> N F S @SUBJ>
+triste [triste] ADJ F S @N<
+e [e] KC @CO
+sofrendo [sofrer] <vt> V GER @IMV @#ICL-ADVL
+
+</CAPTION>
+<CAPTION ID=911>
+precisando [precisar] V GER @IMV @#ICL-ADVL
+de [de] PRP @<PIV
+cuidados [cuidado] <am> <act-d> <ac> N M P @P<
+
+</CAPTION>
+<CAPTION ID=914>
+criança abandonada [criança=abandonada] <H> N F S @NPHR
+
+</CAPTION>
+<CAPTION ID=915>
+triste [triste] ADJ M S @>N
+cenário [cenário] <sit> N M S @NPHR
+
+</CAPTION>
+<CAPTION ID=916>
+criança [criança] <H> N F S @NPHR
+doente [doente] ADJ F S @N<
+
+</CAPTION>
+<CAPTION ID=917>
+feridas [ferir] <n> <vt> V PCP F P @NPHR
+de [de] <sam-> PRP @N<
+a [o] <-sam> <artd> DET F S @>N
+alma [alma] <Hmyth> N F S @P<
+.
+
+</CAPTION>
+<CAPTION ID=918>
+criança [criança] <H> N F S @SUBJ>
+resgatada [resgatar] <vt> V PCP F S @IMV @#ICL-N<
+ainda [ainda] <atemp> ADV @<ADVL
+está [estar] <fmc> <vi> V PR 3S IND VFIN @FMV
+mal [mal] <atemp> ADV @<ADVS
+
+</CAPTION>
+<CAPTION ID=922>
+áfrica [África] <top> PROP F S @SUBJ>
+sofre [sofrer] <fmc> V PR 3S IND VFIN @FMV
+com [com] PRP @<PIV
+a [o] <artd> DET F S @>N
+saúde [saúde] <state-h> N F S @P<
+
+</CAPTION>
+<CAPTION ID=934>
+criança [criança] <H> N F S @NPHR
+doente [doente] ADJ F S @N<
+
+</CAPTION>
+<CAPTION ID=935>
+criança [criança] <H> N F S @NPHR
+com [com] PRP @N<
+queimaduras [queimadura] <sick-c> N F P @P<
+
+</CAPTION>
+<CAPTION ID=94>
+criança [criança] <H> N F S @NPHR
+em [em] PRP @N<
+um [um] <arti> DET M S @>N
+berço [berço] <furn> <Lh> <tool> N M S @P<
+
+</CAPTION>
+<CAPTION ID=945>
+criança [criança] <H> N F S @NPHR
+hospitalizada [hospitalizado] ADJ F S @N<
+
+</CAPTION>
+<CAPTION ID=946>
+criança [criança] <H> N F S @NPHR
+adoentada [adoentado] ADJ F S @N<
+
+</CAPTION>
+<CAPTION ID=947>
+criança [criança] <H> N F S @NPHR
+doente [doente] ADJ F S @N<
+
+</CAPTION>
+<CAPTION ID=951>
+a [a] PRP @ADVL
+bebê [bebê] <Hbio> N M S @P<
+em [em] <sam-> PRP @ADVL
+o [o] <-sam> <artd> DET M S @>N
+berço [berço] <furn> <Lh> <tool> N M S @P<
+
+</CAPTION>
+<CAPTION ID=982>
+o [o] <artd> DET M S @>N
+hospital [hospital] <inst> N M S @NPHR
+
+</CAPTION>
+<CAPTION ID=991>
+pobreza [pobreza] <am> N F S @NPHR
+em [em] <sam-> PRP @N<
+os [o] <artd> <-sam> DET M P @>N
+hospitais [hospital] <inst> N M P @P<
+
+</CAPTION>

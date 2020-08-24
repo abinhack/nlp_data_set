@@ -1,0 +1,941 @@
+<CAPTION ID=1040>
+multidão [multidão] <HH> N F S @NPHR
+
+</CAPTION>
+<CAPTION ID=1052>
+um [um] <card> NUM M S @>N
+lugar [lugar] <L> <Labs> N M S @NPHR
+bem [bem] <quant> ADV @>A
+povoado [povoar] <vt> V PCP M S @N<
+
+</CAPTION>
+<CAPTION ID=1054>
+distribuição [distribuição] <act> N F S @NPHR
+
+</CAPTION>
+<CAPTION ID=1055>
+pessoas [pessoa] <H> N F P @SUBJ>
+tentando [tentar] V GER @IMV
+pegar [pegar] <vt> V INF 3S @IMV @#ICL-<ACC
+algo [algo] <quant> SPEC M S @<ADVL @<ACC
+.
+
+</CAPTION>
+<CAPTION ID=1058>
+grupo [grupo] <HH> N M S @SUBJ>
+de [de] PRP @N<
+pessoas [pessoa] <H> N F P @P<
+pedindo [pedir] <vi> V GER @IMV @#ICL-ADVL> @#ICL-N<
+ajuda [ajudar] <fmc> <vt> V PR 3S IND VFIN @FMV
+
+</CAPTION>
+<CAPTION ID=1059>
+fome [fome] <am> N F S @SUBJ>
+e [e] KC @CO
+sede [ser] <fmc> <vK> V IMP 2P VFIN @FMV
+
+</CAPTION>
+<CAPTION ID=1143>
+seca [seca] <event> <per> N F S @SUBJ>
+castiga [castigar] <fmc> <vt> V PR 3S IND VFIN @FMV
+regiões [região] <L> <Ltop> N F P @<ACC
+de [de] <sam-> PRP @N<
+a [o] <-sam> <artd> DET F S @>N
+áfrica [África] <top> PROP F S @P<
+
+</CAPTION>
+<CAPTION ID=1144>
+Somália [Somália] <hum> PROP M/F S @NPHR
+
+</CAPTION>
+<CAPTION ID=1165>
+revolta [revolver] <n> <vt> V PCP F S @NPHR
+de [de] PRP @N<
+nativos [nativo] <H> N M P @P<
+
+</CAPTION>
+<CAPTION ID=144>
+pessoas [pessoa] <H> N F P @SUBJ>
+esperando [esperar] V GER @IMV
+por [por] PRP @<PIV
+algo [algo] <quant> SPEC M S @P<
+
+</CAPTION>
+<CAPTION ID=19>
+indignação [indignação] <am> N F S @NPHR
+"
+
+</CAPTION>
+<CAPTION ID=20>
+multidão [multidão] <HH> N F S @NPHR
+
+</CAPTION>
+<CAPTION ID=2032>
+a [ela] PERS F 3S ACC @ACC>
+espera [esperar] <fmc> <vt> V PR 3S IND VFIN @FMV
+
+</CAPTION>
+<CAPTION ID=2033>
+multidão [multidão] <HH> N F S @NPHR
+
+</CAPTION>
+<CAPTION ID=2035>
+braços [braço] <am> N M P @NPHR
+estendidos [estendido] ADJ M P @N<
+
+</CAPTION>
+<CAPTION ID=2037>
+desabrigados [desabrigar] <vt> V PCP M P @NPHR
+
+</CAPTION>
+<CAPTION ID=2038>
+mutirão [mutirão] <occ> N M S @NPHR
+
+</CAPTION>
+<CAPTION ID=2039>
+disputa [disputa] <fight> N F S @NPHR
+de [de] <sam-> PRP @N<
+os [o] <-sam> <artd> DET M P @>N
+negros [negro] <n> ADJ M P @P<
+.
+
+</CAPTION>
+<CAPTION ID=2043>
+miséria [miséria] <sit> N F S @NPHR
+
+</CAPTION>
+<CAPTION ID=21>
+sofrimento [sofrimento] <act> N M S @NPHR
+
+</CAPTION>
+<CAPTION ID=22>
+pessoas [pessoa] <H> N F P @SUBJ>
+clamando [clamar] <vt> V GER @IMV
+
+</CAPTION>
+<CAPTION ID=2226>
+multidão [multidão] <HH> N F S @SUBJ>
+pedindo [pedir] <vi> V GER @IMV
+ajuda [ajudar] <fmc> <vt> V PR 3S IND VFIN @FMV
+
+</CAPTION>
+<CAPTION ID=2327>
+súplica [súplica] <sem-r> <sem-s> N F S @NPHR
+de [de] <sam-> PRP @N<
+os [o] <-sam> <artd> DET M P @>N
+negros [negro] <Htit> <Hbio> <Hattr> N M P @P<
+em [em] <sam-> PRP @N<
+o [o] <-sam> <artd> DET M S @>N
+campo [campo] <BB> <Ltop> <Labs> <Lh> <L> <Lciv> N M S @P<
+.
+
+</CAPTION>
+<CAPTION ID=2330>
+multidão [multidão] <HH> N F S @NPHR
+
+</CAPTION>
+<CAPTION ID=2331>
+guerra [guerra] <occ> <per> <act-d> N F S @NPHR
+por [por] PRP @N<
+algum [algum] <quant> DET M S @>N
+retorno [retorno] <act> N M S @P<
+.
+
+</CAPTION>
+<CAPTION ID=2332>
+dá [dar] <fmc> <vt> V PR 3S IND VFIN @FMV
+minha [meu] <poss 1S> DET F S @>N
+ajuda [ajuda] <am> N F S @<ACC
+aí [aí] <aloc> <kc> ADV @<ADVL
+.
+
+</CAPTION>
+<CAPTION ID=2335>
+implorando [implorar] <vt> V GER @IMV @#ICL-ADVL
+por [por] PRP @<ADVL
+comida [comida] <food-h> <occ> N F S @P<
+
+</CAPTION>
+<CAPTION ID=2338>
+a [o] <artd> DET F S @>N
+fome [fome] <am> N F S @NPHR
+
+</CAPTION>
+<CAPTION ID=2340>
+pessoas [pessoa] <H> N F P @SUBJ>
+negras [negro] ADJ F P @N<
+reivindicando [reivindicar] <vt> V GER @IMV
+
+</CAPTION>
+<CAPTION ID=2444>
+clamor [clamor] <percep-l> <am> N M S @NPHR
+por [por] PRP @ADVL>
+uma [um] <arti> DET F S @>N
+vida [vida] <per> N F S @P<
+melhor [bom] <KOMP> <SUP> ADJ F S @N<
+
+</CAPTION>
+<CAPTION ID=25>
+todos [todo] <quant> DET M P @NPHR
+em [em] PRP @N<
+busca [busca] <activity> N F S @P<
+de [de] PRP @N<
+algo [algo] <quant> SPEC M S @P<
+
+</CAPTION>
+<CAPTION ID=2528>
+pessoas [pessoa] <H> N F P @SUBJ>
+pedindo [pedir] <vt> V GER @IMV
+
+</CAPTION>
+<CAPTION ID=270>
+pessoas [pessoa] <H> N F P @SUBJ>
+pedindo [pedir] <vt> V GER @IMV
+algo [algo] <quant> <det> ADV @<ADVL
+
+</CAPTION>
+<CAPTION ID=28>
+precisamos [precisar] <fmc> V PR 1P IND VFIN @FMV
+de [de] PRP @<PIV
+ajuda [ajuda] <am> N F S @P<
+
+</CAPTION>
+<CAPTION ID=282>
+pessoas [pessoa] <H> N F P @SC>
+pedindo [pedir] <vi> V GER @IMV
+ajuda [ajudar] <fmc> <vt> V PR 3S IND VFIN @FMV
+
+</CAPTION>
+<CAPTION ID=2838>
+nos [nós] PERS M/F 1P ACC @ACC>
+ajudem [ajudar] <fmc> V PR 3P SUBJ VFIN @FMV
+!
+¶
+
+</CAPTION>
+<CAPTION ID=2840>
+pessoas [pessoa] <H> N F P @SUBJ>
+tentando [tentar] V GER @IMV
+alcançar [alcançar] <vt> V INF 3S @IMV @#ICL-<ACC
+algo [algo] <quant> <det> ADV @<ADVL
+
+</CAPTION>
+<CAPTION ID=2841>
+pessoas [pessoa] <H> N F P @SUBJ>
+clamando [clamar] V GER @IMV
+por [por] PRP @<PIV
+algo [algo] <quant> SPEC M S @P<
+
+</CAPTION>
+<CAPTION ID=3022>
+pessoas [pessoa] <H> N F P @SUBJ>
+negras [negro] ADJ F P @N<
+pedindo [pedir] <vi> V GER @IMV
+
+</CAPTION>
+<CAPTION ID=3023>
+a [o] <artd> DET F S @>N
+injustiça [injustiça] <am> N F S @NPHR
+coletiva [coletivo] ADJ F S @N<
+
+</CAPTION>
+<CAPTION ID=31>
+disputa [disputar] <fmc> <vt> V PR 3S IND VFIN @FMV
+
+</CAPTION>
+<CAPTION ID=32>
+multidão [multidão] <HH> N F S @NPHR
+
+</CAPTION>
+<CAPTION ID=3228>
+tumulto [tumulto] <sit> N M S @NPHR
+de [de] PRP @N<
+africanos [africano] ADJ M P @P<
+por [por] PRP @ADVL
+algo [algo] <quant> SPEC M S @P<
+
+</CAPTION>
+<CAPTION ID=3232>
+pobreza [pobreza] <am> N F S @NPHR
+e [e] KC @CO
+fome [fome] <am> N F S @NPHR
+
+</CAPTION>
+<CAPTION ID=3233>
+sofrimento [sofrimento] <act> N M S @NPHR
+de [de] <sam-> PRP @N<
+a [o] <-sam> <artd> DET F S @>N
+população [população] <HH> N F S @P<
+.
+
+</CAPTION>
+<CAPTION ID=33>
+pedindo [pedir] <vi> V GER @IMV @#ICL-ADVL
+
+</CAPTION>
+<CAPTION ID=3321>
+pessoas [pessoa] <H> N F P @NPHR
+em [em] PRP @N<
+protesto [protesto] <act-s> N M S @P<
+"
+
+</CAPTION>
+<CAPTION ID=356>
+luta [lutar] <fmc> <vi> <vt> V PR 3S IND VFIN @FMV
+para [para] PRP @<ADVL
+conseguir [conseguir] <vt> V INF @IMV @#ICL-P<
+suprimento [suprimento] <act> <mon> N M S @<ACC
+
+</CAPTION>
+<CAPTION ID=36>
+pessoas [pessoa] <H> N F P @SUBJ>
+esperando [esperar] V GER @IMV
+por [por] PRP @<PIV
+alguém [alguém] SPEC M S @P<
+
+</CAPTION>
+<CAPTION ID=379>
+aglomeração [aglomeração] <act> N F S @NPHR
+de [de] PRP @N<
+pessoas [pessoa] <H> N F P @P<
+.
+
+</CAPTION>
+<CAPTION ID=398>
+pessoas [pessoa] <H> N F P @NPHR
+amontoadas [amontoar] <vt> V PCP F P @N<
+
+</CAPTION>
+<CAPTION ID=4021>
+pessoas [pessoa] <H> N F P @NPHR
+de [de] PRP @N<
+mãos [mão] N F P @P<
+estendidas [estendido] ADJ F P @N<
+
+</CAPTION>
+<CAPTION ID=4023>
+pessoas [pessoa] <H> N F P @NPHR
+com [com] PRP @N<
+braços [braço] <am> N M P @P<
+estendidos [estendido] ADJ M P @N<
+
+</CAPTION>
+<CAPTION ID=4024>
+pessoas [pessoa] <H> N F P @SUBJ>
+estendendo [estender] <vt> V GER @IMV
+a [o] <artd> DET F S @>N
+mão [mão] N F S @<ACC
+.
+
+</CAPTION>
+<CAPTION ID=4025>
+pessoas [pessoa] <H> N F P @NPHR
+bravas [bravo] ADJ F P @N<
+
+</CAPTION>
+<CAPTION ID=4026>
+pessoas [pessoa] <H> N F P @NPHR
+aglomeradas [aglomerar] <vt> V PCP F P @N<
+.
+
+</CAPTION>
+<CAPTION ID=4027>
+pessoas [pessoa] <H> N F P @NPHR
+em [em] PRP @N<
+barreira [barreira] <part-build> <bar> N F S @P<
+
+</CAPTION>
+<CAPTION ID=4028>
+petição [petição] <act-s> N F S @NPHR
+
+</CAPTION>
+<CAPTION ID=4030>
+grupo [grupo] <HH> N M S @NPHR
+de [de] PRP @N<
+pessoas [pessoa] <H> N F P @P<
+negras [negro] ADJ F P @N<
+.
+
+</CAPTION>
+<CAPTION ID=4032>
+povo [povo] <HH> N M S @NPHR
+pedinte [pedinte] <H> N M/F S @N<
+
+</CAPTION>
+<CAPTION ID=405>
+revolta [revolta] <occ> N F S @NPHR
+.
+
+</CAPTION>
+<CAPTION ID=430>
+homens [homem] <Hbio> N M P @NPHR
+e [e] KC @CO
+mulheres [mulher] <Hbio> <Hfam> <Hattr> N F P @NPHR
+reunidos [reunir] <vt> V PCP M P @N<
+
+</CAPTION>
+<CAPTION ID=495>
+pessoas [pessoa] <H> N F P @SUBJ>
+tentando [tentar] V GER @IMV
+pegar [pegar] <vt> V INF 3S @IMV @#ICL-<ACC
+algo [algo] <quant> SPEC M S @<ADVL @<ACC
+.
+
+</CAPTION>
+<CAPTION ID=5031>
+um [um] <arti> DET M S @>N
+grupo [grupo] <HH> N M S @NPHR
+de [de] PRP @N<
+pessoas [pessoa] <H> N F P @P<
+africanas [africano] ADJ F P @N<
+
+</CAPTION>
+<CAPTION ID=5032>
+pedido [pedir] <n> <vt> V PCP M S @NPHR
+de [de] PRP @N<
+ajuda [ajuda] <am> N F S @P<
+
+</CAPTION>
+<CAPTION ID=5033>
+refugiados [refugiado] <H> N M P @SUBJ>
+recebendo [receber] <vt> V GER @IMV
+alimentos [alimento] <food> N M P @<ACC
+
+</CAPTION>
+<CAPTION ID=5034>
+africanos [africano] <n> ADJ M P @NPHR
+em [em] PRP @N<
+tumulto [tumulto] <sit> N M S @P<
+
+</CAPTION>
+<CAPTION ID=5035>
+a [ela] PERS F 3S ACC @ACC>
+luta [lutar] <fmc> <vt> V PR 3S IND VFIN @FMV
+
+</CAPTION>
+<CAPTION ID=5036>
+multidão [multidão] <HH> N F S @SUBJ>
+pedindo [pedir] <vi> V GER @IMV
+ajuda [ajudar] <fmc> <vt> V PR 3S IND VFIN @FMV
+
+</CAPTION>
+<CAPTION ID=521>
+pessoas [pessoa] <H> N F P @NPHR
+em [em] PRP @ADVL>
+desespero [desespero] <sit> <percep-f> N M S @P<
+
+</CAPTION>
+<CAPTION ID=58>
+pessoas [pessoa] <H> N F P @SUBJ>
+estendendo [estender] <vt> V GER @IMV
+as [o] <artd> DET F P @>N
+mãos [mão] N F P @<ACC
+
+</CAPTION>
+<CAPTION ID=684>
+pessoas [pessoa] <H> N F P @SUBJ>
+pedem [pedir] <fmc> <vt> V PR 3P IND VFIN @FMV
+algo [algo] <quant> <det> ADV @<ADVL
+a [o] <artd> DET F S @>N
+câmera [câmera] <tool> N F S @<ACC
+.
+
+</CAPTION>
+<CAPTION ID=687>
+revolta [revoltar] <fmc> <vt> V PR 3S IND VFIN @FMV
+
+</CAPTION>
+<CAPTION ID=76>
+pobreza [pobreza] <am> N F S @NPHR
+
+</CAPTION>
+<CAPTION ID=771>
+negros [negro] ADJ M P @PRED>
+esperando [esperar] <vi> V GER @IMV @#ICL-ADVL>
+ajuda [ajudar] <fmc> <vt> V PR 3S IND VFIN @FMV
+
+</CAPTION>
+<CAPTION ID=772>
+multidão [multidão] <HH> N F S @NPHR
+reunida [reunir] <vt> V PCP F S @IMV @#ICL-N<
+em [em] <sam-> PRP @<ADVL
+o [o] <-sam> <artd> DET M S @>N
+campo [campo] <BB> <Ltop> <Labs> <Lh> <L> <Lciv> N M S @P<
+
+</CAPTION>
+<CAPTION ID=781>
+petição [petição] <act-s> N F S @NPHR
+
+</CAPTION>
+<CAPTION ID=783>
+pessoas [pessoa] <H> N F P @SUBJ>
+pedindo [pedir] <vt> V GER @IMV
+algo [algo] <quant> <det> ADV @<ADVL
+
+</CAPTION>
+<CAPTION ID=788>
+povo [povo] <HH> N M S @SUBJ>
+protestando [protestar] <vt> V GER @IMV
+
+</CAPTION>
+<CAPTION ID=790>
+povo [povo] <HH> N M S @SUBJ>
+negro [negro] ADJ M S @N<
+luta [lutar] <fmc> <vi> V PR 3S IND VFIN @FMV
+por [por] PRP @<ADVL
+direitos [direito] <domain> <f-right> <mon> N M P @P<
+
+</CAPTION>
+<CAPTION ID=791>
+necessidades [necessidade] <am> <sit> N F P @NPHR
+básicas [básico] ADJ F P @N<
+
+</CAPTION>
+<CAPTION ID=799>
+mulher [mulher] <Hbio> <Hfam> <Hattr> N F S @SUBJ>
+esticando [esticar] <vt> V GER @IMV
+as [o] <artd> DET F P @>N
+mãos [mão] N F P @<ACC
+
+</CAPTION>
+<CAPTION ID=811>
+pessoas [pessoa] <H> N F P @SUBJ>
+pedem [pedir] <fmc> <vt> V PR 3P IND VFIN @FMV
+auxílio [auxílio] <act> N M S @<ACC
+.
+
+</CAPTION>
+<CAPTION ID=820>
+comunidade [comunidade] <HH> <am> N F S @SUBJ>
+recebe [receber] <fmc> <vt> V PR 3S IND VFIN @FMV
+ajuda [ajuda] <am> N F S @<ACC
+
+</CAPTION>
+<CAPTION ID=821>
+necessitados [necessitado] ADJ M P @>N
+Afrodescendentes [Afrodescendentes] N M P @NPHR
+!
+¶
+
+</CAPTION>
+<CAPTION ID=823>
+pobreza [pobreza] <am> N F S @NPHR
+
+</CAPTION>
+<CAPTION ID=826>
+a [o] <artd> DET F S @>N
+áfrica [África] <top> PROP F S @NPHR
+
+</CAPTION>
+<CAPTION ID=827>
+grupo [grupo] <HH> N M S @NPHR
+de [de] PRP @N<
+pessoas [pessoa] <H> N F P @P<
+.
+
+</CAPTION>
+<CAPTION ID=828>
+pessoas [pessoa] <H> N F P @NPHR
+em [em] PRP @N<
+busca [busca] <activity> N F S @P<
+de [de] PRP @N<
+ajuda [ajuda] <am> N F S @P<
+
+</CAPTION>
+<CAPTION ID=829>
+pessoas [pessoa] <H> N F P @SC>
+pedindo [pedir] <vi> V GER @IMV
+ajuda [ajudar] <fmc> <vt> V PR 3S IND VFIN @FMV
+
+</CAPTION>
+<CAPTION ID=83>
+pessoas [pessoa] <H> N F P @SUBJ>
+tentando [tentar] V GER @IMV
+pegar [pegar] <vt> V INF 3S @IMV @#ICL-<ACC
+algo [algo] <quant> <det> ADV @<ADVL
+
+</CAPTION>
+<CAPTION ID=830>
+pedido [pedir] <n> <vt> V PCP M S @NPHR
+de [de] PRP @N<
+socorro [socorro] <act-d> <mon> N M S @P<
+
+</CAPTION>
+<CAPTION ID=834>
+povos [povo] <HH> N M P @NPHR
+
+</CAPTION>
+<CAPTION ID=835>
+a [o] <artd> DET F S @>N
+espera [espera] <activity> <per> N F S @NPHR
+de [de] PRP @N<
+um [um] <arti> DET M S @>N
+milagre [milagre] <event> <act-d> N M S @P<
+
+</CAPTION>
+<CAPTION ID=836>
+pessoas [pessoa] <H> N F P @SUBJ>
+lutando [lutar] <vt> V GER @IMV
+contra [contra] PRP @<ADVL @<PIV
+algo [algo] <quant> SPEC M S @P<
+
+</CAPTION>
+<CAPTION ID=837>
+pessoas [pessoa] <H> N F P @SUBJ>
+querendo [querer] <vt> V GER @IMV
+algo [algo] <quant> <det> ADV @<ADVL
+
+</CAPTION>
+<CAPTION ID=838>
+grupo [grupo] <HH> N M S @SUBJ>
+de [de] PRP @N<
+negros [negro] ADJ M P @P<
+pedindo [pedir] <vt> V GER @IMV @#ICL-ADVL @#ICL-N<
+algo [algo] <quant> SPEC M S @<ADVL @<ACC
+.
+
+</CAPTION>
+<CAPTION ID=839>
+miséria [miséria] <sit> N F S @NPHR
+em [em] <sam-> PRP @N<
+a [o] <-sam> <artd> DET F S @>N
+áfrica [África] <top> PROP F S @P<
+
+</CAPTION>
+<CAPTION ID=840>
+pessoas [pessoa] <H> N F P @SUBJ>
+esperando [esperar] <vt> V GER @IMV
+alguma [algum] <quant> DET F S @>N
+coisa [coisa] <cc> <ac> N F S @<ACC
+
+</CAPTION>
+<CAPTION ID=842>
+multidão [multidão] <HH> N F S @NPHR
+revoltada [revoltado] ADJ F S @N<
+.
+
+</CAPTION>
+<CAPTION ID=844>
+Afrodescendentes [Afrodescendentes] N M/F S @NPHR
+em [em] PRP @ADVL
+disputa [disputa] <fight> N F S @P<
+.
+
+</CAPTION>
+<CAPTION ID=850>
+pessoas [pessoa] <H> N F P @NPHR
+desesperadas [desesperado] ADJ F P @N<
+!
+¶
+
+</CAPTION>
+<CAPTION ID=854>
+uma [um] <arti> DET F S @>N
+sociedade [sociedade] <HH> N F S @NPHR
+nada [nada] <quant> <det> ADV @>A
+fácil [fácil] ADJ M/F S @N<
+
+</CAPTION>
+<CAPTION ID=855>
+população [população] <HH> N F S @SUBJ>
+busca [buscar] <fmc> <vt> V PR 3S IND VFIN @FMV
+sobrevivência [sobrevivência] N F S @<ACC
+
+</CAPTION>
+<CAPTION ID=856>
+pessoas [pessoa] <H> N F P @SUBJ>
+pobres [pobre] ADJ F P @N<
+pedindo [pedir] <vt> V GER @IMV
+algo [algo] <quant> <det> ADV @<ADVL
+
+</CAPTION>
+<CAPTION ID=858>
+pessoas [pessoa] <H> N F P @NPHR
+sofridas [sofrido] ADJ F P @N<
+
+</CAPTION>
+<CAPTION ID=859>
+desespero [desespero] <sit> <percep-f> N M S @NPHR
+por [por] PRP @ADVL>
+ajuda [ajuda] <am> N F S @P<
+
+</CAPTION>
+<CAPTION ID=861>
+contingente [contingente] <HH> <part> N M S @NPHR
+negro [negro] ADJ M S @N<
+
+</CAPTION>
+<CAPTION ID=862>
+pessoas [pessoa] <H> N F P @SUBJ>
+pedindo [pedir] <vt> V GER @IMV
+ajuda [ajuda] <am> N F S @<ACC
+.
+
+</CAPTION>
+<CAPTION ID=863>
+pessoas [pessoa] <H> N F P @SUBJ>
+lutando [lutar] <vi> V GER @IMV
+por [por] PRP @<ADVL
+algo [algo] <quant> SPEC M S @P<
+.
+
+</CAPTION>
+<CAPTION ID=864>
+pessoas [pessoa] <H> N F P @SUBJ>
+pedindo [pedir] <vt> V GER @IMV
+ajuda [ajuda] <am> N F S @<ACC
+.
+
+</CAPTION>
+<CAPTION ID=868>
+acordem [acordar] <fmc> <ve> V PR 3P SUBJ VFIN @FMV
+!
+¶
+nós [nós] PERS M/F 1P NOM @SUBJ>
+estamos [estar] <fmc> V PR 1P IND VFIN @FMV
+aqui [aqui] <aloc> ADV @<ADVS
+!
+!
+¶
+
+</CAPTION>
+<CAPTION ID=870>
+desespero [desespero] <sit> <percep-f> N M S @NPHR
+e [e] KC @CO
+tristeza [tristeza] <percep-f> N F S @NPHR
+.
+
+</CAPTION>
+<CAPTION ID=875>
+negros [negro] <n> ADJ M P @NPHR
+em [em] <sam-> PRP @N<
+a [o] <-sam> <artd> DET F S @>N
+pobreza [pobreza] <am> N F S @P<
+
+</CAPTION>
+<CAPTION ID=876>
+multidão [multidão] <HH> N F S @NPHR
+de [de] PRP @N<
+pessoas [pessoa] <H> N F P @P<
+
+</CAPTION>
+<CAPTION ID=878>
+muitas [muito] <quant> DET F P @>N
+pessoas [pessoa] <H> N F P @SUBJ>
+querendo [querer] <vt> V GER @IMV @#ICL-ADVL
+algo [algo] <quant> SPEC M S @<ACC
+.
+
+</CAPTION>
+<CAPTION ID=879>
+a [o] <artd> DET F S @>N
+multidão [multidão] <HH> N F S @NPHR
+indignada [indignado] ADJ F S @N<
+
+</CAPTION>
+<CAPTION ID=880>
+negros [negro] ADJ M P @SUBJ>
+pedindo [pedir] <vt> V GER @IMV @#ICL-ADVL
+algo [algo] <quant> SPEC M S @<ADVL @<ACC
+.
+
+</CAPTION>
+<CAPTION ID=881>
+pessoas [pessoa] <H> N F P @NPHR
+pobres [pobre] ADJ F P @N<
+
+</CAPTION>
+<CAPTION ID=882>
+pessoas [pessoa] <H> N F P @SUBJ>
+negras [negro] ADJ F P @N<
+recebendo [receber] <vt> V GER @IMV
+algo [algo] <quant> <det> ADV @<ADVL
+
+</CAPTION>
+<CAPTION ID=883>
+Nãos [Nãos] <hum> N M/F P
+.
+
+</CAPTION>
+<CAPTION ID=885>
+multidão [multidão] <HH> N F S @SUBJ>
+estendendo [estender] <vt> V GER @IMV
+os [o] <artd> DET M P @>N
+braços [braço] <am> N M P @<ACC
+
+</CAPTION>
+<CAPTION ID=886>
+comunidade [comunidade] <HH> <am> N F S @NPHR
+carente [carente] ADJ F S @N<
+
+</CAPTION>
+<CAPTION ID=888>
+população [população] <HH> N F S @SUBJ>
+solicitando [solicitar] <vt> V GER @IMV
+algo [algo] <quant> <det> ADV @<ADVL
+
+</CAPTION>
+<CAPTION ID=889>
+áfrica [áfrica] <am> N F S @NPHR
+
+</CAPTION>
+<CAPTION ID=890>
+várias [várias] <quant> DET F P @>N
+pessoas [pessoa] <H> N F P @SUBJ>
+buscando [buscar] <vt> V GER @IMV @#ICL-ADVL
+algo [algo] <quant> <det> ADV @<ADVL
+
+</CAPTION>
+<CAPTION ID=891>
+pessoas [pessoa] <H> N F P @SUBJ>
+estendem [estender] <fmc> <vt> V PR 3P IND VFIN @FMV
+as [o] <artd> DET F P @>N
+mãos [mão] N F P @<ACC
+
+</CAPTION>
+<CAPTION ID=892>
+uma [um] <arti> DET F S @>N
+multidão [multidão] <HH> N F S @NPHR
+de [de] PRP @N<
+pessoas [pessoa] <H> N F P @P<
+negras [negro] ADJ F P @N<
+
+</CAPTION>
+<CAPTION ID=893>
+grupo [grupo] <HH> N M S @NPHR
+de [de] PRP @N<
+negros [negro] ADJ M P @P<
+protestando [protestar] <vi> V GER @IMV @#ICL-ADVL @#ICL-N<
+
+</CAPTION>
+<CAPTION ID=903>
+reivindicação [reivindicação] <act-s> N F S @NPHR
+
+</CAPTION>
+<CAPTION ID=904>
+revolução [revolução] <occ> <event> N F S @NPHR
+
+</CAPTION>
+<CAPTION ID=907>
+ajuda [ajudar] <fmc> <vt> V PR 3S IND VFIN @FMV
+
+</CAPTION>
+<CAPTION ID=908>
+ajuda [ajudar] <fmc> <vt> V PR 3S IND VFIN @FMV
+
+</CAPTION>
+<CAPTION ID=909>
+pessoas [pessoa] <H> N F P @SUBJ>
+pedindo [pedir] <vt> V GER @IMV
+algo [algo] <quant> <det> ADV @<ADVL
+
+</CAPTION>
+<CAPTION ID=910>
+confusão [confusão] <sit> <act-d> N F S @NPHR
+em [em] <sam-> PRP @N<
+a [o] <-sam> <artd> DET F S @>N
+distribuição [distribuição] <act> N F S @P<
+
+</CAPTION>
+<CAPTION ID=911>
+quando [quando] <interr> ADV @ADVL>
+se [se] PERS M/F 3S/P ACC @SUBJ>
+quer [querer] <fmc> V PR 3S IND VFIN @FMV
+algo [algo] <quant> SPEC M S @<ADVL
+, [,] <co-fmc> PU @CO
+luta- [lutar] <fmc> <vi> V PR 3S IND VFIN @FMV
+se [se] PERS M/F 3S/P ACC @<SUBJ
+!
+¶
+
+</CAPTION>
+<CAPTION ID=914>
+povo [povo] <HH> N M S @NPHR
+
+</CAPTION>
+<CAPTION ID=915>
+agente [agente] <Hprof> <ac> N M S @SUBJ>
+vai [ir] <fmc> V PR 3S IND VFIN @FAUX
+conseguir [conseguir] <vt> V INF @IMV @#ICL-AUX<
+
+</CAPTION>
+<CAPTION ID=916>
+africanos [africano] <n> ADJ M P @NPHR
+com [com] PRP @N<
+fome [fome] <am> N F S @P<
+
+</CAPTION>
+<CAPTION ID=917>
+humanidade [humanidade] <HH> <am> N F S @NPHR
+para [para] PRP @N<
+quem [quem] <interr> SPEC M/F S/P @P<
+?
+
+</CAPTION>
+<CAPTION ID=918>
+população [população] <HH> N F S @SUBJ>
+pede [pedir] <fmc> V PR 3S IND VFIN @FMV
+por [por] PRP @<PIV
+ajuda [ajuda] <am> N F S @P<
+.
+
+</CAPTION>
+<CAPTION ID=922>
+sofrimento [sofrimento] <act> N M S @NPHR
+de [de] <sam-> PRP @N<
+o [o] <-sam> <artd> DET M S @>N
+povo [povo] <HH> N M S @P<
+nordestino [nordestino] ADJ M S @N<
+
+</CAPTION>
+<CAPTION ID=934>
+necessidade [necessidade] <am> <sit> N F S @NPHR
+
+</CAPTION>
+<CAPTION ID=935>
+homem [homem] <Hbio> N M S @SUBJ>
+recebendo [receber] <vt> V GER @IMV
+algo [algo] <quant> SPEC M S @<ADVL @<ACC
+.
+
+</CAPTION>
+<CAPTION ID=94>
+multidão [multidão] <HH> N F S @NPHR
+de [de] PRP @N<
+pessoas [pessoa] <H> N F P @P<
+negras [negro] ADJ F P @N<
+
+</CAPTION>
+<CAPTION ID=945>
+multidão [multidão] <HH> N F S @NPHR
+suplicante [suplicante] <H> N M/F S @N<
+
+</CAPTION>
+<CAPTION ID=946>
+manifesto [manifesto] <sem-r> N M S @NPHR
+
+</CAPTION>
+<CAPTION ID=947>
+multidão [multidão] <HH> N F S @NPHR
+
+</CAPTION>
+<CAPTION ID=951>
+pessoas [pessoa] <H> N F P @NPHR
+de [de] PRP @N<
+braços [braço] <am> N M P @P<
+estendidos [estendido] ADJ M P @N<
+
+</CAPTION>
+<CAPTION ID=982>
+campo [campo] <BB> <Ltop> <Labs> <Lh> <L> <Lciv> N M S @NPHR
+de [de] PRP @N<
+refugiados [refugiado] <H> N M P @P<
+
+</CAPTION>
+<CAPTION ID=991>
+protestos [protesto] <act-s> N M P @NPHR
+em [em] <sam-> PRP @N<
+a [o] <-sam> <artd> DET F S @>N
+áfrica [África] <top> PROP F S @P<
+
+</CAPTION>

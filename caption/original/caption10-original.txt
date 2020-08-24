@@ -1,0 +1,151 @@
+1040, A panela.
+1052, 4 pessoas cozinhando
+1054, Em frente ao fogão
+1055, Sentados em volta do fogão.
+1058, Acampamento
+1059, Família
+1143, Vovó da estrada
+1144, Viajantes ciganos
+1165, Alimentação ao ar livre
+144, Família cozinhando
+19, Família
+20, acampamento
+2032, Comida
+2033, Família
+2035, Sorriso na simplicidade.
+2037, Família humilde
+2038, família sem casa
+2039, Piquenique.
+2043, Família refugiada
+21, Preparando a comida
+22, Aguardando a refeição.
+2226, Cozinhando ao ar livre
+2327, Mulheres cozinhando no campo.
+2330, Pessoas com frio
+2331, Senhora com 2 crianças
+2332, Conversas ao pé do fogão
+2335, Família Viajante
+2338, Hora do almoço
+2340, Pessoas ao fogão de lenha
+2444, Simplicidade e cumplicidade
+25, Sentadas no acampamento
+2528, três pessoas
+270, família pronta pro almoço
+28, hora do almoço
+282, Pessoas preparando a refeição
+2838, Merenda
+2840, Idosa e crianças cozinhando
+2841, Pessoas sentadas sobre capim
+3022, 4 pessoas cozinham
+3023, quem conhece?
+31, Família cozinhando
+32, Acampamento
+3228, Idosa e seus netos cozinhando
+3232, degeneração de gerações
+3233, Senhora e crianças cozinhando.
+33, Senhora (quase) radical
+3321, Senhora com crianças
+356, Família de andarilhos
+36, Idosa de três crianças
+379, Senhora com crianças.
+398, A senhora e as crianças
+4021, Pessoas e fogão à lenha
+4023, Pessoas acampando
+4024, Quatro pessoas e uma panela.
+4025, Senhora e crianças cozinhando
+4026, Idosa e suas netas
+4027, avó com duas netas
+4028, Sentadas ao lado da tenda
+4030, Idosa e crianças cozinhando
+4032, Senhora e crianças ao fogão
+405, Almoço em família.
+430, Senhora e crianças sentados
+495, Uma senhora e duas crianças.
+5031, Uma avó e suas netas
+5032, Fazendo comida
+5033, Família cozinhando
+5034, Senhora idosa e duas crianças
+5035, Comida e alegria
+5036, Idosa com duas crianças
+521, A senhora e as meninas
+58, Crianças com a vó
+684, Pessoas preparam comida
+687, senhora e duas crianças
+76, Almoço ao ar livre
+771, Vó e netas perto do fogão
+772, velha e meninas cozinhando
+781, Acampamento
+783, Cozinhando em família
+788, Acampamento nômade
+790, Família fazendo jantar
+791, na cozinha
+799, Família e panela fervendo
+811, Avó, mãe e 2 netas com panela
+820, Pessoas cozinhando em campo
+821, Divergência de idades!
+823, Gerações
+826, A senhora e o galho
+827, Ao redor do fogão.
+828, Idosa e crianças esperam janta
+829, Família cozinhando
+83, Família e um fogão.
+830, precariedade de vida
+834, unidos.
+835, família
+836, A senhora com duas crianças
+837, preparando a comida
+838, Mulheres brancas cozinhando.
+839, Pobreza na Síria
+840, mulheres e um fogareiro
+842, Família espera refeição.
+844, Comida em fogão à lenha.
+850, Pessoas cozinhando ao ar livre
+854, Reunidos para refeição
+855, mulheres pobres e felizes
+856, Avó e netas num acampamento
+858, o café da manhã
+859, vida  sem luxo
+861, idosa com crianças
+862, Família carente.
+863, Quatro mulheres.
+864, Três gerações em uma foto.
+868, Este é o nosso alvo
+870, Família reunida.
+875, O alimento
+876, Uma senhora sentada
+878, Mulheres sentadas e um fogão
+879, Panela no fogo
+880, A senhora e duas meninas.
+881, Família
+882, Quatro pessoas perto de fogão
+883, O almoço.
+885, Família cozinhando no campo
+886, Idosas com crianças
+888, Cozinhando para as crianças
+889, ciganos velhos e crianças
+890, Idosa e três crianças
+891, família cozinhando ao ar livre
+892, Uma senhora e três crianças
+893, Velha com três crianças
+903, Comida improvisada
+904, Vovó e as crianças
+907, encontro de gerações
+908, gerações
+909, Idosa e duas crianças
+910, Cozinhando
+911, Em volta do caldeirão
+914, fogão
+915, Um doce sorriso
+916, Gerações juntas
+917, Simples assim.
+918, Mulheres da família reunidas
+922, Vida no Campo
+934, Gerações se divertindo
+935, Senhora com três crianças
+94, Idosa e meninas sentadas
+945, Família ao ar livre
+946, Família na hora do almoço
+947, Refeição no Acampamento
+951, As mulheres e o caldeirão
+982, A família
+991, Família cozinhando

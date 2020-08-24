@@ -1,0 +1,1020 @@
+<CAPTION ID=1040>
+o [o] <artd> DET M S @>N
+abraço [abraço] <act-d> N M S @NPHR
+.
+
+</CAPTION>
+<CAPTION ID=1052>
+mulher [mulher] <Hbio> <Hfam> <Hattr> N F S @NPHR
+com [com] PRP @N<
+duas [dois] <card> NUM F P @>N
+crianças [criança] <H> N F P @P<
+no colo [no=colo] <aloc> ADV @N<PRED
+
+</CAPTION>
+<CAPTION ID=1054>
+parquinho [parque] <DERS> N M S @NPHR
+
+</CAPTION>
+<CAPTION ID=1055>
+mulher [mulher] <Hbio> <Hfam> <Hattr> N F S @NPHR
+com [com] PRP @N<
+duas [dois] <card> NUM F P @>N
+meninas [menina] <Hbio> N F P @P<
+.
+
+</CAPTION>
+<CAPTION ID=1058>
+família [família] <HH> N F S @NPHR
+sem [sem] PRP @N<
+lar [lar] <Lh> N M S @P<
+
+</CAPTION>
+<CAPTION ID=1059>
+1995 [1995] <card> NUM M/F P @NPHR
+
+</CAPTION>
+<CAPTION ID=1143>
+pânico [pânico] <state-h> <sit> N M S @NPHR
+em [em] <sam-> PRP @N<
+o [o] <-sam> <artd> DET M S @>N
+ar [ar] <cm-gas> <f-an> <ac> N M S @P<
+
+</CAPTION>
+<CAPTION ID=1144>
+irmãs [irmã] <Hfam> N F P @NPHR
+
+</CAPTION>
+<CAPTION ID=1165>
+mulher [mulher] <Hbio> <Hfam> <Hattr> N F S @NPHR
+e [e] KC @CO
+duas [dois] <card> NUM F P @>N
+crianças [criança] <H> N F P @NPHR
+
+</CAPTION>
+<CAPTION ID=144>
+mãe [mãe] <Hfam> N F S @SUBJ>
+abraçando [abraçar] <vt> V GER @IMV
+as [o] <artd> DET F P @>N
+filhas [filha] <Hfam> N F P @<ACC
+
+</CAPTION>
+<CAPTION ID=19>
+desalojados [desalojado] <H> N M P @NPHR
+
+</CAPTION>
+<CAPTION ID=20>
+desespero [desespero] <sit> <percep-f> N M S @NPHR
+
+</CAPTION>
+<CAPTION ID=2032>
+família [família] <HH> N F S @NPHR
+
+</CAPTION>
+<CAPTION ID=2033>
+família [família] <HH> N F S @NPHR
+
+</CAPTION>
+<CAPTION ID=2035>
+crianças [criança] <H> N F P @SUBJ>
+chorando [chorar] <vi> V GER @IMV
+.
+
+</CAPTION>
+<CAPTION ID=2037>
+família [família] <HH> N F S @SUBJ>
+perde [perder] <fmc> <vt> V PR 3S IND VFIN @FMV
+a [o] <artd> DET F S @>N
+casa [casa] <build> N F S @<ACC
+
+</CAPTION>
+<CAPTION ID=2038>
+mãe [mãe] <Hfam> N F S @NPHR
+e [e] KC @CO
+duas [dois] <card> NUM F P @>N
+filhas [filha] <Hfam> N F P @NPHR
+
+</CAPTION>
+<CAPTION ID=2039>
+crianças [criança] <H> N F P @NPHR
+tristes [triste] ADJ F P @N<
+.
+
+</CAPTION>
+<CAPTION ID=2043>
+mãe [mãe] <Hfam> N F S @SUBJ>
+tranquiliza [tranquilizar] <fmc> <vt> V PR 3S IND VFIN @FMV
+filha [filha] <Hfam> N F S @<ACC
+
+</CAPTION>
+<CAPTION ID=21>
+mãe [mãe] <Hfam> N F S @SUBJ>
+acalmando [acalmar] <vt> V GER @IMV
+as [o] <artd> DET F P @>N
+filhas [filha] <Hfam> N F P @<ACC
+
+</CAPTION>
+<CAPTION ID=22>
+mãe [mãe] <Hfam> N F S @SUBJ>
+acalentando [acalentar] <vt> V GER @IMV
+filhas [filha] <Hfam> N F P @<ACC
+
+</CAPTION>
+<CAPTION ID=2226>
+moça [moça] <Hbio> <Hprof> N F S @SUBJ>
+abraçando [abraçar] <vt> V GER @IMV
+duas [dois] <card> NUM F P @>N
+crianças [criança] <H> N F P @<ACC
+
+</CAPTION>
+<CAPTION ID=2327>
+duas [dois] <card> NUM F P @>N
+meninas [menina] <Hbio> N F P @SUBJ>
+chorando [chorar] <vi> V GER @IMV @#ICL-ADVL
+no colo [no=colo] <aloc> ADV @<ADVL
+.
+
+</CAPTION>
+<CAPTION ID=2330>
+duas [dois] <card> NUM F P @>N
+crianças [criança] <H> N F P @NPHR
+e [e] KC @CO
+uma [um] <arti> DET F S @>N
+mulher [mulher] <Hbio> <Hfam> <Hattr> N F S @NPHR
+.
+
+</CAPTION>
+<CAPTION ID=2331>
+família [família] <HH> N F S @NPHR
+abandonada [abandonar] <vt> V PCP F S @IMV @#ICL-N<
+em [em] <sam-> PRP @<ADVL
+a [o] <-sam> <artd> DET F S @>N
+sarjeta [sarjeta] <Lopening> <Lwater> N F S @P<
+
+</CAPTION>
+<CAPTION ID=2332>
+onde [onde] <interr> <aloc> ADV @ADVS>
+vamos [ir] <fmc> V PR 1P IND VFIN @FAUX
+morar [morar] V INF @IMV @#ICL-AUX<
+?
+
+</CAPTION>
+<CAPTION ID=2335>
+mãe [mãe] <Hfam> N F S @NPHR
+e [e] KC @CO
+filhas [filha] <Hfam> N F P @NPHR
+
+</CAPTION>
+<CAPTION ID=2338>
+amor [amor] <am> <H> <ac> N M S @NPHR
+de [de] PRP @N<
+mãe [mãe] <Hfam> N F S @P<
+
+</CAPTION>
+<CAPTION ID=2340>
+mulher [mulher] <Hbio> <Hfam> <Hattr> N F S @NPHR
+e [e] KC @CO
+duas [dois] <card> NUM F P @>N
+crianças [criança] <H> N F P @NPHR
+
+</CAPTION>
+<CAPTION ID=2444>
+acalentar [acalentar] <vt> V INF @IMV
+briga [briga] <fight> N F S @<ACC
+de [de] PRP @N<
+crianças [criança] <H> N F P @P<
+
+</CAPTION>
+<CAPTION ID=25>
+a [o] <artd> DET F S @>N
+mãe [mãe] <Hfam> N F S @NPHR
+e [e] KC @CO
+suas [seu] <poss 3S> DET F P @>N
+crianças [criança] <H> N F P @NPHR
+
+</CAPTION>
+<CAPTION ID=2528>
+três [três] <card> NUM F P @>N
+pessoas [pessoa] <H> N F P @NPHR
+
+</CAPTION>
+<CAPTION ID=270>
+mãe [mãe] <Hfam> N F S @NPHR
+com [com] PRP @N<
+as [o] <artd> DET F P @>N
+duas [dois] <card> NUM F P @>N
+filhas [filha] <Hfam> N F P @P<
+
+</CAPTION>
+<CAPTION ID=28>
+crianças [criança] <H> N F P @NPHR
+com [com] PRP @N<
+a [o] <artd> DET F S @>N
+mãe [mãe] <Hfam> N F S @P<
+em [em] <sam-> PRP @N<PRED
+o [o] <-sam> <artd> DET M S @>N
+parque [parque] <Lh> <BB> <furn> N M S @P<
+
+</CAPTION>
+<CAPTION ID=282>
+mãe [mãe] <Hfam> N F S @NPHR
+e [e] KC @CO
+filhas [filha] <Hfam> N F P @NPHR
+
+</CAPTION>
+<CAPTION ID=2838>
+mãe [mãe] <Hfam> N F S @NPHR
+e [e] KC @CO
+filhas [filha] <Hfam> N F P @NPHR
+
+</CAPTION>
+<CAPTION ID=2840>
+mulher [mulher] <Hbio> <Hfam> <Hattr> N F S @NPHR
+e [e] KC @CO
+crianças [criança] <H> N F P @NPHR
+tristes [triste] ADJ F P @N<
+
+</CAPTION>
+<CAPTION ID=2841>
+mulher [mulher] <Hbio> <Hfam> <Hattr> N F S @NPHR
+abraçada [abraçar] <vt> V PCP F S @N<
+a [a] PRP @<ADVL
+duas [dois] <card> NUM F P @>N
+meninas [menina] <Hbio> N F P @P<
+
+</CAPTION>
+<CAPTION ID=3022>
+moça [moça] <Hbio> <Hprof> N F S @SUBJ>
+abraçando [abraçar] <vt> V GER @IMV
+duas [dois] <card> NUM F P @>N
+meninas [menina] <Hbio> N F P @<ACC
+
+</CAPTION>
+<CAPTION ID=3023>
+sozinhas [sozinho] ADJ F P @PRED>
+?
+
+</CAPTION>
+<CAPTION ID=31>
+desabrigados [desabrigar] <vt> V PCP M P @NPHR
+
+</CAPTION>
+<CAPTION ID=32>
+sentadas [sentar] <n> V PCP F P @NPHR
+em [em] <sam-> PRP @N<
+o [o] <-sam> <artd> DET M S @>N
+chão [chão] <Ltop> <part-build> <build> N M S @P<
+
+</CAPTION>
+<CAPTION ID=3228>
+mãe [mãe] <Hfam> N F S @NPHR
+,
+filhas [filha] <Hfam> N F P @NPHR
+e [e] KC @CO
+brinquedos [brinquedo] <cc> N M P @NPHR
+
+</CAPTION>
+<CAPTION ID=3232>
+crianças [criança] <H> N F P @PRED>
+,
+são [ser] <fmc> V PR 3P IND VFIN @FMV
+,
+crianças [criança] <H> N F P @<PRED
+!
+¶
+
+</CAPTION>
+<CAPTION ID=3233>
+mãe [mãe] <Hfam> N F S @SUBJ>
+consolando [consolar] <vt> V GER @IMV
+crianças [criança] <H> N F P @<ACC
+.
+
+</CAPTION>
+<CAPTION ID=33>
+meninas [menina] <Hbio> N F P @NPHR
+
+</CAPTION>
+<CAPTION ID=3321>
+mulher [mulher] <Hbio> <Hfam> <Hattr> N F S @NPHR
+com [com] PRP @N<
+duas [dois] <card> NUM F P @>N
+crianças [criança] <H> N F P @P<
+
+</CAPTION>
+<CAPTION ID=356>
+mãe [mãe] <Hfam> N F S @SUBJ>
+conforta [confortar] <fmc> <vt> V PR 3S IND VFIN @FMV
+suas [seu] <poss 3S> <si> DET F P @>N
+filhas [filha] <Hfam> N F P @<ACC
+
+</CAPTION>
+<CAPTION ID=36>
+uma [um] <arti> DET F S @>N
+mulher [mulher] <Hbio> <Hfam> <Hattr> N F S @NPHR
+e [e] KC @CO
+duas [dois] <card> NUM F P @>N
+crianças [criança] <H> N F P @NPHR
+
+</CAPTION>
+<CAPTION ID=379>
+mulher [mulher] <Hbio> <Hfam> <Hattr> N F S @SUBJ>
+abraça [abraçar] <fmc> <vt> V PR 3S IND VFIN @FMV
+duas [dois] <card> NUM F P @>N
+garotinhas [garoto] <DERS> N F P @<ACC
+.
+
+</CAPTION>
+<CAPTION ID=398>
+mãe [mãe] <Hfam> N F S @NPHR
+e [e] KC @CO
+suas [seu] <poss 3S> DET F P @>N
+duas [dois] <card> NUM F P @>N
+filhas [filha] <Hfam> N F P @NPHR
+
+</CAPTION>
+<CAPTION ID=4021>
+mulher [mulher] <Hbio> <Hfam> <Hattr> N F S @NPHR
+e [e] KC @CO
+crianças [criança] <H> N F P @NPHR
+
+</CAPTION>
+<CAPTION ID=4023>
+moça [moça] <Hbio> <Hprof> N F S @NPHR
+com [com] PRP @N<
+crianças [criança] <H> N F P @P<
+no colo [no=colo] <aloc> ADV @N<PRED
+
+</CAPTION>
+<CAPTION ID=4024>
+uma [um] <arti> DET F S @>N
+mulher [mulher] <Hbio> <Hfam> <Hattr> N F S @NPHR
+com [com] PRP @N<
+duas [dois] <card> NUM F P @>N
+meninas [menina] <Hbio> N F P @P<
+.
+
+</CAPTION>
+<CAPTION ID=4025>
+mãe [mãe] <Hfam> N F S @NPHR
+com [com] PRP @N<
+filhas [filha] <Hfam> N F P @P<
+
+</CAPTION>
+<CAPTION ID=4026>
+mulher [mulher] <Hbio> <Hfam> <Hattr> N F S @NPHR
+com [com] PRP @N<
+filhas [filha] <Hfam> N F P @P<
+.
+
+</CAPTION>
+<CAPTION ID=4027>
+mãe [mãe] <Hfam> N F S @NPHR
+com [com] PRP @N<
+filhas [filha] <Hfam> N F P @P<
+
+</CAPTION>
+<CAPTION ID=4028>
+infância [infância] <per> N F S @NPHR
+destruída [destruir] <vt> V PCP F S @N<
+
+</CAPTION>
+<CAPTION ID=4030>
+mulher [mulher] <Hbio> <Hfam> <Hattr> N F S @NPHR
+e [e] KC @CO
+duas [dois] <card> NUM F P @>N
+crianças [criança] <H> N F P @NPHR
+tristes [triste] ADJ F P @N<
+
+</CAPTION>
+<CAPTION ID=4032>
+uma [um] <arti> DET F S @>N
+moça [moça] <Hbio> <Hprof> N F S @NPHR
+e [e] KC @CO
+duas [dois] <card> NUM F P @>N
+crianças [criança] <H> N F P @NPHR
+
+</CAPTION>
+<CAPTION ID=405>
+mãe [mãe] <Hfam> N F S @NPHR
+e [e] KC @CO
+suas [seu] <poss 3S> DET F P @>N
+filhas [filha] <Hfam> N F P @NPHR
+.
+
+</CAPTION>
+<CAPTION ID=430>
+mulher [mulher] <Hbio> <Hfam> <Hattr> N F S @NPHR
+e [e] KC @CO
+duas [dois] <card> NUM F P @>N
+meninas [menina] <Hbio> N F P @NPHR
+no colo [no=colo] <aloc> ADV @ADVL
+
+</CAPTION>
+<CAPTION ID=495>
+mulher [mulher] <Hbio> <Hfam> <Hattr> N F S @NPHR
+e [e] KC @CO
+duas [dois] <card> NUM F P @>N
+crianças [criança] <H> N F P @NPHR
+.
+
+</CAPTION>
+<CAPTION ID=5031>
+uma [um] <arti> DET F S @>N
+mãe [mãe] <Hfam> N F S @NPHR
+e [e] KC @CO
+suas [seu] <poss 3S> DET F P @>N
+filhas [filha] <Hfam> N F P @NPHR
+
+</CAPTION>
+<CAPTION ID=5032>
+mãe [mãe] <Hfam> N F S @NPHR
+e [e] KC @CO
+crianças [criança] <H> N F P @NPHR
+
+</CAPTION>
+<CAPTION ID=5033>
+mãe [mãe] <Hfam> N F S @NPHR
+e [e] KC @CO
+crianças [criança] <H> N F P @NPHR
+sentados [sentado] ADJ M P @N<
+juntos [juntar] <vt> V PCP M P @N<
+
+</CAPTION>
+<CAPTION ID=5034>
+mãe [mãe] <Hfam> N F S @NPHR
+sentada [sentar] V PCP F S @N<
+a [a] <sam-> PRP @<ADVL
+o [o] <-sam> <artd> DET M S @>N
+sol [sol] <Lstar> <ac-sign> <percep-l> <cm> N M S @P<
+com [com] PRP @N<
+filhas [filha] <Hfam> N F P @P<
+
+</CAPTION>
+<CAPTION ID=5035>
+tristeza [tristeza] <percep-f> N F S @NPHR
+
+</CAPTION>
+<CAPTION ID=5036>
+mulher [mulher] <Hbio> <Hfam> <Hattr> N F S @SUBJ>
+abraçando [abraçar] <vt> V GER @IMV
+duas [dois] <card> NUM F P @>N
+meninas [menina] <Hbio> N F P @<ACC
+
+</CAPTION>
+<CAPTION ID=521>
+a [o] <artd> DET F S @>N
+mulher [mulher] <Hbio> <Hfam> <Hattr> N F S @NPHR
+e [e] KC @CO
+as [o] <artd> DET F P @>N
+meninas [menina] <Hbio> N F P @NPHR
+
+</CAPTION>
+<CAPTION ID=58>
+mãe [mãe] <Hfam> N F S @NPHR
+com [com] PRP @N<
+duas [dois] <card> NUM F P @>N
+filhas [filha] <Hfam> N F P @P<
+
+</CAPTION>
+<CAPTION ID=684>
+crianças [criança] <H> N F P @SUBJ>
+choram [chorar] <fmc> <vt> V PR 3P IND VFIN @FMV
+em [em] <sam-> PRP @<ADVL
+um [um] <-sam> <arti> DET M S @>N
+terreno [terreno] <L> <Ltop> N M S @P<
+
+</CAPTION>
+<CAPTION ID=687>
+moça [moça] <Hbio> <Hprof> N F S @NPHR
+sentada [sentar] V PCP F S @N<
+com [com] PRP @N<
+duas [dois] <card> NUM F P @>N
+meninas [menina] <Hbio> N F P @P<
+
+</CAPTION>
+<CAPTION ID=76>
+mãe [mãe] <Hfam> N F S @NPHR
+e [e] KC @CO
+seus [seu] <poss 3S> DET M P @>N
+filhos [filho] <Hfam> N M P @NPHR
+
+</CAPTION>
+<CAPTION ID=771>
+mãe [mãe] <Hfam> N F S @NPHR
+e [e] KC @CO
+filhas [filha] <Hfam> N F P @NPHR
+em [em] <sam-> PRP @N<
+a [o] <-sam> <artd> DET F S @>N
+rua [rua] N F S @P<
+
+</CAPTION>
+<CAPTION ID=772>
+mãe [mãe] <Hfam> N F S @NPHR
+e [e] KC @CO
+filhas [filha] <Hfam> N F P @NPHR
+com [com] PRP @N<
+os [o] <artd> DET M P @>N
+brinquedos [brinquedo] <cc> N M P @P<
+
+</CAPTION>
+<CAPTION ID=781>
+infância [infância] <per> N F S @NPHR
+infeliz [infeliz] ADJ F S @N<
+
+</CAPTION>
+<CAPTION ID=783>
+crianças [criança] <H> N F P @NPHR
+após [após] PRP @N<
+brincar [brincar] <vi> V INF @IMV @#ICL-P<
+
+</CAPTION>
+<CAPTION ID=788>
+desolamento [desolamento] <percep-f> N M S @NPHR
+
+</CAPTION>
+<CAPTION ID=790>
+uma [um] <arti> DET F S @>N
+mãe [mãe] <Hfam> N F S @NPHR
+e [e] KC @CO
+duas [dois] <card> NUM F P @>N
+filhas [filha] <Hfam> N F P @NPHR
+
+</CAPTION>
+<CAPTION ID=791>
+mãe [mãe] ADJ M/F S @NPHR
+e [e] KC @CO
+gêmeas [gêmeo] ADJ F P @NPHR
+
+</CAPTION>
+<CAPTION ID=799>
+mulher [mulher] <Hbio> <Hfam> <Hattr> N F S @NPHR
+e [e] KC @CO
+meninas [menina] <Hbio> N F P @NPHR
+sentadas [sentado] ADJ F P @N<
+
+</CAPTION>
+<CAPTION ID=811>
+mãe [mãe] <Hfam> N F S @SUBJ>
+abraça [abraçar] <fmc> <vt> V PR 3S IND VFIN @FMV
+duas [dois] <card> NUM F P @>N
+filhas [filha] <Hfam> N F P @<ACC
+
+</CAPTION>
+<CAPTION ID=820>
+mãe [mãe] <Hfam> N F S @NPHR
+com [com] PRP @N<
+filhas [filha] <Hfam> N F P @P<
+no colo [no=colo] <aloc> ADV @N<PRED
+
+</CAPTION>
+<CAPTION ID=821>
+mulher [mulher] <Hbio> <Hfam> <Hattr> N F S @NPHR
+e [e] KC @CO
+crianças [criança] <H> N F P @NPHR
+tristes [triste] ADJ F P @N<
+!
+¶
+
+</CAPTION>
+<CAPTION ID=823>
+abraço [abraço] <act-d> N M S @NPHR
+
+</CAPTION>
+<CAPTION ID=826>
+a [o] <artd> DET F S @>N
+mulher [mulher] <Hbio> <Hfam> <Hattr> N F S @NPHR
+e [e] KC @CO
+duas [dois] <card> NUM F P @>N
+crianças [criança] <H> N F P @NPHR
+
+</CAPTION>
+<CAPTION ID=827>
+mãe [mãe] <Hfam> N F S @NPHR
+e [e] KC @CO
+filhas [filha] <Hfam> N F P @NPHR
+.
+
+</CAPTION>
+<CAPTION ID=828>
+crianças [criança] <H> N F P @SUBJ>
+chorando [chorar] <vt> V GER @IMV
+
+</CAPTION>
+<CAPTION ID=829>
+mãe [mãe] <Hfam> N F S @NPHR
+e [e] KC @CO
+suas [seu] <poss 3S> DET F P @>N
+filhas [filha] <Hfam> N F P @NPHR
+
+</CAPTION>
+<CAPTION ID=83>
+mulher [mulher] <Hbio> <Hfam> <Hattr> N F S @NPHR
+e [e] KC @CO
+crianças [criança] <H> N F P @NPHR
+
+</CAPTION>
+<CAPTION ID=830>
+mãe [mãe] <Hfam> N F S @NPHR
+e [e] KC @CO
+filha [filha] <Hfam> N F S @NPHR
+desabrigadas [desabrigado] ADJ F P @N<
+
+</CAPTION>
+<CAPTION ID=834>
+juntos [juntar] <vt> V PCP M P @NPHR
+
+</CAPTION>
+<CAPTION ID=835>
+a [o] <artd> DET F S @>N
+infância [infância] <per> N F S @NPHR
+
+</CAPTION>
+<CAPTION ID=836>
+mãe [mãe] <Hfam> N F S @NPHR
+e [e] KC @CO
+filhas [filha] <Hfam> N F P @NPHR
+
+</CAPTION>
+<CAPTION ID=837>
+mãe [mãe] <Hfam> N F S @NPHR
+com [com] PRP @N<
+suas [seu] <poss 3S> DET F P @>N
+filhas [filha] <Hfam> N F P @P<
+
+</CAPTION>
+<CAPTION ID=838>
+meninas [menina] <Hbio> N F P @NPHR
+tristes [triste] ADJ F P @N<
+.
+
+</CAPTION>
+<CAPTION ID=839>
+mãe [mãe] <Hfam> N F S @NPHR
+e [e] KC @CO
+filhas [filha] <Hfam> N F P @NPHR
+
+</CAPTION>
+<CAPTION ID=840>
+duas [dois] <card> NUM F P @>N
+crianças [criança] <H> N F P @NPHR
+e [e] KC @CO
+sua [seu] <poss 3S> DET F S @>N
+mãe [mãe] <Hfam> N F S @NPHR
+
+</CAPTION>
+<CAPTION ID=842>
+mãe [mãe] <Hfam> N F S @SUBJ>
+acalmando [acalmar] <vt> V GER @IMV
+filhas [filha] <Hfam> N F P @<ACC
+.
+
+</CAPTION>
+<CAPTION ID=844>
+brinquedos [brinquedo] <cc> N M P @NPHR
+e [e] KC @CO
+família [família] <HH> N F S @NPHR
+triste [triste] ADJ F S @N<
+.
+
+</CAPTION>
+<CAPTION ID=850>
+mãe [mãe] <Hfam> N F S @NPHR
+e [e] KC @CO
+duas [dois] <card> NUM F P @>N
+crianças [criança] <H> N F P @NPHR
+despejadas [despejar] <vt> V PCP F P @N<
+
+</CAPTION>
+<CAPTION ID=854>
+família [família] <HH> N F S @NPHR
+unida [unir] <vt> V PCP F S @IMV @#ICL-N<
+por [por] <sam-> PRP @<PASS
+a [o] <-sam> <artd> DET F S @>N
+dor [dor] <percep-f> N F S @P<
+
+</CAPTION>
+<CAPTION ID=855>
+família [família] <HH> N F S @NPHR
+de [de] PRP @N<
+moças [moça] <Hbio> <Hprof> N F P @P<
+
+</CAPTION>
+<CAPTION ID=856>
+mãe [mãe] <Hfam> N F S @NPHR
+e [e] KC @CO
+filhas [filha] <Hfam> N F P @NPHR
+sentadas [sentar] V PCP F P @IMV @#ICL-N<
+em [em] <sam-> PRP @<ADVL
+a [o] <-sam> <artd> DET F S @>N
+rua [rua] N F S @P<
+
+</CAPTION>
+<CAPTION ID=858>
+mãe [mãe] <Hfam> N F S @NPHR
+e [e] KC @CO
+duas [dois] <card> NUM F P @>N
+filhas [filha] <Hfam> N F P @NPHR
+
+</CAPTION>
+<CAPTION ID=859>
+reconforto [reconforto] <am> <act> N M S @NPHR
+de [de] PRP @N<
+uma [um] <card> NUM F S @>N
+abraço [abraço] <act-d> N M S @P<
+
+</CAPTION>
+<CAPTION ID=861>
+mulher [mulher] <Hbio> <Hfam> <Hattr> N F S @NPHR
+com [com] PRP @N<
+crianças [criança] <H> N F P @P<
+
+</CAPTION>
+<CAPTION ID=862>
+crianças [criança] <H> N F P @NPHR
+tristes [triste] ADJ F P @N<
+.
+
+</CAPTION>
+<CAPTION ID=863>
+mãe [mãe] <Hfam> N F S @NPHR
+com [com] PRP @N<
+filhas [filha] <Hfam> N F P @P<
+a [a] <sam-> PRP @ADVL
+o [o] <-sam> <artd> DET M S @>N
+colo [colo] <Ltop> N M S @P<
+.
+
+</CAPTION>
+<CAPTION ID=864>
+foto [foto] <pict> N F S @NPHR
+de [de] PRP @N<
+família [família] <HH> N F S @P<
+.
+
+</CAPTION>
+<CAPTION ID=868>
+onde [onde] <interr> <aloc> ADV @ADVS>
+está [estar] <fmc> V PR 3S IND VFIN @FMV
+os [o] <artd> DET M P @>N
+meus [meu] <poss 1S> DET M P @>N
+amigos [amigo] <Hfam> N M P @<PRED
+?
+
+</CAPTION>
+<CAPTION ID=870>
+Abraço [Abraço] N M S @NPHR
+em [em] PRP @ADVL
+família [família] <HH> N F S @P<
+.
+
+</CAPTION>
+<CAPTION ID=875>
+mãe [mãe] <Hfam> N F S @NPHR
+e [e] KC @CO
+filhos [filho] <Hfam> N M P @NPHR
+.
+
+</CAPTION>
+<CAPTION ID=876>
+mulher [mulher] <Hbio> <Hfam> <Hattr> N F S @NPHR
+com [com] PRP @N<
+duas [dois] <card> NUM F P @>N
+crianças [criança] <H> N F P @P<
+
+</CAPTION>
+<CAPTION ID=878>
+mulher [mulher] <Hbio> <Hfam> <Hattr> N F S @NPHR
+,
+crianças [criança] <H> N F P @NPHR
+e [e] KC @CO
+brinquedos [brinquedo] <cc> N M P @NPHR
+
+</CAPTION>
+<CAPTION ID=879>
+3 [3] <card> NUM F P @>N
+garotas [garoto] <Hbio> N F P @NPHR
+
+</CAPTION>
+<CAPTION ID=880>
+a [o] <artd> DET F S @>N
+mulher [mulher] <Hbio> <Hfam> <Hattr> N F S @NPHR
+e [e] KC @CO
+duas [dois] <card> NUM F P @>N
+meninas [menina] <Hbio> N F P @NPHR
+.
+
+</CAPTION>
+<CAPTION ID=881>
+mãe [mãe] <Hfam> N F S @NPHR
+e [e] KC @CO
+filhas [filha] <Hfam> N F P @NPHR
+
+</CAPTION>
+<CAPTION ID=882>
+crianças [criança] <H> N F P @NPHR
+no colo [no=colo] <aloc> ADV @ADVL
+de [de] <sam-> PRP @ADVL
+a [o] <-sam> <artd> DET F S @>N
+mãe [mãe] <Hfam> N F S @P<
+
+</CAPTION>
+<CAPTION ID=883>
+a [o] <artd> DET F S @>N
+mãe [mãe] <Hfam> N F S @NPHR
+e [e] KC @CO
+duas [dois] <card> NUM F P @>N
+crianças [criança] <H> N F P @NPHR
+.
+
+</CAPTION>
+<CAPTION ID=885>
+família [família] <HH> N F S @NPHR
+sobre [sobre] PRP @N<
+brinquedos [brinquedo] <cc> N M P @P<
+
+</CAPTION>
+<CAPTION ID=886>
+mulher [mulher] <Hbio> <Hfam> <Hattr> N F S @NPHR
+com [com] PRP @N<
+duas [dois] <card> NUM F P @>N
+crianças [criança] <H> N F P @P<
+
+</CAPTION>
+<CAPTION ID=888>
+uma [um] <arti> DET F S @>N
+mulher [mulher] <Hbio> <Hfam> <Hattr> N F S @NPHR
+e [e] KC @CO
+duas [dois] <card> NUM F P @>N
+meninas [menina] <Hbio> N F P @NPHR
+
+</CAPTION>
+<CAPTION ID=889>
+mãe [mãe] <Hfam> N F S @NPHR
+duas [dois] <card> NUM F P @>N
+crianças [criança] <H> N F P @NPHR
+
+</CAPTION>
+<CAPTION ID=890>
+mãe [mãe] <Hfam> N F S @NPHR
+e [e] KC @CO
+dois [dois] <card> NUM M P @>N
+filhos [filho] <Hfam> N M P @NPHR
+
+</CAPTION>
+<CAPTION ID=891>
+mulher [mulher] <Hbio> <Hfam> <Hattr> N F S @NPHR
+com [com] PRP @N<
+filhas [filha] <Hfam> N F P @P<
+em [em] <sam-> PRP @N<PRED
+o [o] <-sam> <artd> DET M S @>N
+parque [parque] <Lh> <BB> <furn> N M S @P<
+
+</CAPTION>
+<CAPTION ID=892>
+duas [dois] <card> NUM F P @>N
+meninas [menina] <Hbio> N F P @NPHR
+e [e] KC @CO
+uma [um] <arti> DET F S @>N
+mulher [mulher] <Hbio> <Hfam> <Hattr> N F S @NPHR
+
+</CAPTION>
+<CAPTION ID=893>
+mulher [mulher] <Hbio> <Hfam> <Hattr> N F S @SUBJ>
+abraça [abraçar] <fmc> <vt> V PR 3S IND VFIN @FMV
+duas [dois] <card> NUM F P @>N
+meninas [menina] <Hbio> N F P @<ACC
+
+</CAPTION>
+<CAPTION ID=903>
+brincando [brincar] V GER @IMV @#ICL-ADVL
+com [com] PRP @<PIV
+as [o] <artd> DET F P @>N
+crianças [criança] <H> N F P @P<
+
+</CAPTION>
+<CAPTION ID=904>
+família [família] <HH> N F S @NPHR
+sem [sem] PRP @N<
+um [um] <arti> DET M S @>N
+lar [lar] <Lh> N M S @P<
+...
+
+</CAPTION>
+<CAPTION ID=907>
+família [família] <HH> N F S @NPHR
+
+</CAPTION>
+<CAPTION ID=908>
+família [família] <HH> N F S @NPHR
+
+</CAPTION>
+<CAPTION ID=909>
+mãe [mãe] <Hfam> N F S @NPHR
+e [e] KC @CO
+suas [seu] <poss 3S> DET F P @>N
+filhas [filha] <Hfam> N F P @NPHR
+
+</CAPTION>
+<CAPTION ID=910>
+desoladas [desolar] <vt> V PCP F P @NPHR
+
+</CAPTION>
+<CAPTION ID=911>
+cuidados [cuidado] <am> <act-d> <ac> N M P @NPHR
+de [de] PRP @N<
+mãe [mãe] <Hfam> N F S @P<
+
+</CAPTION>
+<CAPTION ID=914>
+mãe [mãe] <Hfam> N F S @NPHR
+e [e] KC @CO
+filhas [filha] <Hfam> N F P @NPHR
+
+</CAPTION>
+<CAPTION ID=915>
+amor [amor] <am> <H> <ac> N M S @NPHR
+de [de] PRP @N<
+mãe [mãe] <Hfam> N F S @P<
+
+</CAPTION>
+<CAPTION ID=916>
+mãe [mãe] <Hfam> N F S @SUBJ>
+protegendo [proteger] <vt> V GER @IMV
+filhas [filha] <Hfam> N F P @<ACC
+
+</CAPTION>
+<CAPTION ID=917>
+sonho [sonho] <sem-w> N M S @NPHR
+a [a] PRP @N<
+três [três] <card> NUM M/F P @P<
+.
+
+</CAPTION>
+<CAPTION ID=918>
+momento [momento] <dur> <f-q> N M S @NPHR
+em [em] PRP @N<
+família [família] <HH> N F S @P<
+
+</CAPTION>
+<CAPTION ID=922>
+fenômenos [fenômeno] <ac> N M P @NPHR
+
+</CAPTION>
+<CAPTION ID=934>
+mãe [mãe] <Hfam> N F S @NPHR
+protetora [protetor] ADJ F S @N<
+
+</CAPTION>
+<CAPTION ID=935>
+moça [moça] <Hbio> <Hprof> N F S @SUBJ>
+e [e] KC @CO
+suas [suar] <fmc> <vt> V PR 2S IND VFIN @FMV
+meninas [menina] <Hbio> N F P @<ACC
+.
+
+</CAPTION>
+<CAPTION ID=94>
+mulher [mulher] <Hbio> <Hfam> <Hattr> N F S @NPHR
+sentada [sentar] V PCP F S @N<
+com [com] PRP @N<
+crianças [criança] <H> N F P @P<
+
+</CAPTION>
+<CAPTION ID=945>
+família [família] <HH> N F S @NPHR
+
+</CAPTION>
+<CAPTION ID=946>
+família [família] <HH> N F S @NPHR
+sem [sem] PRP @N<
+lar [lar] <Lh> N M S @P<
+
+</CAPTION>
+<CAPTION ID=947>
+abraçadas [abraçar] <n> <vt> V PCP F P @NPHR
+em [em] <sam-> PRP @N<
+o [o] <-sam> <artd> DET M S @>N
+quintal [quintal] <BB> N M S @P<
+de [de] PRP @N<
+casa [casa] <build> N F S @P<
+
+</CAPTION>
+<CAPTION ID=951>
+a [o] <artd> DET F S @>N
+mulher [mulher] <Hbio> <Hfam> <Hattr> N F S @NPHR
+e [e] KC @CO
+as [o] <artd> DET F P @>N
+meninas [menina] <Hbio> N F P @NPHR
+
+</CAPTION>
+<CAPTION ID=982>
+a [o] <artd> DET F S @>N
+família [família] <HH> N F S @NPHR
+
+</CAPTION>
+<CAPTION ID=991>
+família [família] <HH> N F S @NPHR
+reunida [reunir] <vt> V PCP F S @N<
+
+</CAPTION>

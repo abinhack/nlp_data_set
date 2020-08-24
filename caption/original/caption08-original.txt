@@ -1,0 +1,151 @@
+1040, A cerca.
+1052, Um cara atrás de uma madeira
+1054, Arame farpado
+1055, Homem na cerca.
+1058, Cerca com arame farpado
+1059, desejo
+1143, Estreia mundial
+1144, Prisão
+1165, Homem negro na cerca
+144, Homem observa através de cerca
+19, escravidão
+20, o homem
+2032, Olhar
+2033, Trabalhador
+2035, Cercado
+2037, Refugiado
+2038, dois adultos exposto ao sol
+2039, Rapaz atrás da cerca.
+2043, Olhar sem esperança
+21, Trabalhador
+22, Olhando além das cercas
+2226, Homem olhando pela cerca.
+2327, Um homem atrás da cerca.
+2330, Homem atrás da cerca
+2331, Visão do senhor além da cerca
+2332, Esperança
+2335, Olhar Pensativo
+2338, olhar de esperança
+2340, O homem negro na cerca
+2444, Separando mundos
+25, senhor na grade
+2528, homem
+270, negro olhando para o horizonte
+28, homem na cerca
+282, homem observa na fronteira
+2838, Desigualdade
+2840, Homem negro atrás da cerca
+2841, Homem negro atrás de cerca
+3022, Homem olhando a cerca
+3023, Para além dos muros de arame
+31, Sem liberdade
+32, o homem
+3228, Homem apoiado à cerca
+3232, excluído
+3233, Homem observa atrás da cerca.
+33, olhar
+3321, Homem próximo a uma cerca
+356, detido observa o outro lado
+36, Homem olhando através da cerca
+379, Homem observando.
+398, Moço atrás da cerca
+4021, Homem atrás da cerca
+4023, Homem na cerca
+4024, Um homem atrás de uma cerca.
+4025, Homem observando pela cerca
+4026, Homem na cerca.
+4027, homem atrás de cerca
+4028, Observando por trás da cerca
+4030, Homem olha através da cerca
+4032, Um homem olhando sobre a cerca
+405, Homem e a cerca.
+430, Homem olhando pela cerca
+495, Homem Negro
+5031, Um homem atrás de uma cerca
+5032, A cerca
+5033, Homem negro na cerca
+5034, Homem olha por trás da cerca
+5035, Trabalhador
+5036, Homem olhando através da cerca
+521, O negro atrás da cerca
+58, Um homem atrás de uma cerca
+684, Homem olha através da cerca
+687, Homem atrás da cerca
+76, Homem negro
+771, Homem negro olhando pela cerca
+772, homem olhando através da cerca
+781, Cercado
+783, Homem encarcerado
+788, Homem atrás da cerca
+790, Homem negro atrás da cerca
+791, homem na cerca
+799, Homem e arame
+811, Homem olha por trás da cerca
+820, Homem olhando através da cerca
+821, A divisão de terra!
+823, Atrás da cerca
+826, A cerca
+827, Impedido mas observando.
+828, Homem preso atrás da cerca
+829, Homem e o arame
+83, Homem e cerca
+830, negro aprisionado
+834, olhar
+835, tristeza
+836, O homem observando.
+837, homem segurando uma madeira
+838, Homem negro na cerca.
+839, O homem e a cerca
+840, homem atrás da cerca
+842, O homem segurando a tábua.
+844, Afrodescendente atrás da cerca
+850, Homem olhando pelo cercado
+854, Um olhar desconfiado
+855, hum homem por traz da cerca
+856, Um homem apoiado na cerca
+858, homem preso
+859, O trabalho de um povo
+861, homem atrás da cerca
+862, Homem negro.
+863, Homem por três de cerca.
+864, Homem na cerca.
+868, Preferência ou descaso?
+870, Desconfiança.
+875, A cerca
+876, Rosto atrás da cerca
+878, Homem atrás da cerca
+879, Olhando a cerca
+880, Um negro atrás dos arames.
+881, Cerca
+882, Homem negro atrás de cerca
+883, O homem e a cerca.
+885, Homem moreno na cerca
+886, Homem atrás de uma cerca
+888, Um homem e a barreira
+889, Homem negro arame
+890, Homem e cerca
+891, homem olhando através de cerca
+892, Um homem negro
+893, Negro no muro de arame farpado
+903, Atrás da cerca
+904, Olhar fixado
+907, homem esperando
+908, cerca
+909, O olhar do homem
+910, Fronteira
+911, Olhar concentrado
+914, Cerca
+915, Um olhar perdido
+916, Homem negro
+917, Negritude nossa.
+918, Homem na cerca
+922, Expectativa africana
+934, Homem na cerca
+935, Senhor próximo de cerca
+94, Homem, madeira e arame.
+945, Homem olhando através da cerca
+946, Por trás da cerca
+947, Trabalhador Negro
+951, O homem e a cerca
+982, O homem
+991, Negro observando

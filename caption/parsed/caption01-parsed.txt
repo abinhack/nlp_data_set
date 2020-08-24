@@ -1,0 +1,1131 @@
+<CAPTION ID=1040>
+crianças [criança] <H> N F P @NPHR
+em [em] <sam-> PRP @N<
+o [o] <-sam> <artd> DET M S @>N
+ferro [ferro] <mat> <tool> N M S @P<
+velho [velho] ADJ M S @N<
+.
+
+</CAPTION>
+<CAPTION ID=1052>
+menina [menina] <Hbio> N F S @NPHR
+e [e] KC @CO
+menino [menino] <Hbio> N M S @NPHR
+em [em] <sam-> PRP @N<
+a [o] <-sam> <artd> DET F S @>N
+estrada [estrada] N F S @P<
+
+</CAPTION>
+<CAPTION ID=1054>
+crianças [criança] <H> N F P @NPHR
+em [em] <sam-> PRP @N<
+a [o] <-sam> <artd> DET F S @>N
+beira [beira] <Labs> <Ltop> N F S @P<
+de [de] <sam-> PRP @N<
+a [o] <-sam> <artd> DET F S @>N
+estrada [estrada] N F S @P<
+
+</CAPTION>
+<CAPTION ID=1055>
+crianças [criança] <H> N F P @NPHR
+em [em] <sam-> PRP @N<
+a [o] <-sam> <artd> DET F S @>N
+beira [beira] <Labs> <Ltop> N F S @P<
+de [de] <sam-> PRP @N<
+a [o] <-sam> <artd> DET F S @>N
+rua [rua] <Lpath> N F S @P<
+.
+
+</CAPTION>
+<CAPTION ID=1058>
+simplicidade [simplicidade] <am> N F S @NPHR
+em [em] PRP @N<
+meio [meio] <Labs> <tool> N M S @P<
+a [a] PRP @N<
+entulho [entulho] <cm> N M S @P<
+
+</CAPTION>
+<CAPTION ID=1059>
+crianças [criança] <H> N F P @NPHR
+em [em] PRP @N<
+área [área] <L> <Lh> N F S @P<
+de [de] PRP @N<
+risco [risco] <ac> <ac-sign> N M S @P<
+
+</CAPTION>
+<CAPTION ID=1143>
+duas [dois] <card> NUM F P @>N
+crianças [criança] <H> N F P @NPHR
+pobres [pobre] ADJ F P @N<
+
+</CAPTION>
+<CAPTION ID=1144>
+filhos [filho] <Hfam> N M P @NPHR
+de [de] <sam-> PRP @N<
+a [o] <-sam> <artd> DET F S @>N
+guerra [guerra] <occ> <per> <act-d> N F S @P<
+
+</CAPTION>
+<CAPTION ID=1165>
+duas [dois] <card> NUM F P @>N
+crianças [criança] <H> N F P @NPHR
+em [em] <sam-> PRP @N<
+o [o] <-sam> <artd> DET M S @>N
+campo [campo] <BB> <Ltop> <Labs> <Lh> <L> <Lciv> N M S @P<
+e [e] KC @CO
+uma [um] <card> NUM F S @NPHR
+e [e] KC @CO
+
+</CAPTION>
+<CAPTION ID=144>
+duas [dois] <card> NUM F P @>N
+crianças [criança] <H> N F P @NPHR
+em [em] PRP @N<
+uma [um] <arti> DET F S @>N
+estrada [estrada] N F S @P<
+
+</CAPTION>
+<CAPTION ID=19>
+guerra [guerra] <occ> <per> <act-d> N F S @NPHR
+
+</CAPTION>
+<CAPTION ID=20>
+crianças [criança] <H> N F P @NPHR
+em [em] <sam-> PRP @N<
+o [o] <-sam> <artd> DET M S @>N
+depósito [depósito] <mon> <Lh> <con> <process> <cm> <inst> N M S @P<
+
+</CAPTION>
+<CAPTION ID=2032>
+crianças [criança] <H> N F P @SUBJ>
+caminhando [caminhar] <vi> V GER @IMV
+
+</CAPTION>
+<CAPTION ID=2033>
+desigualdade [desigualdade] <am> N F S @NPHR
+
+</CAPTION>
+<CAPTION ID=2035>
+crianças [criança] <H> N F P @NPHR
+em [em] <sam-> PRP @N<
+a [o] <-sam> <artd> DET F S @>N
+estrada [estrada] N F S @P<
+
+</CAPTION>
+<CAPTION ID=2037>
+estrada [estrada] <Lpath> N F S @NPHR
+com [com] PRP @N<
+entulhos [entulho] <cm> N M P @P<
+
+</CAPTION>
+<CAPTION ID=2038>
+terreno [terreno] <L> <Ltop> N M S @NPHR
+abandonado [abandonado] ADJ M S @N<
+
+</CAPTION>
+<CAPTION ID=2039>
+crianças [criança] <H> N F P @NPHR
+em [em] <sam-> PRP @N<
+a [o] <-sam> <artd> DET F S @>N
+estrada [estrada] <Lpath> N F S @P<
+.
+
+</CAPTION>
+<CAPTION ID=2043>
+em [em] PRP @ADVL
+meio [meio] <Labs> <tool> N M S @P<
+a [a] <sam-> PRP @N<
+a [o] <-sam> <artd> DET F S @>N
+guerra [guerra] <occ> <per> <act-d> N F S @P<
+
+</CAPTION>
+<CAPTION ID=21>
+crianças [criança] <H> N F P @NPHR
+tristes [triste] <prop> ADJ F P @N<
+
+</CAPTION>
+<CAPTION ID=22>
+crianças [criança] <H> N F P @NPHR
+em [em] <sam-> PRP @N<
+a [o] <-sam> <artd> DET F S @>N
+beira [beira] <Labs> <Ltop> N F S @P<
+de [de] <sam-> PRP @N<
+a [o] <-sam> <artd> DET F S @>N
+estrada [estrada] N F S @P<
+
+</CAPTION>
+<CAPTION ID=2226>
+crianças [criança] <H> N F P @NPHR
+em [em] <sam-> PRP @N<
+a [o] <-sam> <artd> DET F S @>N
+estrada [estrada] <Lpath> N F S @P<
+.
+
+</CAPTION>
+<CAPTION ID=2327>
+crianças [criança] <H> N F P @NPHR
+em [em] <sam-> PRP @N<
+o [o] <-sam> <artd> DET M S @>N
+campo [campo] <BB> <Ltop> <Labs> <Lh> <L> <Lciv> N M S @P<
+e [e] KC @CO
+escombros [escombros] <coll-cc> N M P @NPHR
+.
+
+</CAPTION>
+<CAPTION ID=2330>
+moradores [morador] <Hattr> N M P @NPHR
+de [de] PRP @N<
+rua [rua] <Lpath> N F S @P<
+
+</CAPTION>
+<CAPTION ID=2331>
+casal [casal] <HH> N M S @NPHR
+de [de] PRP @N<
+filhos [filho] <Hfam> N M P @P<
+em [em] <sam-> PRP @N<
+o [o] <-sam> <artd> DET M S @>N
+lixão [lixão] <Lh> N M S @P<
+
+</CAPTION>
+<CAPTION ID=2332>
+irmãos [irmão] <Hfam> N M P @NPHR
+abandonados [abandonado] ADJ M P @N<
+
+</CAPTION>
+<CAPTION ID=2335>
+dois [dois] <card> NUM M P @>N
+irmãos [irmão] <Hfam> N M P @NPHR
+em [em] <sam-> PRP @N<
+a [o] <-sam> <artd> DET F S @>N
+roça [roça] <BB> N F S @P<
+
+</CAPTION>
+<CAPTION ID=2338>
+pobreza [pobreza] <am> N F S @NPHR
+
+</CAPTION>
+<CAPTION ID=2340>
+crianças [criança] <H> N F P @NPHR
+próximas [próximo] ADJ F P @N<
+a [a] <sam-> PRP @A<
+os [o] <-sam> <artd> DET M P @>N
+arames [arame] N M P @P<
+
+</CAPTION>
+<CAPTION ID=2444>
+crianças [criança] <H> N F P @NPHR
+à beira de [à=beira=de] <sam-> PRP @N<
+a [o] <artd> <-sam> DET F S @>N
+estrada [estrada] N F S @P<
+
+</CAPTION>
+<CAPTION ID=25>
+crianças [criança] <H> N F P @NPHR
+em [em] <sam-> PRP @N<
+os [o] <artd> <-sam> DET M P @>N
+escombros [escombros] <coll-cc> N M P @P<
+
+</CAPTION>
+<CAPTION ID=2528>
+guerra [guerra] <occ> <per> <act-d> N F S @NPHR
+
+</CAPTION>
+<CAPTION ID=270>
+crianças [criança] <H> N F P @NPHR
+em [em] <sam-> PRP @N<
+o [o] <-sam> <artd> DET M S @>N
+entulho [entulho] <cm> N M S @P<
+
+</CAPTION>
+<CAPTION ID=28>
+campo [campo] <BB> <Ltop> <Labs> <Lh> <L> <Lciv> N M S @NPHR
+de [de] PRP @N<
+guerra [guerra] <occ> <per> <act-d> N F S @P<
+
+</CAPTION>
+<CAPTION ID=282>
+crianças [criança] <H> N F P @NPHR
+em [em] <sam-> PRP @N<
+uma [um] <-sam> <arti> DET F S @>N
+estrada [estrada] <Lpath> N F S @P<
+de [de] PRP @N<
+terra [terra] <cm> <Ltop> <BB> <Lstar> N F S @P<
+
+</CAPTION>
+<CAPTION ID=2838>
+cenário [cenário] <sit> N M S @NPHR
+humilde [humilde] ADJ M S @N<
+
+</CAPTION>
+<CAPTION ID=2840>
+crianças [criança] <H> N F P @NPHR
+em [em] PRP @N<
+um [um] <arti> DET M S @>N
+local [local] <Lh> N M S @P<
+desolado [desolado] ADJ M S @N<
+
+</CAPTION>
+<CAPTION ID=2841>
+crianças [criança] <H> N F P @NPHR
+perto de [perto=de] PRP @N<
+entulho [entulho] <cm> N M S @P<
+
+</CAPTION>
+<CAPTION ID=3022>
+duas [dois] <card> NUM F P @>N
+crianças [criança] <H> N F P @NPHR
+em [em] <sam-> PRP @N<
+a [o] <-sam> <artd> DET F S @>N
+estrada [estrada] N F S @P<
+
+</CAPTION>
+<CAPTION ID=3023>
+infância [infância] <per> N F S @NPHR
+precária [precário] ADJ F S @N<
+
+</CAPTION>
+<CAPTION ID=31>
+crianças [criança] <H> N F P @NPHR
+em [em] <sam-> PRP @N<
+a [o] <-sam> <artd> DET F S @>N
+guerra [guerra] <occ> <per> <act-d> N F S @P<
+
+</CAPTION>
+<CAPTION ID=32>
+duas [dois] <card> NUM F P @>N
+crianças [criança] <H> N F P @NPHR
+
+</CAPTION>
+<CAPTION ID=3228>
+crianças [criança] <H> N F P @NPHR
+e [e] KC @CO
+uma [um] <arti> DET F S @>N
+cerca [cerca] <part-build> N F S @NPHR
+destruída [destruir] <vt> V PCP F S @N<
+
+</CAPTION>
+<CAPTION ID=3232>
+crianças [criança] <H> N F P @NPHR
+no meio de [no=meio=de] <sam-> PRP @N<
+a [o] <artd> <-sam> DET F S @>N
+guerra [guerra] <occ> <per> <act-d> N F S @P<
+
+</CAPTION>
+<CAPTION ID=3233>
+crianças [criança] <H> N F P @NPHR
+em [em] <sam-> PRP @N<
+o [o] <-sam> <artd> DET M S @>N
+local [local] <Lh> N M S @P<
+de [de] PRP @N<
+entulhos [entulho] <cm> N M P @P<
+.
+
+</CAPTION>
+<CAPTION ID=33>
+crianças [criança] <H> N F P @NPHR
+de [de] <sam-> PRP @N<
+o [o] <-sam> <artd> DET M S @>N
+interior [interior] <Ltop> N M S @P<
+.
+
+</CAPTION>
+<CAPTION ID=3321>
+menina [menina] <Hbio> N F S @NPHR
+e [e] KC @CO
+menino [menino] <Hbio> N M S @NPHR
+
+</CAPTION>
+<CAPTION ID=356>
+crianças [criança] <H> N F P @NPHR
+em [em] <sam-> PRP @N<
+um [um] <-sam> <arti> DET M S @>N
+depósito [depósito] <mon> <Lh> <con> <process> <cm> <inst> N M S @P<
+de [de] PRP @N<
+lixo [lixo] <cm-h> N M S @P<
+
+</CAPTION>
+<CAPTION ID=36>
+um [um] <arti> DET M S @>N
+menino [menino] <Hbio> N M S @NPHR
+e [e] KC @CO
+menina [menina] <Hbio> N F S @NPHR
+em [em] <sam-> PRP @N<
+a [o] <-sam> <artd> DET F S @>N
+estrada [estrada] N F S @P<
+
+</CAPTION>
+<CAPTION ID=379>
+crianças [criança] <H> N F P @NPHR
+em [em] PRP @N<
+local [local] <Lh> N M S @P<
+insalubre [insalubre] ADJ M S @N<
+.
+
+</CAPTION>
+<CAPTION ID=398>
+duas [dois] <card> NUM F P @>N
+pessoas [pessoa] <H> N F P @NPHR
+em [em] <sam-> PRP @N<
+um [um] <-sam> <arti> DET M S @>N
+lugar [lugar] <L> <Labs> N M S @P<
+sujo [sujo] ADJ M S @N<
+
+</CAPTION>
+<CAPTION ID=4021>
+crianças [criança] <H> N F P @NPHR
+e [e] KC @CO
+arame farpado [arame=farpado] N M S @NPHR
+
+</CAPTION>
+<CAPTION ID=4023>
+crianças [criança] <H> N F P @NPHR
+em [em] PRP @N<
+estrada [estrada] <Lpath> N F S @P<
+de [de] PRP @N<
+terra [terra] <cm> <Ltop> <BB> <Lstar> N F S @P<
+
+</CAPTION>
+<CAPTION ID=4024>
+crianças [criança] <H> N F P @NPHR
+em [em] <sam-> PRP @N<
+o [o] <-sam> <artd> DET M S @>N
+entulho [entulho] <cm> N M S @P<
+.
+
+</CAPTION>
+<CAPTION ID=4025>
+irmãos [irmão] <Hfam> N M P @NPHR
+ao lado de [ao=lado=de] PRP @N<
+uma [um] <card> NUM F S @P<
+cerca [cerca] <aloc> ADV @ADVL
+
+</CAPTION>
+<CAPTION ID=4026>
+foto [foto] <pict> N F S @NPHR
+de [de] PRP @N<
+irmã [irmã] <Hfam> N F S @P<
+e [e] <co-prparg> KC @CO
+irmão [irmão] <Hfam> N M S @P<
+em [em] <sam-> PRP @ADVL
+o [o] <-sam> <artd> DET M S @>N
+sítio [sítio] <Ltop> <per> <Lh> N M S @P<
+.
+
+</CAPTION>
+<CAPTION ID=4027>
+pessoas [pessoa] <H> N F P @NPHR
+em [em] <sam-> PRP @N<
+a [o] <-sam> <artd> DET F S @>N
+beira [beira] <Labs> <Ltop> N F S @P<
+de [de] <sam-> PRP @N<
+a [o] <-sam> <artd> DET F S @>N
+estrada [estrada] N F S @P<
+
+</CAPTION>
+<CAPTION ID=4028>
+entulhos [entulho] <cm> N M P @NPHR
+à beira de [à=beira=de] <sam-> PRP @N<
+a [o] <artd> <-sam> DET F S @>N
+estrada [estrada] N F S @P<
+
+</CAPTION>
+<CAPTION ID=4030>
+duas [dois] <card> NUM F P @>N
+crianças [criança] <H> N F P @NPHR
+em [em] PRP @N<
+uma [um] <arti> DET F S @>N
+estrada [estrada] <Lpath> N F S @P<
+.
+
+</CAPTION>
+<CAPTION ID=4032>
+crianças [criança] <H> N F P @NPHR
+em [em] <sam-> PRP @N<
+a [o] <-sam> <artd> DET F S @>N
+estrada [estrada] <Lpath> N F S @P<
+de [de] PRP @N<
+terra [terra] <cm> <Ltop> <BB> <Lstar> N F S @P<
+
+</CAPTION>
+<CAPTION ID=405>
+duas [dois] <card> NUM F P @>N
+crianças [criança] <H> N F P @NPHR
+em [em] <sam-> PRP @N<
+a [o] <-sam> <artd> DET F S @>N
+estrada [estrada] <Lpath> N F S @P<
+.
+
+</CAPTION>
+<CAPTION ID=430>
+mulher [mulher] <Hbio> <Hfam> <Hattr> N F S @NPHR
+e [e] KC @CO
+menino [menino] <Hbio> N M S @NPHR
+em [em] <sam-> PRP @N<
+a [o] <-sam> <artd> DET F S @>N
+estrada [estrada] N F S @P<
+
+</CAPTION>
+<CAPTION ID=495>
+duas [dois] <card> NUM F P @>N
+crianças [criança] <H> N F P @NPHR
+.
+
+</CAPTION>
+<CAPTION ID=5031>
+duas [dois] <card> NUM F P @>N
+crianças [criança] <H> N F P @NPHR
+em [em] PRP @N<
+uma [um] <arti> DET F S @>N
+estrada [estrada] N F S @P<
+
+</CAPTION>
+<CAPTION ID=5032>
+crianças [criança] <H> N F P @NPHR
+ao lado de [ao=lado=de] <sam-> PRP @N<
+a [o] <artd> <-sam> DET F S @>N
+cerca [cerca] <aloc> ADV @ADVL
+
+</CAPTION>
+<CAPTION ID=5033>
+casal [casal] <HH> N M S @NPHR
+de [de] PRP @N<
+irmãos [irmão] <Hfam> N M P @P<
+em [em] PRP @N<
+uma [um] <arti> DET F S @>N
+estrada [estrada] N F S @P<
+
+</CAPTION>
+<CAPTION ID=5034>
+duas [dois] <card> NUM F P @>N
+crianças [criança] <H> N F P @NPHR
+em [em] PRP @N<
+uma [um] <arti> DET F S @>N
+estrada [estrada] N F S @P<
+
+</CAPTION>
+<CAPTION ID=5035>
+uma [um] <arti> DET F S @>N
+vida [vida] <per> N F S @NPHR
+difícil [difícil] ADJ F S @N<
+
+</CAPTION>
+<CAPTION ID=5036>
+crianças [criança] <H> N F P @NPHR
+em [em] <sam-> PRP @N<
+a [o] <-sam> <artd> DET F S @>N
+estrada [estrada] <Lpath> N F S @P<
+de [de] PRP @N<
+barro [barro] <mat> N M S @P<
+
+</CAPTION>
+<CAPTION ID=521>
+um [um] <arti> DET M S @>N
+casal [casal] <HH> N M S @NPHR
+de [de] PRP @N<
+irmãos [irmão] <Hfam> N M P @P<
+
+</CAPTION>
+<CAPTION ID=58>
+crianças [criança] <H> N F P @NPHR
+em [em] <sam-> PRP @N<
+um [um] <-sam> <arti> DET M S @>N
+lugar [lugar] <L> <Labs> N M S @P<
+pobre [pobre] ADJ M S @N<
+
+</CAPTION>
+<CAPTION ID=684>
+pessoas [pessoa] <H> N F P @SUBJ>
+olhando [olhar] V GER @IMV
+para [para] PRP @<PIV
+a [o] <artd> DET F S @>N
+câmera [câmera] <tool> N F S @P<
+
+</CAPTION>
+<CAPTION ID=687>
+duas [dois] <card> NUM F P @>N
+crianças [criança] <H> N F P @NPHR
+em [em] <sam-> PRP @N<
+a [o] <-sam> <artd> DET F S @>N
+zona [zona] <L> <sick> N F S @P<
+rural [rural] ADJ F S @N<
+
+</CAPTION>
+<CAPTION ID=76>
+crianças [criança] <H> N F P @NPHR
+em [em] <sam-> PRP @N<
+a [o] <-sam> <artd> DET F S @>N
+rua [rua] N F S @P<
+
+</CAPTION>
+<CAPTION ID=771>
+crianças [criança] <H> N F P @NPHR
+em [em] <sam-> PRP @N<
+a [o] <-sam> <artd> DET F S @>N
+estrada [estrada] <Lpath> N F S @P<
+de [de] PRP @N<
+terra [terra] <cm> <Ltop> <BB> <Lstar> N F S @P<
+
+</CAPTION>
+<CAPTION ID=772>
+crianças [criança] <H> N F P @NPHR
+em [em] PRP @N<
+meio [meio] <Labs> <tool> N M S @P<
+a [a] <sam-> PRP @N<
+o [o] <-sam> <artd> DET M S @>N
+lixo [lixo] <cm-h> N M S @P<
+
+</CAPTION>
+<CAPTION ID=781>
+crianças [criança] <H> N F P @NPHR
+em [em] <sam-> PRP @N<
+a [o] <-sam> <artd> DET F S @>N
+estrada [estrada] <Lpath> N F S @P<
+de [de] PRP @N<
+terra [terra] <cm> <Ltop> <BB> <Lstar> N F S @P<
+
+</CAPTION>
+<CAPTION ID=783>
+crianças [criança] <H> N F P @NPHR
+ao lado de [ao=lado=de] PRP @N<
+entulho [entulho] <cm> N M S @P<
+
+</CAPTION>
+<CAPTION ID=788>
+irmãos [irmão] <Hfam> N M P @NPHR
+e [e] KC @CO
+materiais [material] <mat> <mat-cloth> <cc-r> <cm> N M P @NPHR
+metálicos [metálico] ADJ M P @N<
+
+</CAPTION>
+<CAPTION ID=790>
+irmãos [irmão] <Hfam> N M P @NPHR
+em [em] <sam-> PRP @N<
+a [o] <-sam> <artd> DET F S @>N
+miséria [miséria] <sit> N F S @P<
+plena [pleno] ADJ F S @N<
+
+</CAPTION>
+<CAPTION ID=791>
+crianças [criança] <H> N F P @NPHR
+em [em] <sam-> PRP @N<
+a [o] <-sam> <artd> DET F S @>N
+estrada [estrada] <Lpath> N F S @P<
+
+</CAPTION>
+<CAPTION ID=799>
+crianças [criança] <H> N F P @SUBJ>
+e [e] KC @CO
+cerca [cercar] <fmc> <vt> V PR 3S IND VFIN @FMV
+destruída [destruir] V PCP F S @<ACC
+
+</CAPTION>
+<CAPTION ID=811>
+2 [2] <card> NUM F P @>N
+crianças [criança] <H> N F P @NPHR
+de [de] <sam-> PRP @N<
+o [o] <-sam> <artd> DET M S @>N
+lado [lado] <Labs> N M S @P<
+de [de] PRP @N<
+sucata [sucata] <cm> N F S @P<
+
+</CAPTION>
+<CAPTION ID=820>
+crianças [criança] <H> N F P @NPHR
+em [em] PRP @N<
+situação [situação] <sit> N F S @P<
+de [de] PRP @N<
+risco [risco] <ac> <ac-sign> N M S @P<
+
+</CAPTION>
+<CAPTION ID=821>
+crianças [criança] <H> N F P @NPHR
+em [em] PRP @N<
+cenário [cenário] <sit> N M S @P<
+pós [pós] PRP @N<
+guerra [guerra] N F S @P<
+
+</CAPTION>
+<CAPTION ID=823>
+crianças [criança] <H> N F P @NPHR
+em [em] <sam-> PRP @N<
+o [o] <-sam> <artd> DET M S @>N
+lugar [lugar] <L> <Labs> N M S @P<
+errado [errado] ADJ M S @N<
+
+</CAPTION>
+<CAPTION ID=826>
+duas [dois] <card> NUM F P @>N
+crianças [criança] <H> N F P @NPHR
+em [em] <sam-> PRP @N<
+os [o] <artd> <-sam> DET M P @>N
+entulhos [entulho] <cm> N M P @P<
+.
+
+</CAPTION>
+<CAPTION ID=827>
+menina [menina] <Hbio> N F S @NPHR
+e [e] KC @CO
+menino [menino] <Hbio> N M S @NPHR
+juntos [juntar] <vt> V PCP M P @N<
+.
+
+</CAPTION>
+<CAPTION ID=828>
+2 [2] <card> NUM F P @>N
+crianças [criança] <H> N F P @NPHR
+em [em] PRP @N<
+estrada [estrada] <Lpath> N F S @P<
+de [de] PRP @N<
+terra [terra] <cm> <Ltop> <BB> <Lstar> N F S @P<
+
+</CAPTION>
+<CAPTION ID=829>
+crianças [criança] <H> N F P @NPHR
+ao lado de [ao=lado=de] <sam-> PRP @N<
+a [o] <artd> <-sam> DET F S @>N
+guerra [guerra] <occ> <per> <act-d> N F S @P<
+
+</CAPTION>
+<CAPTION ID=83>
+duas [dois] <card> NUM F P @>N
+crianças [criança] <H> N F P @NPHR
+em [em] PRP @N<
+uma [um] <arti> DET F S @>N
+estrada [estrada] <Lpath> N F S @P<
+.
+
+</CAPTION>
+<CAPTION ID=830>
+crianças [criança] <H> N F P @NPHR
+em [em] PRP @N<
+local [local] <Lh> N M S @P<
+abandonado [abandonado] ADJ M S @N<
+
+</CAPTION>
+<CAPTION ID=834>
+tristeza [tristeza] <percep-f> N F S @NPHR
+.
+
+</CAPTION>
+<CAPTION ID=835>
+a [o] <artd> DET F S @>N
+miséria [miséria] <sit> N F S @NPHR
+
+</CAPTION>
+<CAPTION ID=836>
+crianças [criança] <H> N F P @NPHR
+a [o] <artd> DET F S @>N
+beira [beira] <Labs> <Ltop> N F S @NPHR
+de [de] <sam-> PRP @N<
+a [o] <-sam> <artd> DET F S @>N
+estrada [estrada] N F S @P<
+
+</CAPTION>
+<CAPTION ID=837>
+duas [dois] <card> NUM F P @>N
+crianças [criança] <H> N F P @NPHR
+em [em] PRP @N<
+uma [um] <arti> DET F S @>N
+estrada [estrada] N F S @P<
+
+</CAPTION>
+<CAPTION ID=838>
+crianças [criança] <H> N F P @NPHR
+em [em] <sam-> PRP @N<
+a [o] <-sam> <artd> DET F S @>N
+estrada [estrada] <Lpath> N F S @P<
+de [de] PRP @N<
+terra [terra] <cm> <Ltop> <BB> <Lstar> N F S @P<
+.
+
+</CAPTION>
+<CAPTION ID=839>
+crianças [criança] <H> N F P @NPHR
+e [e] KC @CO
+a [o] <artd> DET F S @>N
+guerra [guerra] <prop> <occ> <per> <act-d> N F S @NPHR
+em [em] <sam-> PRP @N<
+a [o] <-sam> <artd> DET F S @>N
+Síria [Síria] <civ> PROP F S @P<
+
+</CAPTION>
+<CAPTION ID=840>
+crianças [criança] <H> N F P @NPHR
+em [em] <sam-> PRP @N<
+uma [um] <-sam> <arti> DET F S @>N
+estrada [estrada] <Lpath> N F S @P<
+de [de] PRP @N<
+terra [terra] <cm> <Ltop> <BB> <Lstar> N F S @P<
+
+</CAPTION>
+<CAPTION ID=842>
+crianças [criança] <H> N F P @NPHR
+perto de [perto=de] PRP @N<
+lixo [lixo] <cm-h> N M S @P<
+.
+
+</CAPTION>
+<CAPTION ID=844>
+pobreza [pobreza] <am> N F S @NPHR
+em [em] PRP @N<
+zonas [zona] <L> <sick> N F P @P<
+rurais [rural] ADJ F P @N<
+.
+
+</CAPTION>
+<CAPTION ID=850>
+ambiente [ambiente] <Labs> <sit> N M S @NPHR
+pouco [pouco] <quant> ADV @>A
+poluído [poluir] <vt> V PCP M S @N<
+
+</CAPTION>
+<CAPTION ID=854>
+irmãos [irmão] <Hfam> N M P @NPHR
+unidos [unir] <vt> V PCP M P @IMV @#ICL-N<
+em [em] <sam-> PRP @<ADVL
+a [o] <-sam> <artd> DET F S @>N
+tristeza [tristeza] <percep-f> N F S @P<
+
+</CAPTION>
+<CAPTION ID=855>
+2 [2] <card> NUM F P @>N
+crianças [criança] <H> N F P @NPHR
+em [em] <sam-> PRP @N<
+o [o] <-sam> <artd> DET M S @>N
+lixão [lixão] <Lh> N M S @P<
+
+</CAPTION>
+<CAPTION ID=856>
+jovens [jovem] <n> ADJ M/F P @NPHR
+em [em] <sam-> PRP @N<
+uma [um] <-sam> <arti> DET F S @>N
+estrada [estrada] <Lpath> N F S @P<
+com [com] PRP @N<
+lixo [lixo] <cm-h> N M S @P<
+
+</CAPTION>
+<CAPTION ID=858>
+a [o] <artd> DET F S @>N
+família [família] <HH> N F S @NPHR
+desconfiada [desconfiado] ADJ F S @N<
+
+</CAPTION>
+<CAPTION ID=859>
+duas [dois] <card> NUM F P @>N
+crianças [criança] <H> N F P @NPHR
+em [em] <sam-> PRP @N<
+a [o] <-sam> <artd> DET F S @>N
+rua [rua] <Lpath> N F S @P<
+de [de] PRP @N<
+terra [terra] <cm> <Ltop> <BB> <Lstar> N F S @P<
+
+</CAPTION>
+<CAPTION ID=861>
+crianças [criança] <H> N F P @NPHR
+e [e] KC @CO
+escombros [escombros] <coll-cc> N M P @NPHR
+
+</CAPTION>
+<CAPTION ID=862>
+duas [dois] <card> NUM F P @>N
+crianças [criança] <H> N F P @NPHR
+carentes [carente] ADJ F P @N<
+.
+
+</CAPTION>
+<CAPTION ID=863>
+crianças [criança] <H> N F P @NPHR
+em [em] PRP @N<
+uma [um] <arti> DET F S @>N
+estradinha [estrada] <DERS> N F S @P<
+.
+
+</CAPTION>
+<CAPTION ID=864>
+crianças [criança] <H> N F P @NPHR
+de [de] <sam-> PRP @N<
+o [o] <-sam> <artd> DET M S @>N
+interior [interior] <Ltop> N M S @P<
+.
+
+</CAPTION>
+<CAPTION ID=868>
+crianças [criança] <H> N F P @NPHR
+
+</CAPTION>
+<CAPTION ID=870>
+crianças [criança] <H> N F P @NPHR
+e [e] KC @CO
+a [o] <artd> DET F S @>N
+sujeira [sujeira] <cm> <sit> <act-d> <act-s> N F S @NPHR
+.
+
+</CAPTION>
+<CAPTION ID=875>
+crianças [criança] <H> N F P @NPHR
+pobres [pobre] ADJ F P @N<
+em [em] <sam-> PRP @N<
+a [o] <-sam> <artd> DET F S @>N
+estrada [estrada] N F S @P<
+
+</CAPTION>
+<CAPTION ID=876>
+duas [dois] <card> NUM F P @>N
+crianças [criança] <H> N F P @NPHR
+
+</CAPTION>
+<CAPTION ID=878>
+crianças [criança] <H> N F P @NPHR
+ao lado de [ao=lado=de] <sam-> PRP @N<
+o [o] <artd> <-sam> DET M S @>N
+entulho [entulho] <cm> N M S @P<
+.
+
+</CAPTION>
+<CAPTION ID=879>
+duas [dois] <card> NUM F P @>N
+crianças [criança] <H> N F P @NPHR
+tristes [triste] ADJ F P @N<
+
+</CAPTION>
+<CAPTION ID=880>
+duas [dois] <card> NUM F P @>N
+crianças [criança] <H> N F P @NPHR
+e [e] KC @CO
+a [o] <artd> DET F S @>N
+pobreza [pobreza] <am> N F S @NPHR
+.
+
+</CAPTION>
+<CAPTION ID=881>
+crianças [criança] <H> N F P @NPHR
+infelizes [infeliz] ADJ F P @N<
+
+</CAPTION>
+<CAPTION ID=882>
+duas [dois] <card> NUM F P @>N
+crianças [criança] <H> N F P @NPHR
+perto de [perto=de] PRP @N<
+entulho [entulho] <cm> N M S @P<
+
+</CAPTION>
+<CAPTION ID=883>
+duas [dois] <card> NUM F P @>N
+crianças [criança] <H> N F P @NPHR
+.
+
+</CAPTION>
+<CAPTION ID=885>
+crianças [criança] <H> N F P @NPHR
+em [em] <sam-> PRP @N<
+a [o] <-sam> <artd> DET F S @>N
+beira [beira] <Labs> <Ltop> N F S @P<
+de [de] <sam-> PRP @N<
+a [o] <-sam> <artd> DET F S @>N
+estrada [estrada] N F S @P<
+
+</CAPTION>
+<CAPTION ID=886>
+depósito [depósito] <mon> <Lh> <con> <process> <cm> <inst> N M S @NPHR
+irregular [irregular] ADJ M S @N<
+de [de] PRP @N<
+entulhos [entulho] <cm> N M P @P<
+
+</CAPTION>
+<CAPTION ID=888>
+duas [dois] <card> NUM F P @>N
+crianças [criança] <H> N F P @NPHR
+em [em] PRP @N<
+uma [um] <arti> DET F S @>N
+estrada [estrada] N F S @P<
+
+</CAPTION>
+<CAPTION ID=889>
+duas [dois] <card> NUM F P @>N
+crianças [criança] <H> N F P @NPHR
+tristes [triste] ADJ F P @N<
+
+</CAPTION>
+<CAPTION ID=890>
+duas [dois] <card> NUM F P @>N
+crianças [criança] <H> N F P @NPHR
+em [em] PRP @N<
+um [um] <card> NUM M S @>N
+lugar [lugar] <L> <Labs> N M S @P<
+sujo [sujo] ADJ M S @N<
+
+</CAPTION>
+<CAPTION ID=891>
+casal [casal] <HH> N M S @NPHR
+de [de] PRP @N<
+jovens [jovem] <n> ADJ M/F P @P<
+em [em] PRP @N< @ADVL
+um [um] <arti> DET M S @>N
+lixão [lixão] <Lh> N M S @P<
+
+</CAPTION>
+<CAPTION ID=892>
+crianças [criança] <H> N F P @NPHR
+tristes [triste] ADJ F P @N<
+
+</CAPTION>
+<CAPTION ID=893>
+menina [menina] <Hbio> N F S @NPHR
+e [e] KC @CO
+garoto [garoto] <Hbio> N M S @NPHR
+com [com] PRP @N<
+ferragens [ferragem] <cm> N F P @P<
+
+</CAPTION>
+<CAPTION ID=903>
+o [o] <artd> DET M S @>N
+passeio [passeio] <act-d> <Lpath> N M S @NPHR
+de [de] <sam-> PRP @N<
+os [o] <-sam> <artd> DET M P @>N
+irmãos [irmão] <Hfam> N M P @P<
+
+</CAPTION>
+<CAPTION ID=904>
+sertão [sertão] <Ltop> N M S @NPHR
+...
+
+</CAPTION>
+<CAPTION ID=907>
+tristeza [tristeza] <percep-f> N F S @NPHR
+
+</CAPTION>
+<CAPTION ID=908>
+refugiados [refugiado] <H> N M P @NPHR
+
+</CAPTION>
+<CAPTION ID=909>
+crianças [criança] <H> N F P @NPHR
+em [em] PRP @N<
+um [um] <arti> DET M S @>N
+terreno [terreno] <L> <Ltop> N M S @P<
+
+</CAPTION>
+<CAPTION ID=910>
+crianças [criança] <H> N F P @NPHR
+em [em] <sam-> PRP @N<
+o [o] <-sam> <artd> DET M S @>N
+interior [interior] <Ltop> N M S @P<
+.
+
+</CAPTION>
+<CAPTION ID=911>
+crianças [criança] <H> N F P @NPHR
+à beira de [à=beira=de] <sam-> PRP @N<
+a [o] <artd> <-sam> DET F S @>N
+estrada [estrada] N F S @P<
+
+</CAPTION>
+<CAPTION ID=914>
+crianças [criança] <H> N F P @NPHR
+em [em] <sam-> PRP @N<
+o [o] <-sam> <artd> DET M S @>N
+terreno [terreno] <L> <Ltop> N M S @P<
+abandonado [abandonado] ADJ M S @N<
+
+</CAPTION>
+<CAPTION ID=915>
+lembranças [lembrança] <ac> <cc> N F P @NPHR
+
+</CAPTION>
+<CAPTION ID=916>
+irmãos [irmão] <Hfam> N M P @NPHR
+em [em] <sam-> PRP @N<
+o [o] <-sam> <artd> DET M S @>N
+lixão [lixão] <Lh> N M S @P<
+
+</CAPTION>
+<CAPTION ID=917>
+a [o] <artd> DET F S @>N
+falta [falta] <f-c> <sit> <event> N F S @NPHR
+torrencial [torrencial] ADJ F S @N<
+.
+
+</CAPTION>
+<CAPTION ID=918>
+2 [2] <card> NUM F P @>N
+crianças [criança] <H> N F P @NPHR
+em [em] <sam-> PRP @N<
+a [o] <-sam> <artd> DET F S @>N
+cerca [cerca] <part-build> N F S @P<
+destruída [destruir] <vt> V PCP F S @N<
+.
+
+</CAPTION>
+<CAPTION ID=922>
+poluição [poluição] <activity> <act> N F S @NPHR
+ambiente [ambiente] ADJ F S @N<
+rural [rural] ADJ F S @N<
+
+</CAPTION>
+<CAPTION ID=934>
+crianças [criança] <H> N F P @NPHR
+de [de] PRP @N<
+rua [rua] N F S @P<
+
+</CAPTION>
+<CAPTION ID=935>
+duas [dois] <card> NUM F P @>N
+crianças [criança] <H> N F P @NPHR
+e [e] KC @CO
+destroços [destroço] <cc> <event> N M P @NPHR
+.
+
+</CAPTION>
+<CAPTION ID=94>
+menina [menina] <Hbio> N F S @NPHR
+e [e] KC @CO
+menino [menino] <Hbio> N M S @NPHR
+parados [parado] ADJ M P @N<
+
+</CAPTION>
+<CAPTION ID=945>
+duas [dois] <card> NUM F P @>N
+crianças [criança] <H> N F P @NPHR
+em [em] PRP @N<
+uma [um] <arti> DET F S @>N
+estrada [estrada] <Lpath> N F S @P<
+
+</CAPTION>
+<CAPTION ID=946>
+duas [dois] <card> NUM F P @>N
+crianças [criança] <H> N F P @NPHR
+em [em] <sam-> PRP @N<
+uma [um] <-sam> <arti> DET F S @>N
+rua [rua] N F S @P<
+
+</CAPTION>
+<CAPTION ID=947>
+crianças [criança] <H> N F P @NPHR
+à beira de [à=beira=de] <sam-> PRP @N<
+a [o] <artd> <-sam> DET F S @>N
+estrada [estrada] <Lpath> N F S @P<
+.
+
+</CAPTION>
+<CAPTION ID=951>
+a [o] <artd> DET F S @>N
+menina [menina] <Hbio> N F S @NPHR
+e [e] KC @CO
+o [o] <artd> DET M S @>N
+menino [menino] <Hbio> N M S @NPHR
+em [em] <sam-> PRP @N<
+a [o] <-sam> <artd> DET F S @>N
+estrada [estrada] N F S @P<
+
+</CAPTION>
+<CAPTION ID=982>
+a [o] <artd> DET F S @>N
+família [família] <HH> N F S @NPHR
+
+</CAPTION>
+<CAPTION ID=991>
+os [o] <artd> DET M P @>N
+irmãos [irmão] <Hfam> N M P @NPHR
+pobres [pobre] ADJ M P @N<
+
+</CAPTION>

@@ -1,0 +1,1 @@
+Stimulus images for b5-caption as the same for b5-text. These are available from the /text folder.
