@@ -4,7 +4,7 @@ The b5 corpus of Text and Personality Information v. 1.7.
 R. Ramos, G. Stavracas Neto, B. da Silva, D. Monteiro, V. dos Santos, I. Paraboni, R. Dias
 
 School of Arts, Sciences and Humanities (EACH)
-University of São Paulo (USP)
+University of SÃ£o Paulo (USP)
 
 This work is licensed under a Creative Commons Attribution 4.0 International License, and it is free for reuse.
 
@@ -126,8 +126,8 @@ year={2017}
 
 For further information, please feel free to contact the authors:
 
-Ivandré Paraboni
+IvandrÃ© Paraboni
 ivandre  @  usp . br
 School of Arts, Sciences and Humanities (EACH)
-University of São Paulo (USP)
-São Paulo, Brazil
+University of SÃ£o Paulo (USP)
+SÃ£o Paulo, Brazil
